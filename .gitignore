@@ -1,6 +1,0 @@
-# Ignore virtual env and secrets
-venv/
-.env
-__pycache__/
-*.pyc
-.cache/
