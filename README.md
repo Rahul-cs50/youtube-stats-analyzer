@@ -1,6 +1,6 @@
 # YouTube Stats Analyzer
 
-#### Video Demo: <URL HERE>
+#### Video Demo: <https://youtu.be/Rxje4_00a2M>
 
 ---
 
