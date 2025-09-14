@@ -1,0 +1,3557 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "1sqMQhdEbbFa5GFb35Ha1PQrxdM",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "i9O-oZJFc5OcHo4eJ5TNJ2XNeng",
+      "id": "o7mdsL6BHsk",
+      "snippet": {
+        "publishedAt": "2025-09-10T19:00:49Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "GDM’s Pushmeet Kohli on solving science's biggest challenges with AI",
+        "description": "Pushmeet Kohli, Head of Science and Strategic Initiatives at Google DeepMind, joins host Logan Kilpatrick to explore the intersection of AI and scientific discovery. Learn how the team's unique problem-solving framework led to innovations like AlphaFold and AlphaEvolve, and how new tools like AI Co-scientist aim to democratize these types of breakthroughs for everyone.\n\n0:00 - Intro \n1:04 - Recent Alpha launches \n02:15 - Framework for selecting research domains\n06:21  - Scientific, commercial and social impact\n15:00 - Wielding AGI for breakthroughs\n16:48 - Tech transfer and team collaboration\n19:46  -  IMO Gold Medal\n21:42  - Evaluating math proofs\n22:55 - From specialized models to Deep Think\n24:22 -  Do math skills generalize?\n25:53 - Generalizing the IMO model\n27:43 - Democratizing AI science tools\n30:09 - AI Co-scientist\n35:17 - An API for science?\n\nResources: \nListen to this podcast: \nApple Podcasts → https://goo.gle/3Bm7QzQ \nSpotify → https://goo.gle/3ZL3ADl \n\nWatch more Release Notes → https://goo.gle/4njokfg\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Logan Kilpatrick, Pushmeet Kohli\nProducts Mentioned:  Google AI, Gemini",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/o7mdsL6BHsk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/o7mdsL6BHsk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/o7mdsL6BHsk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/o7mdsL6BHsk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google AI for Developers;",
+          "Purpose: Learn;",
+          "Video Type:Podcast;",
+          "ct: AIG;;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "GDM’s Pushmeet Kohli on solving science's biggest challenges with AI",
+          "description": "Pushmeet Kohli, Head of Science and Strategic Initiatives at Google DeepMind, joins host Logan Kilpatrick to explore the intersection of AI and scientific discovery. Learn how the team's unique problem-solving framework led to innovations like AlphaFold and AlphaEvolve, and how new tools like AI Co-scientist aim to democratize these types of breakthroughs for everyone.\n\n0:00 - Intro \n1:04 - Recent Alpha launches \n02:15 - Framework for selecting research domains\n06:21  - Scientific, commercial and social impact\n15:00 - Wielding AGI for breakthroughs\n16:48 - Tech transfer and team collaboration\n19:46  -  IMO Gold Medal\n21:42  - Evaluating math proofs\n22:55 - From specialized models to Deep Think\n24:22 -  Do math skills generalize?\n25:53 - Generalizing the IMO model\n27:43 - Democratizing AI science tools\n30:09 - AI Co-scientist\n35:17 - An API for science?\n\nResources: \nListen to this podcast: \nApple Podcasts → https://goo.gle/3Bm7QzQ \nSpotify → https://goo.gle/3ZL3ADl \n\nWatch more Release Notes → https://goo.gle/4njokfg\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Logan Kilpatrick, Pushmeet Kohli\nProducts Mentioned:  Google AI, Gemini"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT37M29S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "5619",
+        "likeCount": "190",
+        "favoriteCount": "0",
+        "commentCount": "20"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "s54RuoxZFFLYZonrWS_x1BcAw_I",
+      "id": "-ccwqJu_ASo",
+      "snippet": {
+        "publishedAt": "2025-09-10T16:00:00Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Creative storytelling with AI: The making of Ancestra",
+        "description": "In this episode of People of AI , we take you behind the scenes of \"ANCESTRA,\" a groundbreaking film that integrates generative artificial intelligence into its core. Hear from the director Eliza McNitt and key collaborators from the Google DeepMind team about how they leveraged AI as a new creative tool, navigated its capabilities and limitations, and ultimately shaped a unique cinematic experience. Understand the future role of AI in filmmaking and its potential for developers and storytellers.\n\nChapters:\n0:00 - Introduction to Ancestra: AI in filmmaking\n3:38 - The Origin Story of ANCESTRA\n5:35 - Google DeepMind and Primordial Soup collaboration\n11:47 - Veo and the creative process\n20:21 - Behind the scenes: Making the film\n28:47 - Generating videos: Gemini and Veo tools\n38:11 - AI as a creative tool, not a replacement\n47:41 - AI's impact and the future of the film industry\n53:51 - Generative models: A new kind of camera\n57:46 - Rapid fire & conclusion\n\nResources:\nAncestra → https://goo.gle/4mVScNW \nMaking of ANCESTRA → https://goo.gle/3JVJil1 \nVeo 3 → https://goo.gle/4mWn3Kz \nVeo 3 Documentation → https://goo.gle/46qqFOV \nVeo 3 Cookbook → https://goo.gle/3VMVFSZ \nGoogle Flow → https://goo.gle/3VMVR4F \n\nWatch more People of AI → https://goo.gle/PAI \nSubscribe to Google for Developers → https://goo.gle/developers\n\n#PeopleofAI\n\nSpeaker: Christina Warren, Ashley Oldacre,  Eliza McNitt, Ben Wiley, Kory Matthewson, \nProducts Mentioned: Google AI, Gemini, Veo 2, Veo 3",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-ccwqJu_ASo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-ccwqJu_ASo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-ccwqJu_ASo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-ccwqJu_ASo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-ccwqJu_ASo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google AI for Developers;",
+          "Video Type:Podcast;",
+          "Campaign: ;",
+          "ct: AIG; Please Select",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Creative storytelling with AI: The making of Ancestra",
+          "description": "In this episode of People of AI , we take you behind the scenes of \"ANCESTRA,\" a groundbreaking film that integrates generative artificial intelligence into its core. Hear from the director Eliza McNitt and key collaborators from the Google DeepMind team about how they leveraged AI as a new creative tool, navigated its capabilities and limitations, and ultimately shaped a unique cinematic experience. Understand the future role of AI in filmmaking and its potential for developers and storytellers.\n\nChapters:\n0:00 - Introduction to Ancestra: AI in filmmaking\n3:38 - The Origin Story of ANCESTRA\n5:35 - Google DeepMind and Primordial Soup collaboration\n11:47 - Veo and the creative process\n20:21 - Behind the scenes: Making the film\n28:47 - Generating videos: Gemini and Veo tools\n38:11 - AI as a creative tool, not a replacement\n47:41 - AI's impact and the future of the film industry\n53:51 - Generative models: A new kind of camera\n57:46 - Rapid fire & conclusion\n\nResources:\nAncestra → https://goo.gle/4mVScNW \nMaking of ANCESTRA → https://goo.gle/3JVJil1 \nVeo 3 → https://goo.gle/4mWn3Kz \nVeo 3 Documentation → https://goo.gle/46qqFOV \nVeo 3 Cookbook → https://goo.gle/3VMVFSZ \nGoogle Flow → https://goo.gle/3VMVR4F \n\nWatch more People of AI → https://goo.gle/PAI \nSubscribe to Google for Developers → https://goo.gle/developers\n\n#PeopleofAI\n\nSpeaker: Christina Warren, Ashley Oldacre,  Eliza McNitt, Ben Wiley, Kory Matthewson, \nProducts Mentioned: Google AI, Gemini, Veo 2, Veo 3"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1H1M40S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2453",
+        "likeCount": "79",
+        "favoriteCount": "0",
+        "commentCount": "9"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "tHXxiOoIrnS_p7ZU6QNeAKccgKQ",
+      "id": "L8zkQ-tRu8s",
+      "snippet": {
+        "publishedAt": "2025-09-09T23:00:20Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Introduction to Model Context Protocol (MCP)",
+        "description": "If you’re doing anything with generative AI, you’ve probably heard of MCP. So what is MCP and what is it good for? Check this video to learn more. \n\nResources: \nWatch the full video of MCP and Gemini CLI, click here \n→ https://www.youtube.com/watch?v=IYpt25GHB1U\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nProducts Mentioned: Model Contect Protocol (MCP)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/L8zkQ-tRu8s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/L8zkQ-tRu8s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/L8zkQ-tRu8s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/L8zkQ-tRu8s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/L8zkQ-tRu8s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Learn;",
+          "Campaign: ;",
+          "Video Type:Social First - Educational;",
+          "ct: AIG; ;",
+          "gds:N/A;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Introduction to Model Context Protocol (MCP)",
+          "description": "If you’re doing anything with generative AI, you’ve probably heard of MCP. So what is MCP and what is it good for? Check this video to learn more. \n\nResources: \nWatch the full video of MCP and Gemini CLI, click here \n→ https://www.youtube.com/watch?v=IYpt25GHB1U\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nProducts Mentioned: Model Contect Protocol (MCP)"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1M10S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "11268",
+        "likeCount": "530",
+        "favoriteCount": "0",
+        "commentCount": "8"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "YRGUPSRnkuxqaAqkMRya4x5TAMA",
+      "id": "8GkWFd0Xewo",
+      "snippet": {
+        "publishedAt": "2025-09-08T13:00:25Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "What will this function actually print? Go!",
+        "description": "We have a quick Go challenge. What will this function print? It looks like it will return 2. But it does not. Tell us in the comments what this will actually print. Bonus: tell us how you'd fix it to actually return 2. \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Juan Vasquez",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8GkWFd0Xewo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8GkWFd0Xewo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8GkWFd0Xewo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8GkWFd0Xewo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8GkWFd0Xewo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Learn;",
+          "Video Type:G4D SV: Educational ;",
+          "ct: AIG;;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "What will this function actually print? Go!",
+          "description": "We have a quick Go challenge. What will this function print? It looks like it will return 2. But it does not. Tell us in the comments what this will actually print. Bonus: tell us how you'd fix it to actually return 2. \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Juan Vasquez"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT20S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "4923",
+        "likeCount": "81",
+        "favoriteCount": "0",
+        "commentCount": "20"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Ym_98Z6O2aQ575tSampKTHXfkzk",
+      "id": "UTdfxFyOQTI",
+      "snippet": {
+        "publishedAt": "2025-09-05T23:00:52Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Learn to Build with Gemini Nano-Banana (Gemini 2.5 Flash Image)",
+        "description": "Learn how to build with Nano Banana in this complete developer tutorial. This video provides a comprehensive walkthrough for developers looking to integrate Nano Banana aka Gemini 2.5 Flash Image into their applications.\n\nResources:\nBlog post →https://goo.gle/4pozDUu \nUse Nano Banana in AI Studio → https://goo.gle/4gdLiRK \nJavaScript examples →https://goo.gle/4p5yhhj \nNano Banana Hackathon → https://goo.gle/45XWbCk \n\nTimeline:\n00:00 - Introduction\n00:32 - AI Studio\n01:25 - Project Setup\n03:16 - Image creation\n05:47 - Image editing\n06:58 - Multiple input images\n07:35 - Photo restoration\n08:12 - Conversational image editing\n09:32 - Best practices and effective prompting\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Patrick Lober\nProducts Mentioned: Google AI, Gemma, Gemini",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UTdfxFyOQTI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UTdfxFyOQTI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UTdfxFyOQTI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UTdfxFyOQTI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UTdfxFyOQTI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Learn;",
+          "Video Type:DevByte;",
+          "ct: AIG;",
+          "gds:N/A;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Learn to Build with Gemini Nano-Banana (Gemini 2.5 Flash Image)",
+          "description": "Learn how to build with Nano Banana in this complete developer tutorial. This video provides a comprehensive walkthrough for developers looking to integrate Nano Banana aka Gemini 2.5 Flash Image into their applications.\n\nResources:\nBlog post →https://goo.gle/4pozDUu \nUse Nano Banana in AI Studio → https://goo.gle/4gdLiRK \nJavaScript examples →https://goo.gle/4p5yhhj \nNano Banana Hackathon → https://goo.gle/45XWbCk \n\nTimeline:\n00:00 - Introduction\n00:32 - AI Studio\n01:25 - Project Setup\n03:16 - Image creation\n05:47 - Image editing\n06:58 - Multiple input images\n07:35 - Photo restoration\n08:12 - Conversational image editing\n09:32 - Best practices and effective prompting\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Patrick Lober\nProducts Mentioned: Google AI, Gemma, Gemini"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT10M42S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "79112",
+        "likeCount": "771",
+        "favoriteCount": "0",
+        "commentCount": "27"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "hIJq6o6n4hX21v0Dg1_dhshkdw8",
+      "id": "BZYPZlSIAk4",
+      "snippet": {
+        "publishedAt": "2025-09-04T23:00:17Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Just in from the news desk 📰: Gemma 3 270M",
+        "description": "After the release of Gemma 3 and Gemma 3n, we released Gemma 3 270M - a compact model that’s built for efficiency. See how this compact model is designed for both task-specific fine-tuning and strong instruction-following when building intelligent applications. \n\nResources:\nIntroducing Gemma 3 270M: The compact model for hyper-efficient AI → https://goo.gle/3V1tC1V \n\nWatch more Google Developer News → https://goo.gle/4e8Rysd   \nSubscribe to Google for Developers → https://goo.gle/developers \n\n#GoogleDeveloperNews\n\n\nSpeaker: Christina Warren\nProducts Mentioned:  Gemma",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BZYPZlSIAk4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BZYPZlSIAk4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BZYPZlSIAk4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BZYPZlSIAk4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BZYPZlSIAk4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Influence;",
+          "Campaign: ;",
+          "Video Type:G4D SV: Educational ;",
+          "ct: AIG; ;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Just in from the news desk 📰: Gemma 3 270M",
+          "description": "After the release of Gemma 3 and Gemma 3n, we released Gemma 3 270M - a compact model that’s built for efficiency. See how this compact model is designed for both task-specific fine-tuning and strong instruction-following when building intelligent applications. \n\nResources:\nIntroducing Gemma 3 270M: The compact model for hyper-efficient AI → https://goo.gle/3V1tC1V \n\nWatch more Google Developer News → https://goo.gle/4e8Rysd   \nSubscribe to Google for Developers → https://goo.gle/developers \n\n#GoogleDeveloperNews\n\n\nSpeaker: Christina Warren\nProducts Mentioned:  Gemma"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT58S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "6539",
+        "likeCount": "186",
+        "favoriteCount": "0",
+        "commentCount": "11"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ixWoi94NLCcnQC4WxVCPCxbrKUY",
+      "id": "3UcZSaCXEKc",
+      "snippet": {
+        "publishedAt": "2025-09-04T19:00:05Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "The \"Last Mile\" of Context Window Management in AI Code assistance",
+        "description": "Having the best model, tool, and indexed knowledge of your codebase will only get the \"package\" of AI assisted code within city limits. The task of delivering exactly the right context for the current task is in your hands. With the tips in this video, you'll have concrete examples and practices to manage the context window of your tools effectively to get the most out of your code assistance.\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nProducts Mentioned: Google AI",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3UcZSaCXEKc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3UcZSaCXEKc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3UcZSaCXEKc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3UcZSaCXEKc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3UcZSaCXEKc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Influence;",
+          "Campaign: ;",
+          "Video Type:Social First - Educational;",
+          "ct: AIG; ;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "The \"Last Mile\" of Context Window Management in AI Code assistance",
+          "description": "Having the best model, tool, and indexed knowledge of your codebase will only get the \"package\" of AI assisted code within city limits. The task of delivering exactly the right context for the current task is in your hands. With the tips in this video, you'll have concrete examples and practices to manage the context window of your tools effectively to get the most out of your code assistance.\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nProducts Mentioned: Google AI"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1M18S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3487",
+        "likeCount": "142",
+        "favoriteCount": "0",
+        "commentCount": "4"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "lgr8j4uQJnXFoi2DyUFfrLBLpig",
+      "id": "Xu1X-J-r5Xk",
+      "snippet": {
+        "publishedAt": "2025-09-04T16:02:40Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Introducing EmbeddingGemma: The Best-in-Class Open Model for On-Device Embeddings",
+        "description": "Discover EmbeddingGemma, a state-of-the-art 308 million parameter text embedding model designed to power generative AI experiences directly on your hardware. Ideal for mobile-first Al, EmbeddingGemma brings powerful capabilities to your applications, enabling features like semantic search, information retrieval, and custom classification – all while running efficiently on-device.\n\nIn this video, Alice Lisak and Lucas Gonzalez from the Gemma team introduce EmbeddingGemma and explain how it works. Learn how you can run this model on less than 200MB of RAM with quantization, customize its output dimensions with Matryoshka Representation Learning (MRL), and \nbuild powerful offline Al features.\n\nResources: \nLearn about EmbeddingGemma → https://developers.googleblog.com/en/introducing-embeddinggemma \nEmbeddingGemma documentation → https://ai.google.dev/gemma/docs/embeddinggemma\nGemma Cookbook → https://github.com/google-gemini/gemma-cookbook\nQuickstart RAG notebook → https://github.com/google-gemini/gemma-cookbook/blob/main/Gemma/%5BGemma_3%5DRAG_with_EmbeddingGemma.ipynb \nDiscover Gemma models → https://deepmind.google/models/gemma\n\n\nChapters\n0:00 - Intro\n0:26 - Model overview\n1:18 - Model features\n2:29 - RAG\n2:54 - Website embedding demo\n3:23 - Tools and platforms\n3:41 - Conclusion\n\n\nSubscribe to Google for Developers → https://goo.gle/developers\n\nSpeaker:Alice Lisak Lucas Gonzalez \nProducts Mentioned: Google AI, Gemma,Generative AI",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Xu1X-J-r5Xk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Xu1X-J-r5Xk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Xu1X-J-r5Xk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Xu1X-J-r5Xk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Xu1X-J-r5Xk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Introducing EmbeddingGemma: The Best-in-Class Open Model for On-Device Embeddings",
+          "description": "Discover EmbeddingGemma, a state-of-the-art 308 million parameter text embedding model designed to power generative AI experiences directly on your hardware. Ideal for mobile-first Al, EmbeddingGemma brings powerful capabilities to your applications, enabling features like semantic search, information retrieval, and custom classification – all while running efficiently on-device.\n\nIn this video, Alice Lisak and Lucas Gonzalez from the Gemma team introduce EmbeddingGemma and explain how it works. Learn how you can run this model on less than 200MB of RAM with quantization, customize its output dimensions with Matryoshka Representation Learning (MRL), and \nbuild powerful offline Al features.\n\nResources: \nLearn about EmbeddingGemma → https://developers.googleblog.com/en/introducing-embeddinggemma \nEmbeddingGemma documentation → https://ai.google.dev/gemma/docs/embeddinggemma\nGemma Cookbook → https://github.com/google-gemini/gemma-cookbook\nQuickstart RAG notebook → https://github.com/google-gemini/gemma-cookbook/blob/main/Gemma/%5BGemma_3%5DRAG_with_EmbeddingGemma.ipynb \nDiscover Gemma models → https://deepmind.google/models/gemma\n\n\nChapters\n0:00 - Intro\n0:26 - Model overview\n1:18 - Model features\n2:29 - RAG\n2:54 - Website embedding demo\n3:23 - Tools and platforms\n3:41 - Conclusion\n\n\nSubscribe to Google for Developers → https://goo.gle/developers\n\nSpeaker:Alice Lisak Lucas Gonzalez \nProducts Mentioned: Google AI, Gemma,Generative AI"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT4M13S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "101310",
+        "likeCount": "4265",
+        "favoriteCount": "0",
+        "commentCount": "210"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "F9YUwu0sQyTejrnxtbJCg94Sp0c",
+      "id": "XebqcEaM5XY",
+      "snippet": {
+        "publishedAt": "2025-09-04T04:00:41Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "#GoogleIOConnect China  was a success!",
+        "description": "Huge thanks to the incredible dev community in Shanghai for making #GoogleIOConnect China a success! Your ideas and feedback are helping us build the next generation of tools for developers.\n\nSubscribe to Google for Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XebqcEaM5XY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XebqcEaM5XY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XebqcEaM5XY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XebqcEaM5XY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XebqcEaM5XY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Influence;",
+          "Campaign: ;",
+          "Video Type:G4D SV: I/O ;",
+          "ct: AIG; ;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "#GoogleIOConnect China  was a success!",
+          "description": "Huge thanks to the incredible dev community in Shanghai for making #GoogleIOConnect China a success! Your ideas and feedback are helping us build the next generation of tools for developers.\n\nSubscribe to Google for Developers → https://goo.gle/developers"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT52S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3409",
+        "likeCount": "107",
+        "favoriteCount": "0",
+        "commentCount": "3"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Czd41NLqc423-qnH8BzrDhCMQ48",
+      "id": "MayitpBSogg",
+      "snippet": {
+        "publishedAt": "2025-09-03T16:00:44Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "SMURF? Get the most out of your tests.",
+        "description": "As test suites grow, balancing speed, maintainability, utilization, reliability, and fidelity becomes a challenge. Watch this video to learn the SMURF framework and navigate these tradeoffs to keep tests efficient and reliable. \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Juan Vasquez",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MayitpBSogg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MayitpBSogg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MayitpBSogg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MayitpBSogg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MayitpBSogg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Learn;",
+          "Campaign: ;",
+          "type:G4D SV: Educational ;",
+          "ct: AIG;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "SMURF? Get the most out of your tests.",
+          "description": "As test suites grow, balancing speed, maintainability, utilization, reliability, and fidelity becomes a challenge. Watch this video to learn the SMURF framework and navigate these tradeoffs to keep tests efficient and reliable. \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Juan Vasquez"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1M15S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3880",
+        "likeCount": "126",
+        "favoriteCount": "0",
+        "commentCount": "4"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "x_-7bh0eOyYHbSIWNjMSR7TeuyQ",
+      "id": "V7KlKIk9Uxw",
+      "snippet": {
+        "publishedAt": "2025-09-03T04:00:38Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "How to prototype apps faster",
+        "description": "Getting a good, working prototype with a decent UI can be tedious. How can you speed up this process without compromising the product? See how Google Stitch can help you. \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Itzak Hinojosa\nProducts Mentioned: Google Stitch",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V7KlKIk9Uxw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V7KlKIk9Uxw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V7KlKIk9Uxw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/V7KlKIk9Uxw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/V7KlKIk9Uxw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Learn;",
+          "Campaign: ;",
+          "type:G4D SV: Educational ;",
+          "ct: AIG;;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "How to prototype apps faster",
+          "description": "Getting a good, working prototype with a decent UI can be tedious. How can you speed up this process without compromising the product? See how Google Stitch can help you. \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Itzak Hinojosa\nProducts Mentioned: Google Stitch"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT51S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "6298",
+        "likeCount": "192",
+        "favoriteCount": "0",
+        "commentCount": "4"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "TsOkuuyKP5ddPTnPsNRT78UhpBk",
+      "id": "on53GnHbGw8",
+      "snippet": {
+        "publishedAt": "2025-09-02T23:01:01Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "See what’s possible with Gemini and Gemma.",
+        "description": "From AI shopping assistants to multi-language job training and animated webcomics, these 8 Indian startups are showing what’s possible with Gemini and Gemma. 🎯\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nProducts Mentioned: Gemma, Gemini;",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/on53GnHbGw8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/on53GnHbGw8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/on53GnHbGw8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/on53GnHbGw8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/on53GnHbGw8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Learn;",
+          "Campaign: ;",
+          "Video Type:G4D SV: Educational ;",
+          "ct: AIG;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "See what’s possible with Gemini and Gemma.",
+          "description": "From AI shopping assistants to multi-language job training and animated webcomics, these 8 Indian startups are showing what’s possible with Gemini and Gemma. 🎯\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nProducts Mentioned: Gemma, Gemini;"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3625",
+        "likeCount": "109",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "P9kvu3uqFXf37eoCiXv_R0c2mYc",
+      "id": "JLmswjJSA3w",
+      "snippet": {
+        "publishedAt": "2025-08-29T23:00:20Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Teamwork decoded ✅🚩",
+        "description": "Only knows one language? Messy desk? Loves refactoring? Share your take. \n\nSubscribe to Google for Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JLmswjJSA3w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JLmswjJSA3w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JLmswjJSA3w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JLmswjJSA3w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JLmswjJSA3w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Learn;",
+          "Campaign: ;",
+          "type:G4D SV: I/O ;",
+          "ct: AIG; ;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Teamwork decoded ✅🚩",
+          "description": "Only knows one language? Messy desk? Loves refactoring? Share your take. \n\nSubscribe to Google for Developers → https://goo.gle/developers"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1M18S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "12052",
+        "likeCount": "291",
+        "favoriteCount": "0",
+        "commentCount": "12"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "_NTzXjc9nUkEiT0URTth-bZOKOU",
+      "id": "IYpt25GHB1U",
+      "snippet": {
+        "publishedAt": "2025-08-29T16:00:23Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Power up your LLMs: Gemini CLI and Model Context Protocol (MCP)",
+        "description": "Level up your LLM game with Model Context Protocol (MCP)! Learn how MCP allows your Large Language Models to interact with traditional computer programs, expanding their functionality. This tutorial shows you how to build an MCP server, connect it to Gemini CLI, and use it to retrieve additional information, take actions on your behalf, or even generate videos.\n\nChapters:\n0:00 - What is Model Context Protocol (MCP)?\n0:55 - Building an MCP Server\n2:18 - Connecting Gemini CLI to your MCP Server\n3:21 - Connecting Gemini CLI to Linear using OAuth\n6:55 - Veo 3 MCP Server\n\nSubscribe to Google for Developers → https://goo.gle/developers\n\nGitHub repository for video creation: https://github.com/GoogleCloudPlatform/vertex-ai-creative-studio/tree/main/experiments/mcp-genmedia\n\nSpeaker: Luke Schlangen \nProducts Mentioned: Google AI, Gemini,  Generative AI",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IYpt25GHB1U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IYpt25GHB1U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IYpt25GHB1U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IYpt25GHB1U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IYpt25GHB1U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google AI for Developers;",
+          "Purpose: Learn;",
+          "Video Type:DevByte;",
+          "ct: AIG;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Power up your LLMs: Gemini CLI and Model Context Protocol (MCP)",
+          "description": "Level up your LLM game with Model Context Protocol (MCP)! Learn how MCP allows your Large Language Models to interact with traditional computer programs, expanding their functionality. This tutorial shows you how to build an MCP server, connect it to Gemini CLI, and use it to retrieve additional information, take actions on your behalf, or even generate videos.\n\nChapters:\n0:00 - What is Model Context Protocol (MCP)?\n0:55 - Building an MCP Server\n2:18 - Connecting Gemini CLI to your MCP Server\n3:21 - Connecting Gemini CLI to Linear using OAuth\n6:55 - Veo 3 MCP Server\n\nSubscribe to Google for Developers → https://goo.gle/developers\n\nGitHub repository for video creation: https://github.com/GoogleCloudPlatform/vertex-ai-creative-studio/tree/main/experiments/mcp-genmedia\n\nSpeaker: Luke Schlangen \nProducts Mentioned: Google AI, Gemini,  Generative AI"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT9M3S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "57607",
+        "likeCount": "2079",
+        "favoriteCount": "0",
+        "commentCount": "84"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "HNu5YT-WCv9mlMwfXwBb5UzFKDQ",
+      "id": "H3AVJ6HtNOE",
+      "snippet": {
+        "publishedAt": "2025-08-29T04:00:19Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Task-focused coding agents: The future of software developers",
+        "description": "Focused coding agents can help streamline workflows for developers. However, it’s important to note that deep technical expertise is still needed to use these systems effectively. Watch the full episode to five into task-focused coding agents. \n\nWatch more People of AI → https://goo.gle/PAI \nSubscribe to Google for Developers → https://goo.gle/developers\n\n#PeopleofAI\n\nProducts Mentioned: Google AI",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/H3AVJ6HtNOE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/H3AVJ6HtNOE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/H3AVJ6HtNOE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/H3AVJ6HtNOE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/H3AVJ6HtNOE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google AI for Developers;",
+          "ct: AIG;",
+          "type:Excerpt;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Task-focused coding agents: The future of software developers",
+          "description": "Focused coding agents can help streamline workflows for developers. However, it’s important to note that deep technical expertise is still needed to use these systems effectively. Watch the full episode to five into task-focused coding agents. \n\nWatch more People of AI → https://goo.gle/PAI \nSubscribe to Google for Developers → https://goo.gle/developers\n\n#PeopleofAI\n\nProducts Mentioned: Google AI"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT40S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "5069",
+        "likeCount": "90",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "CQY_DWdNX7uDiMtfYxxcsDolpVU",
+      "id": "bvfTtLzWVPw",
+      "snippet": {
+        "publishedAt": "2025-08-28T23:00:51Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "The evolved developer with Muhammad Farooq",
+        "description": "Meet Muhammad Farooq, a machine learning engineer and a YouTuber on the channel @engineerprompt, where he explains AI concepts and builds his own projects. In this episode of People of AI, hosts Ashley and Christina chat with Muhammad about his journey in tech, his open source project localGPT, and how he's helping organizations deploy scalable AI solutions. \n\nChapters:\n0:00 Intro\n3:15 From Ph.D to YouTube Creator\n4:50 First viral YouTube hit\n8:20 RAG and why it matters\n11:20 The origins of localGPT\n15:20 What has changed with building in the last 2 years\n18:35 How AI tools and models have matured\n19:50 Becoming a technical manager to LLMs\n22:20 What agentic coding has enabled Muhammad to build in localGPT 2.0\n27:45 Better maintaining open source projects by leveraging AI\n28:50 What to watch out for when building with agentic systems\n31:20 Advice for junior developers\n35:40 Differences between how junior devs and senior devs use AI tools\n39:19 Specs-driven development\n41:20 Advice for experimenting with AI tools\n42:50 The problem with overly-agreeable LLMs\n45:10 Why long-context windows are useful for coding\n47:30 Advice for someone launching a tech-focused YouTube channel\n51:40 Rapid Fire Questions\n\nResources:\n@engineerprompt YouTube Channel → https://goo.gle/4m8HCmn \nlocalGPT → https://goo.gle/45qwiuH \nlocalGPT 2.0 - Building the Best Private RAG System → https://goo.gle/4fwvyJb \nMuhammad’s website → https://goo.gle/47aHaj9 \nMuhammad on X → https://goo.gle/4lraJjz \nMeasuring the Impact of Early-2025  AI on Experienced Open-Source Developer Productivity → https://goo.gle/4oqVGct \n\nWatch more People of AI → https://goo.gle/PAI \nSubscribe to Google for Developers → https://goo.gle/developers\n\n#PeopleofAI\n\nSpeaker: Christina Warren, Ashley Oldacre\nProducts Mentioned: AI",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bvfTtLzWVPw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bvfTtLzWVPw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bvfTtLzWVPw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bvfTtLzWVPw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bvfTtLzWVPw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google AI for Developers;",
+          "Video Type:Podcast;",
+          "ct: AIG;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "The evolved developer with Muhammad Farooq",
+          "description": "Meet Muhammad Farooq, a machine learning engineer and a YouTuber on the channel @engineerprompt, where he explains AI concepts and builds his own projects. In this episode of People of AI, hosts Ashley and Christina chat with Muhammad about his journey in tech, his open source project localGPT, and how he's helping organizations deploy scalable AI solutions. \n\nChapters:\n0:00 Intro\n3:15 From Ph.D to YouTube Creator\n4:50 First viral YouTube hit\n8:20 RAG and why it matters\n11:20 The origins of localGPT\n15:20 What has changed with building in the last 2 years\n18:35 How AI tools and models have matured\n19:50 Becoming a technical manager to LLMs\n22:20 What agentic coding has enabled Muhammad to build in localGPT 2.0\n27:45 Better maintaining open source projects by leveraging AI\n28:50 What to watch out for when building with agentic systems\n31:20 Advice for junior developers\n35:40 Differences between how junior devs and senior devs use AI tools\n39:19 Specs-driven development\n41:20 Advice for experimenting with AI tools\n42:50 The problem with overly-agreeable LLMs\n45:10 Why long-context windows are useful for coding\n47:30 Advice for someone launching a tech-focused YouTube channel\n51:40 Rapid Fire Questions\n\nResources:\n@engineerprompt YouTube Channel → https://goo.gle/4m8HCmn \nlocalGPT → https://goo.gle/45qwiuH \nlocalGPT 2.0 - Building the Best Private RAG System → https://goo.gle/4fwvyJb \nMuhammad’s website → https://goo.gle/47aHaj9 \nMuhammad on X → https://goo.gle/4lraJjz \nMeasuring the Impact of Early-2025  AI on Experienced Open-Source Developer Productivity → https://goo.gle/4oqVGct \n\nWatch more People of AI → https://goo.gle/PAI \nSubscribe to Google for Developers → https://goo.gle/developers\n\n#PeopleofAI\n\nSpeaker: Christina Warren, Ashley Oldacre\nProducts Mentioned: AI"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT55M31S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3677",
+        "likeCount": "125",
+        "favoriteCount": "0",
+        "commentCount": "14"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ti-TtvuiYOOl1VqL6yuDhz6UdTw",
+      "id": "0H0c1JHqTjg",
+      "snippet": {
+        "publishedAt": "2025-08-28T16:00:02Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Just in from the news desk 📰: Release of Dart 3.9 and Flutter 3.35",
+        "description": "Learn how you can accelerate building multiplatform apps with the new Flutter and Dart releases. These updates put an emphasis on accessibility, creative autonomy over your app, and more! \n\nResources:\nDart → https://goo.gle/4mTBdvd \nFlutter →https://goo.gle/3JkrGiC \n\nWatch more Google Developer News → https://goo.gle/4e8Rysd  \nSubscribe to Google for Developers → https://goo.gle/developers \n\n#GoogleDeveloperNews\n\nSpeaker: Craig Labenz \nProducts Mentioned:  Flutter",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0H0c1JHqTjg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0H0c1JHqTjg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0H0c1JHqTjg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0H0c1JHqTjg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0H0c1JHqTjg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Influence;",
+          "Campaign: ;",
+          "Video Type:G4D SV: Educational ;",
+          "ct: AIG; ;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Just in from the news desk 📰: Release of Dart 3.9 and Flutter 3.35",
+          "description": "Learn how you can accelerate building multiplatform apps with the new Flutter and Dart releases. These updates put an emphasis on accessibility, creative autonomy over your app, and more! \n\nResources:\nDart → https://goo.gle/4mTBdvd \nFlutter →https://goo.gle/3JkrGiC \n\nWatch more Google Developer News → https://goo.gle/4e8Rysd  \nSubscribe to Google for Developers → https://goo.gle/developers \n\n#GoogleDeveloperNews\n\nSpeaker: Craig Labenz \nProducts Mentioned:  Flutter"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1M10S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "5514",
+        "likeCount": "190",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "pxmacTS25Y2TCVBmPoHDILn_Eug",
+      "id": "DtOeEqasQYs",
+      "snippet": {
+        "publishedAt": "2025-08-28T04:00:29Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Why using DRY (Don’t Repeat Yourself) too early can work against you!",
+        "description": "Premature abstraction is a common mistake when jumping into DRY too early. Clean code may look nice, but premature abstractions become a headache, especially when it’s time to update methods. \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Ethan Hsu",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DtOeEqasQYs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DtOeEqasQYs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DtOeEqasQYs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DtOeEqasQYs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DtOeEqasQYs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Learn;",
+          "Campaign: ;",
+          "type:G4D SV: Educational ;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Why using DRY (Don’t Repeat Yourself) too early can work against you!",
+          "description": "Premature abstraction is a common mistake when jumping into DRY too early. Clean code may look nice, but premature abstractions become a headache, especially when it’s time to update methods. \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Ethan Hsu"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT34S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "9514",
+        "likeCount": "268",
+        "favoriteCount": "0",
+        "commentCount": "9"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "lmVEZcgmP18LNymgfXeE__frVho",
+      "id": "ANpQEc_fWUU",
+      "snippet": {
+        "publishedAt": "2025-08-27T17:00:40Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Evaluate your AI with Stax",
+        "description": "Building with generative AI doesn't have to rely on gut feelings. Discover Stax, an AI evaluation platform designed for product builders. Learn how to turn subjective manual processes into repeatable, data-driven evaluations, and codify the unique qualities that make your AI product special. See how Stax works with a demo building an AI travel agent. Moreover, see how you can ship your LLM features faster and with greater confidence.\n\nResources: \nTry Stax→https://goo.gle/45RU5Ek \nSubscribe to Google for Developers → https://goo.gle/developers \n\n#GoogleDeveloperNews \n\nSpeaker: Sara Wiltberger \nProducts Mentioned: Google AI, Gemma,",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ANpQEc_fWUU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ANpQEc_fWUU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ANpQEc_fWUU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ANpQEc_fWUU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ANpQEc_fWUU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google AI for Developers;",
+          "Purpose: Learn;",
+          "Video Type:DevByte;",
+          "gds:N/A;",
+          "ct: AIG;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Evaluate your AI with Stax",
+          "description": "Building with generative AI doesn't have to rely on gut feelings. Discover Stax, an AI evaluation platform designed for product builders. Learn how to turn subjective manual processes into repeatable, data-driven evaluations, and codify the unique qualities that make your AI product special. See how Stax works with a demo building an AI travel agent. Moreover, see how you can ship your LLM features faster and with greater confidence.\n\nResources: \nTry Stax→https://goo.gle/45RU5Ek \nSubscribe to Google for Developers → https://goo.gle/developers \n\n#GoogleDeveloperNews \n\nSpeaker: Sara Wiltberger \nProducts Mentioned: Google AI, Gemma,"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT4M13S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "21637",
+        "likeCount": "675",
+        "favoriteCount": "0",
+        "commentCount": "28"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "s2AatLSV_BFOgCI4GuyqJAXBrzQ",
+      "id": "4zW0iSkMHYM",
+      "snippet": {
+        "publishedAt": "2025-08-27T17:00:26Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "How to create custom AI evaluators in Stax",
+        "description": "Move beyond common criteria for evaluating generative AI. This video will show you how to create custom evaluators in Stax to measure what's most important for your AI products. Learn how to automate evaluations with LLM-based autoraters, define the base LLM, craft prompts, and map rating categories to metrics, so you can scale your evaluations with confidence.\n\nResources:\n\nTry Stax → https://goo.gle/3HMddv9 \nSubscribe to Google for Developers → https://goo.gle/developers \n\nProducts Mentioned: Google AI",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4zW0iSkMHYM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4zW0iSkMHYM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4zW0iSkMHYM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4zW0iSkMHYM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4zW0iSkMHYM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google AI for Developers;",
+          "Purpose: Learn;",
+          "Video Type:DevByte;",
+          "ct: AIG; ;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "How to create custom AI evaluators in Stax",
+          "description": "Move beyond common criteria for evaluating generative AI. This video will show you how to create custom evaluators in Stax to measure what's most important for your AI products. Learn how to automate evaluations with LLM-based autoraters, define the base LLM, craft prompts, and map rating categories to metrics, so you can scale your evaluations with confidence.\n\nResources:\n\nTry Stax → https://goo.gle/3HMddv9 \nSubscribe to Google for Developers → https://goo.gle/developers \n\nProducts Mentioned: Google AI"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT2M22S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1323",
+        "likeCount": "40",
+        "favoriteCount": "0",
+        "commentCount": "3"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "HpXa72uKXPnU-afhbLMqTFsNkVE",
+      "id": "H6ZXujE1qBA",
+      "snippet": {
+        "publishedAt": "2025-08-27T01:00:13Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Behind the scenes of Google's state-of-the-art \"nano-banana\" image model",
+        "description": "Join host Logan Kilpatrick in discussion with some of the minds behind Google's new state-of-the-art image model, Gemini 2.5 Flash. Product and research leads from the Gemini team break down the technology behind its key capabilities, including interleaved generation for complex edits and new approaches to achieving character consistency and pixel-perfect control. With Nicole Brichtova, Kaushik Shivakumar, Mostafa Dehghani and Robert Riachi. \n\nListen to this podcast: \nApple Podcasts → https://goo.gle/3Bm7QzQ \nSpotify → https://goo.gle/3ZL3ADl \n\nChapters:\n0:37 - New model introduction\n1:21 -Demo: Image editing\n3:44 - Text rendering capabilities\n4:44 Beyond human preference evals\n6:44 - Text rendering as a proxy for quality\n8:38 - Positive transfer between modalities \n11:25 - Demo: multi-turn, context aware image generation\n13:54 - Pixel-perfect editing and character consistency\n15:51 - Interleaved image generation \n17:59 - Specialized vs. native models\n19:52 - Understanding nuanced prompts\n20:59 - User feedback shaping model development\n22:37 - Improvements in character consistency \n24:17 - More natural looking images from team collaboration\n26:41 - What’s next for image generation models\n\nWatch more Release Notes → https://goo.gle/4njokfg \nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeakers: Logan Kilpatrick, Nicole Brichtova, Kaushik Shivakumar, Mostafa Dehghani, Robert Riachi\n\nProducts Mentioned:  Google AI, Gemini",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/H6ZXujE1qBA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/H6ZXujE1qBA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/H6ZXujE1qBA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/H6ZXujE1qBA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google AI for Developers;",
+          "Purpose: Learn;",
+          "Video Type:Podcast;",
+          "ct: AIG;;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Behind the scenes of Google's state-of-the-art \"nano-banana\" image model",
+          "description": "Join host Logan Kilpatrick in discussion with some of the minds behind Google's new state-of-the-art image model, Gemini 2.5 Flash. Product and research leads from the Gemini team break down the technology behind its key capabilities, including interleaved generation for complex edits and new approaches to achieving character consistency and pixel-perfect control. With Nicole Brichtova, Kaushik Shivakumar, Mostafa Dehghani and Robert Riachi. \n\nListen to this podcast: \nApple Podcasts → https://goo.gle/3Bm7QzQ \nSpotify → https://goo.gle/3ZL3ADl \n\nChapters:\n0:37 - New model introduction\n1:21 -Demo: Image editing\n3:44 - Text rendering capabilities\n4:44 Beyond human preference evals\n6:44 - Text rendering as a proxy for quality\n8:38 - Positive transfer between modalities \n11:25 - Demo: multi-turn, context aware image generation\n13:54 - Pixel-perfect editing and character consistency\n15:51 - Interleaved image generation \n17:59 - Specialized vs. native models\n19:52 - Understanding nuanced prompts\n20:59 - User feedback shaping model development\n22:37 - Improvements in character consistency \n24:17 - More natural looking images from team collaboration\n26:41 - What’s next for image generation models\n\nWatch more Release Notes → https://goo.gle/4njokfg \nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeakers: Logan Kilpatrick, Nicole Brichtova, Kaushik Shivakumar, Mostafa Dehghani, Robert Riachi\n\nProducts Mentioned:  Google AI, Gemini"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT30M33S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "40784",
+        "likeCount": "1147",
+        "favoriteCount": "0",
+        "commentCount": "99"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ZwJ8T3WRLK-7DiIMySHwAIR7aoQ",
+      "id": "UE-xe8y8EJ8",
+      "snippet": {
+        "publishedAt": "2025-08-26T21:06:34Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Upgrade your workflow with agentic coding",
+        "description": "Use AI to help you code more efficiently by trying out agentic, asynchronous coding!  \n\nResources: \nBuild with Jules, your asynchronous coding agent → https://goo.gle/3HTt3El \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Itzak Hinojosa\nProducts Mentioned: Google AI",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UE-xe8y8EJ8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UE-xe8y8EJ8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UE-xe8y8EJ8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UE-xe8y8EJ8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UE-xe8y8EJ8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Learn;",
+          "Campaign: ;",
+          "type:G4D SV: Educational ;",
+          "ct: AIG;;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Upgrade your workflow with agentic coding",
+          "description": "Use AI to help you code more efficiently by trying out agentic, asynchronous coding!  \n\nResources: \nBuild with Jules, your asynchronous coding agent → https://goo.gle/3HTt3El \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Itzak Hinojosa\nProducts Mentioned: Google AI"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT56S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3548",
+        "likeCount": "77",
+        "favoriteCount": "0",
+        "commentCount": "6"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "rQsN3ANQ0P2vK95BCbk0WtkfxJQ",
+      "id": "Bi-wi2q_Xog",
+      "snippet": {
+        "publishedAt": "2025-08-26T17:50:11Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Building with Gemini 2.5 Flash Image in Google AI Studio",
+        "description": "Explore the powerful new Gemini 2.5 Image Gen model and its integration with AI Studio in this in-depth live demonstration. See how \"vibe coding\" enables you to design and adapt image generation applets with ease, featuring precise edits, decor, and design capabilities. The session also includes an interactive Q&A and a look at upcoming AI Studio updates.\n\nChapters:\n0:00 - Intro and Demo: \"Past Forward\" App\n4:22 - Demo: \"Home Canvas\" for interior design\n13:00 - Demo: Photo editing app\n19:13 - AI Studio updates & new model picker\n27:50 - Model deep dive with PM\n34:18 - More apps to remix\n37:22 - Sharing and deploying apps in AI Studio\n42:02 - Conclusion\n\n\nFor more on our new model, check out this episode of Release Notes: https://www.youtube.com/watch?v=H6ZXujE1qBA\n\nTry coding with applets: ai.studio/apps \nFollow AI Studio on X: @googleaistudio\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Logan Kilpatrick, Ammaar Reshi, Kat Kampf\nProducts Mentioned:  Google AI, Gemini",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Bi-wi2q_Xog/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Bi-wi2q_Xog/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Bi-wi2q_Xog/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Bi-wi2q_Xog/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Bi-wi2q_Xog/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "ct: AIG;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Building with Gemini 2.5 Flash Image in Google AI Studio",
+          "description": "Explore the powerful new Gemini 2.5 Image Gen model and its integration with AI Studio in this in-depth live demonstration. See how \"vibe coding\" enables you to design and adapt image generation applets with ease, featuring precise edits, decor, and design capabilities. The session also includes an interactive Q&A and a look at upcoming AI Studio updates.\n\nChapters:\n0:00 - Intro and Demo: \"Past Forward\" App\n4:22 - Demo: \"Home Canvas\" for interior design\n13:00 - Demo: Photo editing app\n19:13 - AI Studio updates & new model picker\n27:50 - Model deep dive with PM\n34:18 - More apps to remix\n37:22 - Sharing and deploying apps in AI Studio\n42:02 - Conclusion\n\n\nFor more on our new model, check out this episode of Release Notes: https://www.youtube.com/watch?v=H6ZXujE1qBA\n\nTry coding with applets: ai.studio/apps \nFollow AI Studio on X: @googleaistudio\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Logan Kilpatrick, Ammaar Reshi, Kat Kampf\nProducts Mentioned:  Google AI, Gemini"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT43M48S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "37263",
+        "likeCount": "1099",
+        "favoriteCount": "0",
+        "commentCount": "57"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ChI8P1DDtnkr9HqmPQ7sp8r_eqM",
+      "id": "K7rNKhrQ4xo",
+      "snippet": {
+        "publishedAt": "2025-08-26T04:00:19Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Rating things my manager said to me",
+        "description": "We’re rating stuff our manager has said to us. Can you relate? \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeakers: Sagar Kothari, Tushara Langulya Balabolu",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K7rNKhrQ4xo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K7rNKhrQ4xo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K7rNKhrQ4xo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/K7rNKhrQ4xo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/K7rNKhrQ4xo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Learn;",
+          "type:G4D SV: Comedic skits;",
+          "gds:Yes;",
+          "ct: AIG;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Rating things my manager said to me",
+          "description": "We’re rating stuff our manager has said to us. Can you relate? \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeakers: Sagar Kothari, Tushara Langulya Balabolu"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT44S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "7375",
+        "likeCount": "89",
+        "favoriteCount": "0",
+        "commentCount": "5"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "_Dh9FRPA2wqB5lmSaGrO-CtHvK0",
+      "id": "sxeCxg1b-5k",
+      "snippet": {
+        "publishedAt": "2025-08-25T13:01:36Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "What will each of these lines log to the console and why? Go!",
+        "description": "These three simple console.log statements reveal how JavaScript handles the plus operator with different data types. Can you explain why each one behaves the way it does? Let us know in the comments.\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Amanda Stanton",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sxeCxg1b-5k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sxeCxg1b-5k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sxeCxg1b-5k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sxeCxg1b-5k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sxeCxg1b-5k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Learn;",
+          "Video Type:G4D SV: Educational ;",
+          "ct: AIG;;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "What will each of these lines log to the console and why? Go!",
+          "description": "These three simple console.log statements reveal how JavaScript handles the plus operator with different data types. Can you explain why each one behaves the way it does? Let us know in the comments.\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Amanda Stanton"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT18S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "7039",
+        "likeCount": "105",
+        "favoriteCount": "0",
+        "commentCount": "10"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "PU94WIidFeFDbqra2Bl5WIEqxVk",
+      "id": "a34Jaw_frDc",
+      "snippet": {
+        "publishedAt": "2025-08-22T04:00:01Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Solving problems with code",
+        "description": "What's the best thing about coding? Meghan, a Developer Relations Engineer, shares what she loves about coding, from solving roommate rent splits to tackling complex business problems. Discover how coding can be both a practical tool and a source of endless possibilities!\n\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Meghan Mehta",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a34Jaw_frDc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a34Jaw_frDc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a34Jaw_frDc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/a34Jaw_frDc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/a34Jaw_frDc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Learn;",
+          "type:G4D SV: Educational ;",
+          "gds:Yes;",
+          "ct: AIG;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Solving problems with code",
+          "description": "What's the best thing about coding? Meghan, a Developer Relations Engineer, shares what she loves about coding, from solving roommate rent splits to tackling complex business problems. Discover how coding can be both a practical tool and a source of endless possibilities!\n\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Meghan Mehta"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT42S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "5550",
+        "likeCount": "127",
+        "favoriteCount": "0",
+        "commentCount": "8"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "EsrDHQYn1dUgM8rYz8UV1GdzbTQ",
+      "id": "W7ZzuiX3Cc4",
+      "snippet": {
+        "publishedAt": "2025-08-21T16:00:51Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Kaggle Game Arena, AI tools in Firebase Studio, and more! - Google Developer News August 2025",
+        "description": "Google Developer News has the latest developer updates for Google developers for August 2025. From covering the Kaggle Game Arena with Google DeepMind to exploring the newest AI-enhanced tools in Firebase Studio, this episode will help you deploy faster builds with AI, while watching leading AI models battle it out in head-to-head competition. \n\nResources: \nResources: \nKaggle Game Arena → https://goo.gle/41hw3RC\nAdvancing agentic AI development with Firebase Studio→https://goo.gle/3Hyl2ET\n Dart → https://goo.gle/4mTBdvd \nFlutter →https://goo.gle/3JkrGiC \n\nChapters:\n0:00 - Introduction \n0:11 - Kaggle Game Arena: Testing the limits of AI reasoning with Google DeepMind\n0:45 - Gemini & Firebase Studio: New AI-powered workflows\n1:01 - Foundational support for model context protocol\n1:10 - Gemini CLI integration with Firebase Studio\n1:18 - AI Optimized templates: faster app building\n1:31 - Firebase backend integration with Gemini\n1:38 - Safety net experimentation with Workspace forking\n1:51 - Collaborative features in Firebase Studio\n2:00 - Enhancing prompts with Gemini\n2:11 - Dart 3.9 & Flutter 3.35: performance & visualization updates\n2:31 - Dart and Flutter MCP server.\n\nWatch more Google Developer News → https://goo.gle/4e8Rysd  \nSubscribe to Google for Developers → https://goo.gle/developers \n\n#GoogleDeveloperNews \n\nSpeaker: Ethan Hsu\nProducts Mentioned: Google AI, Gemma,  Generative AI,  Gemini 1.5 Flash,  Colab,",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/W7ZzuiX3Cc4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/W7ZzuiX3Cc4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/W7ZzuiX3Cc4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/W7ZzuiX3Cc4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/W7ZzuiX3Cc4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Learn;",
+          "Video Type:Dev News;",
+          "ct: AIG;;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Kaggle Game Arena, AI tools in Firebase Studio, and more! - Google Developer News August 2025",
+          "description": "Google Developer News has the latest developer updates for Google developers for August 2025. From covering the Kaggle Game Arena with Google DeepMind to exploring the newest AI-enhanced tools in Firebase Studio, this episode will help you deploy faster builds with AI, while watching leading AI models battle it out in head-to-head competition. \n\nResources: \nResources: \nKaggle Game Arena → https://goo.gle/41hw3RC\nAdvancing agentic AI development with Firebase Studio→https://goo.gle/3Hyl2ET\n Dart → https://goo.gle/4mTBdvd \nFlutter →https://goo.gle/3JkrGiC \n\nChapters:\n0:00 - Introduction \n0:11 - Kaggle Game Arena: Testing the limits of AI reasoning with Google DeepMind\n0:45 - Gemini & Firebase Studio: New AI-powered workflows\n1:01 - Foundational support for model context protocol\n1:10 - Gemini CLI integration with Firebase Studio\n1:18 - AI Optimized templates: faster app building\n1:31 - Firebase backend integration with Gemini\n1:38 - Safety net experimentation with Workspace forking\n1:51 - Collaborative features in Firebase Studio\n2:00 - Enhancing prompts with Gemini\n2:11 - Dart 3.9 & Flutter 3.35: performance & visualization updates\n2:31 - Dart and Flutter MCP server.\n\nWatch more Google Developer News → https://goo.gle/4e8Rysd  \nSubscribe to Google for Developers → https://goo.gle/developers \n\n#GoogleDeveloperNews \n\nSpeaker: Ethan Hsu\nProducts Mentioned: Google AI, Gemma,  Generative AI,  Gemini 1.5 Flash,  Colab,"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT2M53S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "6727",
+        "likeCount": "148",
+        "favoriteCount": "0",
+        "commentCount": "8"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "xzlDZSMpEJ2PsKoo4WJjj95Gsww",
+      "id": "fXaeutEgjw4",
+      "snippet": {
+        "publishedAt": "2025-08-21T04:00:46Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Maybe I need a hug to fix the bug? Actually, a nap sounds better.",
+        "description": "We've all been there. The bugs are relentless, the deadlines are looming, and the code... the code just doesn't want to cooperate. \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Crystal Endless",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fXaeutEgjw4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fXaeutEgjw4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fXaeutEgjw4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fXaeutEgjw4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fXaeutEgjw4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Learn;",
+          "Campaign: ;",
+          "type:G4D SV: Comedic skits;",
+          "gds:Yes;",
+          "ct: AIG;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Maybe I need a hug to fix the bug? Actually, a nap sounds better.",
+          "description": "We've all been there. The bugs are relentless, the deadlines are looming, and the code... the code just doesn't want to cooperate. \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Crystal Endless"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT10S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "14594",
+        "likeCount": "134",
+        "favoriteCount": "0",
+        "commentCount": "11"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "97zdCOgUsrToaNPSBRZZIZzKU5Q",
+      "id": "8DhhZ8I2NAI",
+      "snippet": {
+        "publishedAt": "2025-08-20T04:00:09Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Can you tell I work at Google?",
+        "description": "At Google, we love our swag! If we had it our way, we'd be wearing Google accessories from head to toe.\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Crystal Endless",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8DhhZ8I2NAI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8DhhZ8I2NAI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8DhhZ8I2NAI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8DhhZ8I2NAI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8DhhZ8I2NAI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Learn;",
+          "type:G4D SV: Comedic skits;",
+          "gds:Yes;",
+          "ct: AIG;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Can you tell I work at Google?",
+          "description": "At Google, we love our swag! If we had it our way, we'd be wearing Google accessories from head to toe.\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Crystal Endless"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT12S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "31843",
+        "likeCount": "392",
+        "favoriteCount": "0",
+        "commentCount": "19"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "XlvInCg1SRV0hgPANe7ZTpz7Jc8",
+      "id": "t0MraF45AOY",
+      "snippet": {
+        "publishedAt": "2025-08-19T21:40:30Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Talking to computers",
+        "description": "Thanks to recent advances in AI, computers are learning how to better parse and output human languages. \n\nResources: \nLearn more about the concepts and technology behind Large Language Models (LLMs)—from tokens to Transformers—in Machine Learning Crash Course → https://goo.gle/MLCrashCourse \n\nSubscribe to Google for Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t0MraF45AOY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t0MraF45AOY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t0MraF45AOY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/t0MraF45AOY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/t0MraF45AOY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Learn;",
+          "Campaign: ;",
+          "type:Social First - Educational;",
+          "gds:N/A;",
+          "ct: AIG;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Talking to computers",
+          "description": "Thanks to recent advances in AI, computers are learning how to better parse and output human languages. \n\nResources: \nLearn more about the concepts and technology behind Large Language Models (LLMs)—from tokens to Transformers—in Machine Learning Crash Course → https://goo.gle/MLCrashCourse \n\nSubscribe to Google for Developers → https://goo.gle/developers"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1M16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "5263",
+        "likeCount": "293",
+        "favoriteCount": "0",
+        "commentCount": "17"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "2pcn-l8Z9igXgUqSc3nnjG_seso",
+      "id": "9W3CVUTuQew",
+      "snippet": {
+        "publishedAt": "2025-08-19T16:00:23Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "What's on the news desk for Google Developers this month? Take a peek!",
+        "description": "From the Kaggle game arena to updates to Firebase Studio, see what’s new in the developer world with Google for Developers by tuning in later this week for the full episode!\n\nWatch more Google Developer News → https://goo.gle/4e8Rysd  \nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Ethan Hsu \nProducts Mentioned: Google AI",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9W3CVUTuQew/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9W3CVUTuQew/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9W3CVUTuQew/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9W3CVUTuQew/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9W3CVUTuQew/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Learn;",
+          "Campaign: ;",
+          "Video Type:G4D SV: Educational ;",
+          "ct: AIG; ;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "What's on the news desk for Google Developers this month? Take a peek!",
+          "description": "From the Kaggle game arena to updates to Firebase Studio, see what’s new in the developer world with Google for Developers by tuning in later this week for the full episode!\n\nWatch more Google Developer News → https://goo.gle/4e8Rysd  \nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Ethan Hsu \nProducts Mentioned: Google AI"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT25S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "4178",
+        "likeCount": "98",
+        "favoriteCount": "0",
+        "commentCount": "5"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "R-O6m0xnjbY9oyQNnrIegp_2pZM",
+      "id": "vCxHCDbOS9A",
+      "snippet": {
+        "publishedAt": "2025-08-19T01:00:50Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Vibe coding",
+        "description": "The lighting, music, and selection of drinks at your desk really determines the vibe of your coding session. Are you a vibe  coder?  If so, what do you do to set the vibe? \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Crystal Endless, Justine Lai, Natalie Dao",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vCxHCDbOS9A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vCxHCDbOS9A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vCxHCDbOS9A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vCxHCDbOS9A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vCxHCDbOS9A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Learn;",
+          "Campaign: ;",
+          "type:G4D SV: Comedic skits;",
+          "gds:Yes;",
+          "ct: AIG;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Vibe coding",
+          "description": "The lighting, music, and selection of drinks at your desk really determines the vibe of your coding session. Are you a vibe  coder?  If so, what do you do to set the vibe? \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Crystal Endless, Justine Lai, Natalie Dao"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT10S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "24177",
+        "likeCount": "391",
+        "favoriteCount": "0",
+        "commentCount": "16"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Q9LxiBiX6LqNws7avL920n8prxE",
+      "id": "E0hrcDO3Noc",
+      "snippet": {
+        "publishedAt": "2025-08-18T19:17:20Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Introducing Opal",
+        "description": "Discover Opal, a new experimental tool that helps you compose prompts into dynamic, multi-step mini-apps using natural language.\n\nOpal removes the need for code, allowing users to build and deploy shareable AI apps with powerful features and seamless integration with existing Google tools.\n\nTry Opal → https://opal.withgoogle.com\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Elle Zadina\nProducts Mentioned: Google AI",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E0hrcDO3Noc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E0hrcDO3Noc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E0hrcDO3Noc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/E0hrcDO3Noc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/E0hrcDO3Noc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Explore;",
+          "Video Type:Upload Only;",
+          "ct: AIG;;",
+          "gds:N/A;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Introducing Opal",
+          "description": "Discover Opal, a new experimental tool that helps you compose prompts into dynamic, multi-step mini-apps using natural language.\n\nOpal removes the need for code, allowing users to build and deploy shareable AI apps with powerful features and seamless integration with existing Google tools.\n\nTry Opal → https://opal.withgoogle.com\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Elle Zadina\nProducts Mentioned: Google AI"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT2M4S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "296016",
+        "likeCount": "3183",
+        "favoriteCount": "0",
+        "commentCount": "267"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "gCaR-6yNtif-fT-jaBhqxD2P-S8",
+      "id": "iP2lm2wdlQg",
+      "snippet": {
+        "publishedAt": "2025-08-18T13:01:17Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "What is wrong with the timing issue and how can it be fixed? Go!",
+        "description": "Go developers, this sleep statement isn't what it appears to be! This code looks like it should pause execution for one second, but that is not what happens. This type of bug is particularly dangerous because it compiles successfully and might not be caught during casual testing. How long do you think this code actually sleeps, and what's the correct way to implement a proper one-second delay? Tell us in the comments below.\n\nSubscribe to Google for Developers → https://goo.gle/developers \nSpeaker: Juan Vasquez",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iP2lm2wdlQg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iP2lm2wdlQg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iP2lm2wdlQg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iP2lm2wdlQg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iP2lm2wdlQg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Learn;",
+          "Video Type:G4D SV: Educational ;",
+          "ct: AIG;;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "What is wrong with the timing issue and how can it be fixed? Go!",
+          "description": "Go developers, this sleep statement isn't what it appears to be! This code looks like it should pause execution for one second, but that is not what happens. This type of bug is particularly dangerous because it compiles successfully and might not be caught during casual testing. How long do you think this code actually sleeps, and what's the correct way to implement a proper one-second delay? Tell us in the comments below.\n\nSubscribe to Google for Developers → https://goo.gle/developers \nSpeaker: Juan Vasquez"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT19S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "7213",
+        "likeCount": "110",
+        "favoriteCount": "0",
+        "commentCount": "12"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "DaSWSXVvKra7AxeP8c6tvlxvNZw",
+      "id": "2U89cLw4u-A",
+      "snippet": {
+        "publishedAt": "2025-08-14T16:00:04Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Just in from the news desk 📰: Updates to Firebase Studio for full-stack AI apps",
+        "description": "Want to simplify building agentic applications? With new updates, Firebase Studio is making it easier than ever to create full-stack AI applications. Check out the latest features for AI-assisted development, including new agents mode, MCP support, integration with Gemin CLI, and more!\n\n\nWatch more Google Developer News → https://goo.gle/4e8Rysd  \nSubscribe to Google for Developers → https://goo.gle/developers \n\n#GoogleDeveloperNews\n\nSpeaker: Tushara Langulya Balabolu\nProducts Mentioned: Firebase Studio, Gemini",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2U89cLw4u-A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2U89cLw4u-A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2U89cLw4u-A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2U89cLw4u-A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2U89cLw4u-A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Influence;",
+          "Campaign: ;",
+          "Video Type:G4D SV: Educational ;",
+          "ct: AIG; ;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Just in from the news desk 📰: Updates to Firebase Studio for full-stack AI apps",
+          "description": "Want to simplify building agentic applications? With new updates, Firebase Studio is making it easier than ever to create full-stack AI applications. Check out the latest features for AI-assisted development, including new agents mode, MCP support, integration with Gemin CLI, and more!\n\n\nWatch more Google Developer News → https://goo.gle/4e8Rysd  \nSubscribe to Google for Developers → https://goo.gle/developers \n\n#GoogleDeveloperNews\n\nSpeaker: Tushara Langulya Balabolu\nProducts Mentioned: Firebase Studio, Gemini"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT58S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3292",
+        "likeCount": "108",
+        "favoriteCount": "0",
+        "commentCount": "6"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ZzoBIagxamIM0XhJnGIjtKsY1js",
+      "id": "Pofx_TKEce0",
+      "snippet": {
+        "publishedAt": "2025-08-13T01:00:32Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Using AI to analyze cricket swings",
+        "description": "Check out the demo: A full team lineup of Gemini, Vertex AI, Pixel, Imagen, and Veo were used to analyze the power, accuracy, and style of a player’s cricket swing and even generated a cricket player card and a cool video too!\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Zack Akil \nProducts Mentioned: Vertex AI, Gemini, AI Infrastructure, Imagen",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Pofx_TKEce0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Pofx_TKEce0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Pofx_TKEce0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Pofx_TKEce0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Pofx_TKEce0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Learn;",
+          "type:G4D SV: Comedic skits;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Using AI to analyze cricket swings",
+          "description": "Check out the demo: A full team lineup of Gemini, Vertex AI, Pixel, Imagen, and Veo were used to analyze the power, accuracy, and style of a player’s cricket swing and even generated a cricket player card and a cool video too!\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Zack Akil \nProducts Mentioned: Vertex AI, Gemini, AI Infrastructure, Imagen"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1M52S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "4786",
+        "likeCount": "200",
+        "favoriteCount": "0",
+        "commentCount": "13"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "-CS_bazUNtm-RKSH3VjsHuBVpzU",
+      "id": "yZR3isciWd8",
+      "snippet": {
+        "publishedAt": "2025-08-12T16:01:40Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Automate issue triage & pull request reviews with Gemini CLI Github Action",
+        "description": "Level up your development workflow with Gemini CLI! Join Google Software Engineer Jerop Kipruto as he introduces Gemini CLI, the open-source AI agent that brings the power of Gemini directly to your terminal. Watch Jerop as he demos a complete software development lifecycle using Gemini CLI Github Action. From adding font selection to an ASCII art logo generator to reviewing and executing code changes, you'll learn how this tool simplifies your development process.\n\nChapters:\n0:00 - Introduction to Gemini CLI\n0:39 - Gemini CLI as a GitHub Action\n1:02 - Adding font selection with Gemini CLI\n4:08 - Reviewing ASCII art suggestions with Gemini\n5:44 - Get started with Gemini CLI\n\nResources:\nGemini GitHub Actions → http://goo.gle/gemini-cli \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\n#Gemini #GoogleAI",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yZR3isciWd8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yZR3isciWd8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yZR3isciWd8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yZR3isciWd8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yZR3isciWd8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Learn;",
+          "Video Type:DevByte;",
+          "gds:Yes;",
+          "ct: AIG;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Automate issue triage & pull request reviews with Gemini CLI Github Action",
+          "description": "Level up your development workflow with Gemini CLI! Join Google Software Engineer Jerop Kipruto as he introduces Gemini CLI, the open-source AI agent that brings the power of Gemini directly to your terminal. Watch Jerop as he demos a complete software development lifecycle using Gemini CLI Github Action. From adding font selection to an ASCII art logo generator to reviewing and executing code changes, you'll learn how this tool simplifies your development process.\n\nChapters:\n0:00 - Introduction to Gemini CLI\n0:39 - Gemini CLI as a GitHub Action\n1:02 - Adding font selection with Gemini CLI\n4:08 - Reviewing ASCII art suggestions with Gemini\n5:44 - Get started with Gemini CLI\n\nResources:\nGemini GitHub Actions → http://goo.gle/gemini-cli \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\n#Gemini #GoogleAI"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT5M56S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "15841",
+        "likeCount": "544",
+        "favoriteCount": "0",
+        "commentCount": "20"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ZqSs-VbxQiL2hBD2eGQEA7Mfi54",
+      "id": "njDochQ2zHs",
+      "snippet": {
+        "publishedAt": "2025-08-11T17:00:17Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Demis Hassabis on shipping momentum, better evals and world models",
+        "description": "Demis Hassabis, CEO of Google DeepMind, sits down with host Logan Kilpatrick. In this episode, learn about the evolution from game-playing AI to today's thinking models, how projects like Genie 3 are building world models to help AI understand reality and why new testing grounds like Kaggle’s Game Arena are needed to evaluate progress on the path to AGI.\n\nChapters:\n00:00 - Intro\n01:16 - Recent GDM momentum\n02:07 - Deep Think and agent systems\n04:11 - Jagged intelligence\n07:02 - Genie 3 and world models\n10:21 - Future applications of Genie 3\n13:01 - The need for better benchmarks and Kaggle Game Arena\n19:03 - Evals beyond games\n21:47 - Tool use for expanding AI capabilities\n24:52 - Shift from models to systems\n27:38 - Roadmap for Genie 3 and the omni model\n29:25 - The quadrillion token club\n\nListen to this podcast: \nApple Podcasts → https://goo.gle/3Bm7QzQ \nSpotify → https://goo.gle/3ZL3ADl \n\nWatch more Release Notes → https://goo.gle/4njokfg \nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Logan Kilpatrick, Demis Hassabis\nProducts Mentioned:  Google AI",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/njDochQ2zHs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/njDochQ2zHs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/njDochQ2zHs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/njDochQ2zHs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/njDochQ2zHs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Gemma;",
+          "Purpose: Learn;",
+          "Video Type:Podcast;",
+          "ct: AIG;;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Demis Hassabis on shipping momentum, better evals and world models",
+          "description": "Demis Hassabis, CEO of Google DeepMind, sits down with host Logan Kilpatrick. In this episode, learn about the evolution from game-playing AI to today's thinking models, how projects like Genie 3 are building world models to help AI understand reality and why new testing grounds like Kaggle’s Game Arena are needed to evaluate progress on the path to AGI.\n\nChapters:\n00:00 - Intro\n01:16 - Recent GDM momentum\n02:07 - Deep Think and agent systems\n04:11 - Jagged intelligence\n07:02 - Genie 3 and world models\n10:21 - Future applications of Genie 3\n13:01 - The need for better benchmarks and Kaggle Game Arena\n19:03 - Evals beyond games\n21:47 - Tool use for expanding AI capabilities\n24:52 - Shift from models to systems\n27:38 - Roadmap for Genie 3 and the omni model\n29:25 - The quadrillion token club\n\nListen to this podcast: \nApple Podcasts → https://goo.gle/3Bm7QzQ \nSpotify → https://goo.gle/3ZL3ADl \n\nWatch more Release Notes → https://goo.gle/4njokfg \nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Logan Kilpatrick, Demis Hassabis\nProducts Mentioned:  Google AI"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT31M10S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "70282",
+        "likeCount": "1869",
+        "favoriteCount": "0",
+        "commentCount": "115"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "9BgLZemHc1yc5YKY7aptkT6n3e0",
+      "id": "7-p_5GVi2PU",
+      "snippet": {
+        "publishedAt": "2025-08-11T13:00:25Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "What is the minimum time to deploy all services? How would you schedule them across servers? Go!",
+        "description": "You need to deploy 7 microservices with strict dependencies across 3 parallel servers. How would you optimize the deployment schedule to minimize total time? What's your minimum-time solution, and what approach did you use to find it? Share your thoughts in the comments.\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeakers: Amanda Stanton",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7-p_5GVi2PU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7-p_5GVi2PU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7-p_5GVi2PU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7-p_5GVi2PU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7-p_5GVi2PU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Learn;",
+          "Campaign: ;",
+          "Video Type:G4D SV: Educational ;",
+          "ct: AIG;;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "What is the minimum time to deploy all services? How would you schedule them across servers? Go!",
+          "description": "You need to deploy 7 microservices with strict dependencies across 3 parallel servers. How would you optimize the deployment schedule to minimize total time? What's your minimum-time solution, and what approach did you use to find it? Share your thoughts in the comments.\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeakers: Amanda Stanton"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT45S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "16034",
+        "likeCount": "502",
+        "favoriteCount": "0",
+        "commentCount": "41"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "uCdt-dhjJM_Y5YSsONbWanJW5T0",
+      "id": "hwLgGcwUTk8",
+      "snippet": {
+        "publishedAt": "2025-08-08T19:00:48Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Which new tools are you most excited to build with?",
+        "description": "We asked developers at #GoogleIOConnect India which new tools they’re most excited to build with 🤖\n\nSubscribe to Google for Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hwLgGcwUTk8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hwLgGcwUTk8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hwLgGcwUTk8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hwLgGcwUTk8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hwLgGcwUTk8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Learn;",
+          "Campaign: ;",
+          "type:G4D SV: I/O ;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Which new tools are you most excited to build with?",
+          "description": "We asked developers at #GoogleIOConnect India which new tools they’re most excited to build with 🤖\n\nSubscribe to Google for Developers → https://goo.gle/developers"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT55S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "8574",
+        "likeCount": "322",
+        "favoriteCount": "0",
+        "commentCount": "10"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "i63nnRH5-O4xx8vXQ8ZqA6vz5SQ",
+      "id": "YmzHUQRPg0k",
+      "snippet": {
+        "publishedAt": "2025-08-07T23:00:40Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Improve web accessibility! Start here.",
+        "description": "Accessible design ensures everyone, regardless of how they access the web, can navigate and use your site without any issues. Discover top resources to build a more accessible web for everyone!\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Itzak Hinojosa",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YmzHUQRPg0k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YmzHUQRPg0k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YmzHUQRPg0k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YmzHUQRPg0k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YmzHUQRPg0k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Learn;",
+          "Campaign: ;",
+          "type:G4D SV: Educational ;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Improve web accessibility! Start here.",
+          "description": "Accessible design ensures everyone, regardless of how they access the web, can navigate and use your site without any issues. Discover top resources to build a more accessible web for everyone!\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Itzak Hinojosa"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT54S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2852",
+        "likeCount": "87",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Ob4xIoGgv44XabKZi3SUeekTJy4",
+      "id": "-miCU6FGfMg",
+      "snippet": {
+        "publishedAt": "2025-08-07T17:08:38Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Get code samples, AI patterns, and prompt libraries to help you build with Angular",
+        "description": "Explore a new AI-focused section on angular.dev, designed to equip developers with the tools and knowledge to build next-generation, AI-powered applications. Watch this video to learn more about the wealth of resources this new hub provides including advanced app patterns and prompt libraries with support for tools like Firebase Studio, Google’s AI Studio and VS Code with Gemini Code Assist!\n\nResources: \nLearn more →https://goo.gle/4laWRtF\nWatch the full video→ https://goo.gle/3UhsWFl  \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeakers: Mark Thompson  \nProducts Mentioned: Angular",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-miCU6FGfMg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-miCU6FGfMg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-miCU6FGfMg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-miCU6FGfMg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-miCU6FGfMg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "pr_pr: Angular;",
+          "Purpose: Learn;",
+          "Campaign: ;",
+          "Video Type:Social First - Educational;",
+          "ct: ;;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Get code samples, AI patterns, and prompt libraries to help you build with Angular",
+          "description": "Explore a new AI-focused section on angular.dev, designed to equip developers with the tools and knowledge to build next-generation, AI-powered applications. Watch this video to learn more about the wealth of resources this new hub provides including advanced app patterns and prompt libraries with support for tools like Firebase Studio, Google’s AI Studio and VS Code with Gemini Code Assist!\n\nResources: \nLearn more →https://goo.gle/4laWRtF\nWatch the full video→ https://goo.gle/3UhsWFl  \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeakers: Mark Thompson  \nProducts Mentioned: Angular"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1M17S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "12197",
+        "likeCount": "510",
+        "favoriteCount": "0",
+        "commentCount": "8"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "3gLmDmOr24KnrB4LEzROWSVkdVQ",
+      "id": "AVuFNjyU4Pc",
+      "snippet": {
+        "publishedAt": "2025-08-07T01:00:10Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "POV: You've been coding solo for years and suddenly a wild programmer appears.",
+        "description": "When you're used to coding solo and suddenly your team pair programs… \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Anaya Mehta, Justine Lai",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AVuFNjyU4Pc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AVuFNjyU4Pc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AVuFNjyU4Pc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AVuFNjyU4Pc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AVuFNjyU4Pc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Learn;",
+          "Campaign: ;",
+          "type:G4D SV: Comedic skits;",
+          "ct: AIG;;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "POV: You've been coding solo for years and suddenly a wild programmer appears.",
+          "description": "When you're used to coding solo and suddenly your team pair programs… \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Anaya Mehta, Justine Lai"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT5S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "105614",
+        "likeCount": "878",
+        "favoriteCount": "0",
+        "commentCount": "15"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "c58xx0M5Jc1T9x_057Cbn7odr0A",
+      "id": "n_fb2t8QLAs",
+      "snippet": {
+        "publishedAt": "2025-08-06T16:03:40Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Just in from the news desk 📰: Tune into the Kaggle Game Arena",
+        "description": "Want to see how AI models handle real-world strategy and planning?\n\nKaggle Game Arena is a new stage for model-vs-model showdowns, starting with live chess. Grandmasters will be on hand with live commentary as models compete in real-time. The goal is to benchmark their reasoning, adaptability, and decision-making skills in action.\n\nResources:\n\nCatch the livestream 📺 → https://goo.gle/4mlZha4 \n\nWatch more Google Developer News → https://goo.gle/4e8Rysd  \nSubscribe to Google for Developers → https://goo.gle/developers \n\n#GoogleDeveloperNews\n\nSpeaker: Rody Davis\nProducts Mentioned:  Kaggle , Google DeepMind",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n_fb2t8QLAs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n_fb2t8QLAs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n_fb2t8QLAs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/n_fb2t8QLAs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/n_fb2t8QLAs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Influence;",
+          "Campaign: ;",
+          "Video Type:G4D SV: Educational ;",
+          "ct: ; ;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Just in from the news desk 📰: Tune into the Kaggle Game Arena",
+          "description": "Want to see how AI models handle real-world strategy and planning?\n\nKaggle Game Arena is a new stage for model-vs-model showdowns, starting with live chess. Grandmasters will be on hand with live commentary as models compete in real-time. The goal is to benchmark their reasoning, adaptability, and decision-making skills in action.\n\nResources:\n\nCatch the livestream 📺 → https://goo.gle/4mlZha4 \n\nWatch more Google Developer News → https://goo.gle/4e8Rysd  \nSubscribe to Google for Developers → https://goo.gle/developers \n\n#GoogleDeveloperNews\n\nSpeaker: Rody Davis\nProducts Mentioned:  Kaggle , Google DeepMind"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1M14S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "11062",
+        "likeCount": "538",
+        "favoriteCount": "0",
+        "commentCount": "11"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "0zY-9E4ZXpRKbUI_UH293rOtJZ0",
+      "id": "4xlwlU6h-wM",
+      "snippet": {
+        "publishedAt": "2025-08-05T23:00:16Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Building real-time voice applications with Live API",
+        "description": "Shrestha Basu Mallick, one of the product leads for the Gemini API, joins host Logan Kilpatrick for a deep dive of Gemini Live API, Google’s real-time, multimodal interface for developers. Learn about how native audio alongside new capabilities like proactive audio and async function calling unlocks the unique power of audio as an interface. \n\n0:00 - Intro\n1:18 - Live API OVERVIEW\n3:36 - Why audio is a special modality\n5:07 - Speed vs. precision in audio\n6:17 - Controllable and promptable TTS\n8:31 - What developers are building with the Live API\n11:14 - URL context and async calling features\n15:02 - Proactive audio and affective dialog\n16:55 - Addressing developer feedback\n21:54 - Live API roadmap\n23:49 - The role of long context\n24:57 - What’s next for the Live API\n26:41 - State of the AI audio market\n30:10 - Advice for developers getting started with the Live API\n31:16 - Live API demo\n38:10 - Demo wrap up and closing\n\nListen to this podcast: \nApple Podcasts → https://goo.gle/3Bm7QzQ \nSpotify → https://goo.gle/3ZL3ADl \n\nWatch more Release Notes → https://goo.gle/4njokfg \nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Logan Kilpatrick, Shrestha Basu Mallick\nProducts Mentioned:  Google AI",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4xlwlU6h-wM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4xlwlU6h-wM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4xlwlU6h-wM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4xlwlU6h-wM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4xlwlU6h-wM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Learn;",
+          "Video Type:Podcast;",
+          "gds:Yes;",
+          "ct: AIG;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Building real-time voice applications with Live API",
+          "description": "Shrestha Basu Mallick, one of the product leads for the Gemini API, joins host Logan Kilpatrick for a deep dive of Gemini Live API, Google’s real-time, multimodal interface for developers. Learn about how native audio alongside new capabilities like proactive audio and async function calling unlocks the unique power of audio as an interface. \n\n0:00 - Intro\n1:18 - Live API OVERVIEW\n3:36 - Why audio is a special modality\n5:07 - Speed vs. precision in audio\n6:17 - Controllable and promptable TTS\n8:31 - What developers are building with the Live API\n11:14 - URL context and async calling features\n15:02 - Proactive audio and affective dialog\n16:55 - Addressing developer feedback\n21:54 - Live API roadmap\n23:49 - The role of long context\n24:57 - What’s next for the Live API\n26:41 - State of the AI audio market\n30:10 - Advice for developers getting started with the Live API\n31:16 - Live API demo\n38:10 - Demo wrap up and closing\n\nListen to this podcast: \nApple Podcasts → https://goo.gle/3Bm7QzQ \nSpotify → https://goo.gle/3ZL3ADl \n\nWatch more Release Notes → https://goo.gle/4njokfg \nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Logan Kilpatrick, Shrestha Basu Mallick\nProducts Mentioned:  Google AI"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT40M14S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "7830",
+        "likeCount": "239",
+        "favoriteCount": "0",
+        "commentCount": "15"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Pzjjqa9l2aZoQlcBmzRUM96ea58",
+      "id": "5RRxu7QBcvI",
+      "snippet": {
+        "publishedAt": "2025-08-05T01:00:09Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Level up your code: 3 practices for success",
+        "description": "What coding habits or best practices should you be implementing into your workflows? Here are three simple tweaks to level up your coding game. \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Juan Vasquez",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5RRxu7QBcvI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5RRxu7QBcvI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5RRxu7QBcvI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5RRxu7QBcvI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5RRxu7QBcvI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Learn;",
+          "Campaign: ;",
+          "type:G4D SV: Educational ;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Level up your code: 3 practices for success",
+          "description": "What coding habits or best practices should you be implementing into your workflows? Here are three simple tweaks to level up your coding game. \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Juan Vasquez"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT53S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "13390",
+        "likeCount": "415",
+        "favoriteCount": "0",
+        "commentCount": "8"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "E9PVj_Y6VDiXuQwQZCPT_SpBRPA",
+      "id": "0lBSjNBuQX4",
+      "snippet": {
+        "publishedAt": "2025-08-04T13:00:06Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "What will this print and why doesn’t it change when updated? Go!",
+        "description": "This code compiles without warnings and runs successfully, but it contains a bug that could bite you. What do you think this code will output, and why doesn't the update operation work as expected? Share your analysis in the comments.\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeakers: Juan Vasquez",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0lBSjNBuQX4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0lBSjNBuQX4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0lBSjNBuQX4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0lBSjNBuQX4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0lBSjNBuQX4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Learn;",
+          "Campaign: ;",
+          "Video Type:G4D SV: Educational ;",
+          "ct: ;;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "What will this print and why doesn’t it change when updated? Go!",
+          "description": "This code compiles without warnings and runs successfully, but it contains a bug that could bite you. What do you think this code will output, and why doesn't the update operation work as expected? Share your analysis in the comments.\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeakers: Juan Vasquez"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT20S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "17041",
+        "likeCount": "243",
+        "favoriteCount": "0",
+        "commentCount": "12"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Pgta8WZgz61iNBICrlyOy3UaH5c",
+      "id": "ZmtbzEYxBz0",
+      "snippet": {
+        "publishedAt": "2025-08-01T19:00:38Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "How has your AI use changed over the past year? 🤔",
+        "description": "AI is constantly changing the developer experience. ✨ What's been the biggest shift in your AI use this past year?\n\nSubscribe to Google for Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZmtbzEYxBz0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZmtbzEYxBz0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZmtbzEYxBz0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZmtbzEYxBz0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZmtbzEYxBz0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Learn;",
+          "Campaign: ;",
+          "type:G4D SV: Educational ;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "How has your AI use changed over the past year? 🤔",
+          "description": "AI is constantly changing the developer experience. ✨ What's been the biggest shift in your AI use this past year?\n\nSubscribe to Google for Developers → https://goo.gle/developers"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT50S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "6690",
+        "likeCount": "158",
+        "favoriteCount": "0",
+        "commentCount": "8"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "rfLoEOknCFXbfUd2Fd-8YaJ9yR4",
+      "id": "rvI1gb-UA20",
+      "snippet": {
+        "publishedAt": "2025-07-31T23:00:56Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Just in from the news desk 📰: Just in from the news desk: Gemma 3n for mobile-first AI",
+        "description": "Gemma 3n has arrived and it’s pushing the boundaries for open, mobile-first AI. Get a sneak peek into the architectural innovations that make it a fast and flexible option for deploying models on phone, tablets, and laptops.. We’ll break down the multimodal capabilities and optimized performance that enable interactive, on-device AI experiences.\n\nResources: \nGemma 3n model overview →https://goo.gle/46AkCYD \n\nWatch more Google Developer News → https://goo.gle/4e8Rysd  \nSubscribe to Google for Developers → https://goo.gle/developers \n\n#googledevelopernews \n\nSpeaker: Christina Warren\nProducts Mentioned: Gemma",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rvI1gb-UA20/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rvI1gb-UA20/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rvI1gb-UA20/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rvI1gb-UA20/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rvI1gb-UA20/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Learn;",
+          "Campaign: ;",
+          "Video Type:G4D SV: Educational ;",
+          "ct: ; ;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Just in from the news desk 📰: Just in from the news desk: Gemma 3n for mobile-first AI",
+          "description": "Gemma 3n has arrived and it’s pushing the boundaries for open, mobile-first AI. Get a sneak peek into the architectural innovations that make it a fast and flexible option for deploying models on phone, tablets, and laptops.. We’ll break down the multimodal capabilities and optimized performance that enable interactive, on-device AI experiences.\n\nResources: \nGemma 3n model overview →https://goo.gle/46AkCYD \n\nWatch more Google Developer News → https://goo.gle/4e8Rysd  \nSubscribe to Google for Developers → https://goo.gle/developers \n\n#googledevelopernews \n\nSpeaker: Christina Warren\nProducts Mentioned: Gemma"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT55S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "8186",
+        "likeCount": "404",
+        "favoriteCount": "0",
+        "commentCount": "11"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "K4CJLds6cnKPdMfyp6J28SCVWW4",
+      "id": "d6975pmWfr4",
+      "snippet": {
+        "publishedAt": "2025-07-31T04:00:50Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "App loading slowly? Unoptimized images may be the cause. ☝️ (3 tips to fix)",
+        "description": "Unoptimized images can hurt your user experience in more ways than one. Here are three tips to help shrink your load time and lower latency. \n\nSubscribe to Google for Developers → https://goo.gle/developers \\\n\nSpeaker:  Meg Bauman",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/d6975pmWfr4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/d6975pmWfr4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/d6975pmWfr4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/d6975pmWfr4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/d6975pmWfr4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Learn;",
+          "Campaign: ;",
+          "type:G4D SV: Educational ;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "App loading slowly? Unoptimized images may be the cause. ☝️ (3 tips to fix)",
+          "description": "Unoptimized images can hurt your user experience in more ways than one. Here are three tips to help shrink your load time and lower latency. \n\nSubscribe to Google for Developers → https://goo.gle/developers \\\n\nSpeaker:  Meg Bauman"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT46S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "9150",
+        "likeCount": "386",
+        "favoriteCount": "0",
+        "commentCount": "7"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 50,
+    "resultsPerPage": 50
+  }
+}

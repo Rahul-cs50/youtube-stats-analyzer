@@ -1,0 +1,3523 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "hRhNo73MwELNPs5Xo70GlXrV0tw",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "eiH6OJY-jp7wOKxwNPwQ5QGj1Rs",
+      "id": "VJllI3jMEb4",
+      "snippet": {
+        "publishedAt": "2025-05-23T22:39:22Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Darren Aronofsky and Demis Hassabis on storytelling in the age of AI",
+        "description": "Join Primordial Soup Founder Darren Aronofsky and Google DeepMind CEO and Co-Founder Demis Hassabis for a conversation about their newly announced collaboration and how artificial intelligence is expanding creative frontiers for storytellers. Later in the discussion, filmmaker Eliza McNitt will share her experience directing Ancestra, the first film produced through this partnership.\n\nSpeakers: Darren Aronofsky, Eliza McNitt, Mira Lane, Demis Hassabis\n\nCheck out the AI session track from Google I/O 2025 → https://goo.gle/io25-ai-yt\nCheck out all the Dialogues sessions from Google I/O 2025 → https://goo.gle/io25-dialogues  \nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\n\nEvent: Google I/O 2025\n\nProducts Mentioned: AI/Machine Learning",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VJllI3jMEb4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VJllI3jMEb4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VJllI3jMEb4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VJllI3jMEb4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VJllI3jMEb4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google I/O;",
+          "ct:Event - Dialogues;",
+          "ct:Stack - AI;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Darren Aronofsky and Demis Hassabis on storytelling in the age of AI",
+          "description": "Join Primordial Soup Founder Darren Aronofsky and Google DeepMind CEO and Co-Founder Demis Hassabis for a conversation about their newly announced collaboration and how artificial intelligence is expanding creative frontiers for storytellers. Later in the discussion, filmmaker Eliza McNitt will share her experience directing Ancestra, the first film produced through this partnership.\n\nSpeakers: Darren Aronofsky, Eliza McNitt, Mira Lane, Demis Hassabis\n\nCheck out the AI session track from Google I/O 2025 → https://goo.gle/io25-ai-yt\nCheck out all the Dialogues sessions from Google I/O 2025 → https://goo.gle/io25-dialogues  \nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\n\nEvent: Google I/O 2025\n\nProducts Mentioned: AI/Machine Learning"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT42M44S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "16608",
+        "likeCount": "402",
+        "favoriteCount": "0",
+        "commentCount": "50"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "xhOetFgwlkPPIXv2oPTLJWW0vJU",
+      "id": "1bZVJMQ0uMs",
+      "snippet": {
+        "publishedAt": "2025-05-23T20:00:01Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "ViddyScribe - Gemini powered accessibility for Video",
+        "description": "How does the Blind and low-vision community enjoy their own video content? This was the problem that the two-person team at ViddyScribe wanted to solve with AI-generated audio descriptions. Using Google's Gemini Flash, ViddyScribe quickly generates full audio descriptions of any video with a simple drag-and-drop interface. Learn how the creators found their inspiration and made it a reality with Gemini Flash. \n\nResources:\nSee how this video sounds with audio-description → https://youtu.be/Kyhd1jbD7zk\nStart building with Gemini API → https://goo.gle/3Qsa5Fs \nLearn more about the Hull Foundation and Learning Center →  https://goo.gle/3R9iHRS \n\nSubscribe to Google AI Developers → https://goo.gle/ai-for-devs \n\n#GoogleAI #BuildwithGemini\n\nProducts Mentioned: Gemini 1.5 Pro, Gemini",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1bZVJMQ0uMs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1bZVJMQ0uMs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1bZVJMQ0uMs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1bZVJMQ0uMs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1bZVJMQ0uMs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: AI DevRel (fka Core ML);",
+          "ct: AIG;",
+          "gds:N/A;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "ViddyScribe - Gemini powered accessibility for Video",
+          "description": "How does the Blind and low-vision community enjoy their own video content? This was the problem that the two-person team at ViddyScribe wanted to solve with AI-generated audio descriptions. Using Google's Gemini Flash, ViddyScribe quickly generates full audio descriptions of any video with a simple drag-and-drop interface. Learn how the creators found their inspiration and made it a reality with Gemini Flash. \n\nResources:\nSee how this video sounds with audio-description → https://youtu.be/Kyhd1jbD7zk\nStart building with Gemini API → https://goo.gle/3Qsa5Fs \nLearn more about the Hull Foundation and Learning Center →  https://goo.gle/3R9iHRS \n\nSubscribe to Google AI Developers → https://goo.gle/ai-for-devs \n\n#GoogleAI #BuildwithGemini\n\nProducts Mentioned: Gemini 1.5 Pro, Gemini"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT2M58S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "4617",
+        "likeCount": "158",
+        "favoriteCount": "0",
+        "commentCount": "12"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "9GQUWBQEhDq3rbGEZLhICqdeb_Q",
+      "id": "jnUUo7xso_0",
+      "snippet": {
+        "publishedAt": "2025-05-23T19:43:50Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Waymo: AI in the physical world powering the future of driving",
+        "description": "Hear from Dmitri Dolgov, Co-CEO of Waymo — a driving force in the autonomous vehicle industry dedicated to building the world's most trusted driver. Waymo’s vehicles are the most advanced application of AI in the physical world, now serving over 250K weekly rides. As a pioneer in this transformative technology, Dmitri will take us on a ride through the history of autonomous driving, the critical role of AI in this tech’s development and deployment, and the exciting possibilities that lie ahead.\n\nResources: \nWaymo Safety Impact → https://goo.gle/4kj3Vog \nWaymo AI Research → https://goo.gle/4m3Kx02\n\nSpeakers: Aditi Roy, Dmitri Dolgov\n\nCheck out the AI session track from Google I/O 2025 → https://goo.gle/io25-ai-yt\nCheck out all the Dialogues sessions from Google I/O 2025 → https://goo.gle/io25-dialogues  \nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\n\nEvent: Google I/O 2025\n\nProducts Mentioned: AI/Machine Learning",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jnUUo7xso_0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jnUUo7xso_0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jnUUo7xso_0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jnUUo7xso_0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jnUUo7xso_0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google I/O;",
+          "ct:Event - Dialogues;",
+          "ct:Stack - AI;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Waymo: AI in the physical world powering the future of driving",
+          "description": "Hear from Dmitri Dolgov, Co-CEO of Waymo — a driving force in the autonomous vehicle industry dedicated to building the world's most trusted driver. Waymo’s vehicles are the most advanced application of AI in the physical world, now serving over 250K weekly rides. As a pioneer in this transformative technology, Dmitri will take us on a ride through the history of autonomous driving, the critical role of AI in this tech’s development and deployment, and the exciting possibilities that lie ahead.\n\nResources: \nWaymo Safety Impact → https://goo.gle/4kj3Vog \nWaymo AI Research → https://goo.gle/4m3Kx02\n\nSpeakers: Aditi Roy, Dmitri Dolgov\n\nCheck out the AI session track from Google I/O 2025 → https://goo.gle/io25-ai-yt\nCheck out all the Dialogues sessions from Google I/O 2025 → https://goo.gle/io25-dialogues  \nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\n\nEvent: Google I/O 2025\n\nProducts Mentioned: AI/Machine Learning"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT30M16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "67295",
+        "likeCount": "1338",
+        "favoriteCount": "0",
+        "commentCount": "123"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "358Q1F3Mw2-d_ULTIHGonWLeUM4",
+      "id": "o7U4DV9Fkc0",
+      "snippet": {
+        "publishedAt": "2025-05-23T19:00:17Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Sergey Brin on the Future of AI & Gemini",
+        "description": "A conversation with Sergey Brin, co-founder of Google and computer scientist working on Gemini, in reaction to a year of progress with Gemini.\n\nListen to this podcast\nApple Podcasts → https://goo.gle/3Bm7QzQ \nSpotify → https://goo.gle/3ZL3ADl\n\nChapters\n0:20 - Initial reactions to I/O\n2:00 - Focus on Gemini’s core text model\n4:29 - Native audio in Gemini and Veo 3\n8:34 - Insights from model training runs\n10:07 - Surprises in current AI developments vs. past expectations\n14:20 - Evolution of model training\n16:40 - The future of reasoning and Deep Think\n20:19 - Google’s startup culture and accelerating AI innovation\n24:51 - Closing\n\nWatch more Release Notes → https://goo.gle/4njokfg \nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Logan Kilpatrick \nProducts Mentioned: Gemini, Google AI",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/o7U4DV9Fkc0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/o7U4DV9Fkc0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/o7U4DV9Fkc0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/o7U4DV9Fkc0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Sergey Brin on the Future of AI & Gemini",
+          "description": "A conversation with Sergey Brin, co-founder of Google and computer scientist working on Gemini, in reaction to a year of progress with Gemini.\n\nListen to this podcast\nApple Podcasts → https://goo.gle/3Bm7QzQ \nSpotify → https://goo.gle/3ZL3ADl\n\nChapters\n0:20 - Initial reactions to I/O\n2:00 - Focus on Gemini’s core text model\n4:29 - Native audio in Gemini and Veo 3\n8:34 - Insights from model training runs\n10:07 - Surprises in current AI developments vs. past expectations\n14:20 - Evolution of model training\n16:40 - The future of reasoning and Deep Think\n20:19 - Google’s startup culture and accelerating AI innovation\n24:51 - Closing\n\nWatch more Release Notes → https://goo.gle/4njokfg \nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Logan Kilpatrick \nProducts Mentioned: Gemini, Google AI"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT27M20S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "42815",
+        "likeCount": "1118",
+        "favoriteCount": "0",
+        "commentCount": "199"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "s2kUnPCqxAxJYapDH_8nyuRJBtE",
+      "id": "LcgnbTMjYcA",
+      "snippet": {
+        "publishedAt": "2025-05-22T23:00:31Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "What’s new in the Gemmaverse, Android & Chrome - Google Developer News May 2025 (Google IO Version)",
+        "description": "Updates for Gemma, Android, Chrome, and Flutter? Oh, my! In this jam-packed Google Developer News episode, we're diving into the key announcements and exploring the latest updates from Google IO. See what’s new across web, AI and cloud. \n\nChapters: \n0:00 - Intro \n0:45 - Updates in the Gemmaverse\n1:30 - New features in Google AI Studio \n1:46 - What’s new in Android \n3:57 - What’s new in Chrome \n5:18 - What’s new in Flutter \n6:04 - Don’t forget to tune into Google I/O sessions on- demand!\n\nResources:\nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \nWatch more Google Developer News → https://goo.gle/4e8Rysd  \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\n#GoogleDeveloperNews \n\nSpeaker: Dan Galpin\nProducts Mentioned: Google AI, Gemma,  Generative AI, Flutter, Android, Chrome",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LcgnbTMjYcA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LcgnbTMjYcA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LcgnbTMjYcA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LcgnbTMjYcA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LcgnbTMjYcA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Learn;",
+          "Video Type:Dev News;",
+          "ct: AIG;;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "What’s new in the Gemmaverse, Android & Chrome - Google Developer News May 2025 (Google IO Version)",
+          "description": "Updates for Gemma, Android, Chrome, and Flutter? Oh, my! In this jam-packed Google Developer News episode, we're diving into the key announcements and exploring the latest updates from Google IO. See what’s new across web, AI and cloud. \n\nChapters: \n0:00 - Intro \n0:45 - Updates in the Gemmaverse\n1:30 - New features in Google AI Studio \n1:46 - What’s new in Android \n3:57 - What’s new in Chrome \n5:18 - What’s new in Flutter \n6:04 - Don’t forget to tune into Google I/O sessions on- demand!\n\nResources:\nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \nWatch more Google Developer News → https://goo.gle/4e8Rysd  \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\n#GoogleDeveloperNews \n\nSpeaker: Dan Galpin\nProducts Mentioned: Google AI, Gemma,  Generative AI, Flutter, Android, Chrome"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT6M35S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2598",
+        "likeCount": "71",
+        "favoriteCount": "0",
+        "commentCount": "4"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "UzuCKNUlq2OC6fJ0BpFcgtY9fV8",
+      "id": "5HaXfjHtCWo",
+      "snippet": {
+        "publishedAt": "2025-05-22T22:25:00Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Quantum computing: reading signals from the noise",
+        "description": "There's been a lot of talk about quantum computing lately. But for the developers and scientists among us, how can we detect the signal from the noise? In this fireside chat we’ll get into the big and interesting questions on this often misunderstood technology; from how to assess true breakthroughs, to applications, encryption concerns, and more—let’s get into some real talk on quantum computing!\n\nResources: \nMeet Willow, our state-of-the-art quantum chip → https://goo.gle/4jLUn5a \n\nSpeakers: Julian Kelly, Sinead Bovell\n\nCheck out the AI session track from Google I/O 2025 → https://goo.gle/io25-ai-yt\nCheck out all the Dialogues sessions from Google I/O 2025 → https://goo.gle/io25-dialogues  \nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\nEvent: Google I/O 2025\n\nProducts Mentioned: AI/Machine Learning",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5HaXfjHtCWo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5HaXfjHtCWo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5HaXfjHtCWo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5HaXfjHtCWo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5HaXfjHtCWo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google I/O;",
+          "ct:Event - Dialogues;",
+          "ct:Stack - AI;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Quantum computing: reading signals from the noise",
+          "description": "There's been a lot of talk about quantum computing lately. But for the developers and scientists among us, how can we detect the signal from the noise? In this fireside chat we’ll get into the big and interesting questions on this often misunderstood technology; from how to assess true breakthroughs, to applications, encryption concerns, and more—let’s get into some real talk on quantum computing!\n\nResources: \nMeet Willow, our state-of-the-art quantum chip → https://goo.gle/4jLUn5a \n\nSpeakers: Julian Kelly, Sinead Bovell\n\nCheck out the AI session track from Google I/O 2025 → https://goo.gle/io25-ai-yt\nCheck out all the Dialogues sessions from Google I/O 2025 → https://goo.gle/io25-dialogues  \nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\nEvent: Google I/O 2025\n\nProducts Mentioned: AI/Machine Learning"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT19M4S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1734",
+        "likeCount": "58",
+        "favoriteCount": "0",
+        "commentCount": "8"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "aKfUVi7046ZCZSm0oKRb26iHsRg",
+      "id": "NYtQuneZMXc",
+      "snippet": {
+        "publishedAt": "2025-05-22T22:22:57Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Science in the age of AI",
+        "description": "Join us to explore how AI is enabling scientists to tackle complex challenges and accelerate scientific breakthroughs. Discover the practical applications of AI for science such as accelerated data analysis in genomics, supercharging drug discovery pipelines, and transforming patient care in medicine.\n\nResources: \nAMIE gains vision: A research AI agent for multimodal diagnostic dialogue → https://goo.gle/4dhydpd \nIntroducing TxGemma: Open models to improve therapeutics development → https://goo.gle/43hK9Tj \nAlphaFold Sever, powered by AlphaFold 3 → https://goo.gle/4j03s9l \n\nSpeakers: Anima Anandkumar, James Manyika, Joëlle Barral, Pushmeet Kohli\n\nCheck out the AI session track from Google I/O 2025 → https://goo.gle/io25-ai-yt\nCheck out all the Dialogues sessions from Google I/O 2025 → https://goo.gle/io25-dialogues  \nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\n\nEvent: Google I/O 2025\n\nProducts Mentioned: AI/Machine Learning",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NYtQuneZMXc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NYtQuneZMXc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NYtQuneZMXc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NYtQuneZMXc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NYtQuneZMXc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "pr_pr: Google I/O;",
+          "ct:Event - Dialogues;",
+          "ct:Stack - AI;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Science in the age of AI",
+          "description": "Join us to explore how AI is enabling scientists to tackle complex challenges and accelerate scientific breakthroughs. Discover the practical applications of AI for science such as accelerated data analysis in genomics, supercharging drug discovery pipelines, and transforming patient care in medicine.\n\nResources: \nAMIE gains vision: A research AI agent for multimodal diagnostic dialogue → https://goo.gle/4dhydpd \nIntroducing TxGemma: Open models to improve therapeutics development → https://goo.gle/43hK9Tj \nAlphaFold Sever, powered by AlphaFold 3 → https://goo.gle/4j03s9l \n\nSpeakers: Anima Anandkumar, James Manyika, Joëlle Barral, Pushmeet Kohli\n\nCheck out the AI session track from Google I/O 2025 → https://goo.gle/io25-ai-yt\nCheck out all the Dialogues sessions from Google I/O 2025 → https://goo.gle/io25-dialogues  \nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\n\nEvent: Google I/O 2025\n\nProducts Mentioned: AI/Machine Learning"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT46M6S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1814",
+        "likeCount": "49",
+        "favoriteCount": "0",
+        "commentCount": "3"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "aDJZhMrxliMyWaToo_N_05-WTL8",
+      "id": "sNwaU0w3NS8",
+      "snippet": {
+        "publishedAt": "2025-05-22T21:55:54Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Behind the lens: AI, creativity, and the future of filmmaking tools",
+        "description": "Go behind the scenes with filmmakers pioneering the use of AI. Gain practical insights into the power and possibilities of next-generation tools in shaping modern storytelling. Learn how the creative process is evolving and explore how Google’s collaboration with filmmakers is informing the development of new technologies. Explore the possibilities when human ingenuity meets artificial intelligence.\n\nSpeakers: Mira Lane, Henry Daubrez, Dave Clark, Junie Lau\n\nCheck out the AI session track from Google I/O 2025 → https://goo.gle/io25-ai-yt\nCheck out all the Dialogues sessions from Google I/O 2025 → https://goo.gle/io25-dialogues  \nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\n\nEvent: Google I/O 2025\n\nProducts Mentioned: AI/Machine Learning",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sNwaU0w3NS8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sNwaU0w3NS8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sNwaU0w3NS8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sNwaU0w3NS8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sNwaU0w3NS8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "pr_pr: Google I/O;",
+          "ct:Event - Dialogues;",
+          "ct:Stack - AI;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Behind the lens: AI, creativity, and the future of filmmaking tools",
+          "description": "Go behind the scenes with filmmakers pioneering the use of AI. Gain practical insights into the power and possibilities of next-generation tools in shaping modern storytelling. Learn how the creative process is evolving and explore how Google’s collaboration with filmmakers is informing the development of new technologies. Explore the possibilities when human ingenuity meets artificial intelligence.\n\nSpeakers: Mira Lane, Henry Daubrez, Dave Clark, Junie Lau\n\nCheck out the AI session track from Google I/O 2025 → https://goo.gle/io25-ai-yt\nCheck out all the Dialogues sessions from Google I/O 2025 → https://goo.gle/io25-dialogues  \nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\n\nEvent: Google I/O 2025\n\nProducts Mentioned: AI/Machine Learning"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT22M18S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1639",
+        "likeCount": "39",
+        "favoriteCount": "0",
+        "commentCount": "4"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "DO1buU0uE09Q005KkR-1R6V1Dqo",
+      "id": "5MPxzw15ojE",
+      "snippet": {
+        "publishedAt": "2025-05-22T21:51:44Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Turing winner David Patterson: how to give AI a bad carbon footprint",
+        "description": "Join Turing Award laureate David Patterson for a look at the environmental considerations of AI. David will give tongue-in-cheek advice on how to make AI’s carbon footprint worse, and then how to make it better. He will dispel common fallacies about AI’s emissions. Learn key factors influencing AI's carbon footprint and gain valuable perspectives on building more sustainable AI systems.\n\nResources: \nThe Carbon Footprint of Machine Learning Training Will Plateau, Then Shrink → https://goo.gle/3GMakKa \nEnergy and Emissions of Machine Learning on Smartphones versus the Cloud: A Google Case Study → https://goo.gle/4k9Nlab \nEnergy Is Physics, but Emissions Is Accounting: What’s Really Green? → https://goo.gle/459Tpeq \nLife-Cycle Emissions of AI Hardware: A Cradle-To-Grave Approach and Generational Trends → https://goo.gle/44vWPIo \n\nSpeakers: David Patterson\n\nCheck out the AI session track from Google I/O 2025 → https://goo.gle/io25-ai-yt\nCheck out all the Dialogues sessions from Google I/O 2025 → https://goo.gle/io25-dialogues  \nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt  \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\n\nEvent: Google I/O 2025\n\nProducts Mentioned: AI/Machine Learning",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5MPxzw15ojE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5MPxzw15ojE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5MPxzw15ojE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5MPxzw15ojE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5MPxzw15ojE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google I/O;",
+          "ct:Event - Dialogues;",
+          "ct:Stack - AI;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Turing winner David Patterson: how to give AI a bad carbon footprint",
+          "description": "Join Turing Award laureate David Patterson for a look at the environmental considerations of AI. David will give tongue-in-cheek advice on how to make AI’s carbon footprint worse, and then how to make it better. He will dispel common fallacies about AI’s emissions. Learn key factors influencing AI's carbon footprint and gain valuable perspectives on building more sustainable AI systems.\n\nResources: \nThe Carbon Footprint of Machine Learning Training Will Plateau, Then Shrink → https://goo.gle/3GMakKa \nEnergy and Emissions of Machine Learning on Smartphones versus the Cloud: A Google Case Study → https://goo.gle/4k9Nlab \nEnergy Is Physics, but Emissions Is Accounting: What’s Really Green? → https://goo.gle/459Tpeq \nLife-Cycle Emissions of AI Hardware: A Cradle-To-Grave Approach and Generational Trends → https://goo.gle/44vWPIo \n\nSpeakers: David Patterson\n\nCheck out the AI session track from Google I/O 2025 → https://goo.gle/io25-ai-yt\nCheck out all the Dialogues sessions from Google I/O 2025 → https://goo.gle/io25-dialogues  \nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt  \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\n\nEvent: Google I/O 2025\n\nProducts Mentioned: AI/Machine Learning"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT34M31S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1120",
+        "likeCount": "35",
+        "favoriteCount": "0",
+        "commentCount": "6"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "-XzSO2mpxE7XuHKFE9pV4LrrQ1g",
+      "id": "STMN5N-bDko",
+      "snippet": {
+        "publishedAt": "2025-05-22T21:35:42Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Under the hood with Google AI",
+        "description": "Learn how Gemini is reshaping knowledge and productivity, building with AI, revolutionizing search, and more. Google leadership will discuss the latest AI developments and the exciting possibilities for the future.\n\nResources: \nGoogle Labs, the home for AI experiments at Google → https://goo.gle/4jTBGwA \n\nSpeakers: Elizabeth Reid, Koray Kavukcuoglu, Logan Kilpatrick, Josh Woodward\n\nCheck out the AI session track from Google I/O 2025 → https://goo.gle/io25-ai-yt\nCheck out all the Dialogues sessions from Google I/O 2025 → https://goo.gle/io25-dialogues  \nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\nEvent: Google I/O 2025\n\nProducts Mentioned: AI/Machine Learning",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/STMN5N-bDko/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/STMN5N-bDko/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/STMN5N-bDko/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/STMN5N-bDko/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/STMN5N-bDko/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google I/O;",
+          "ct:Event - Dialogues;",
+          "ct:Stack - AI;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Under the hood with Google AI",
+          "description": "Learn how Gemini is reshaping knowledge and productivity, building with AI, revolutionizing search, and more. Google leadership will discuss the latest AI developments and the exciting possibilities for the future.\n\nResources: \nGoogle Labs, the home for AI experiments at Google → https://goo.gle/4jTBGwA \n\nSpeakers: Elizabeth Reid, Koray Kavukcuoglu, Logan Kilpatrick, Josh Woodward\n\nCheck out the AI session track from Google I/O 2025 → https://goo.gle/io25-ai-yt\nCheck out all the Dialogues sessions from Google I/O 2025 → https://goo.gle/io25-dialogues  \nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\nEvent: Google I/O 2025\n\nProducts Mentioned: AI/Machine Learning"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT43M24S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "6037",
+        "likeCount": "118",
+        "favoriteCount": "0",
+        "commentCount": "50"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "AAZhjNiaXTaWp3ijPAgiJJrR3f8",
+      "id": "Lq8JRE2YqTU",
+      "snippet": {
+        "publishedAt": "2025-05-22T17:58:49Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "What’s new in Android (Google I/O 2025 recap)",
+        "description": "Attention Android devs! Here’s what you need to know about all the Android updates at #GoogleIO, from the President of Android: Sameer Samata\n\nFrom integrating AI into your apps to helping you build adaptive so you can unlock over 500 million new devices across foldables, tablets, Chrome OS, Cars and the new Android XR, there’s so much you can do, and it’s getting even easier to build thanks to Gemini in Android Studio, your AI coding assistant built right into Android Studio. \n\nResources:\nYou can read the top 16 announcements for Android Devs here → https://goo.gle/44KznY0 \n \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\nSpeaker: Sameer Samat, Diana Wong, Florina Muntenescu\nProducts Mentioned: Gemini, Google AI, Android\n\nEvent: Google IO",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Lq8JRE2YqTU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Lq8JRE2YqTU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Lq8JRE2YqTU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Lq8JRE2YqTU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Lq8JRE2YqTU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Influence;",
+          "Campaign: ;",
+          "Video Type:G4D SV: I/O ;",
+          "ct: ; ;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "What’s new in Android (Google I/O 2025 recap)",
+          "description": "Attention Android devs! Here’s what you need to know about all the Android updates at #GoogleIO, from the President of Android: Sameer Samata\n\nFrom integrating AI into your apps to helping you build adaptive so you can unlock over 500 million new devices across foldables, tablets, Chrome OS, Cars and the new Android XR, there’s so much you can do, and it’s getting even easier to build thanks to Gemini in Android Studio, your AI coding assistant built right into Android Studio. \n\nResources:\nYou can read the top 16 announcements for Android Devs here → https://goo.gle/44KznY0 \n \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\nSpeaker: Sameer Samat, Diana Wong, Florina Muntenescu\nProducts Mentioned: Gemini, Google AI, Android\n\nEvent: Google IO"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT51S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "11023209",
+        "likeCount": "19222",
+        "favoriteCount": "0",
+        "commentCount": "28"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "03UZtYtAxT905HtfU4k9di9nc90",
+      "id": "DPQF_6o4G_E",
+      "snippet": {
+        "publishedAt": "2025-05-22T16:13:54Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Release Notes: Google I/O 2025 Recap with Josh Woodward and Tulsee Doshi",
+        "description": "Tulsee Doshi (Head of Product, Gemini) and Josh Woodward (VP of Google Labs and Google Gemini) join host Logan Kilpatrick from Google I/O 2025 for a special edition of Release Notes. They unpack the latest launches, new models and tools for developers. Listen to learn more about 2.5 Pro Deep Think, Veo 3 and AI coding agents like Jules and Stitch.\n\nLearn more\nAI Studio: https://aistudio.google.com/\nGemini Canvas: https://gemini.google.com/canvas\nMariner: https://labs.google.com/mariner/\nGemini Ultra: https://one.google.com/about/google-ai-plans\nJules: https://jules.google/\nGemini Diffusion: https://deepmind.google/models/gemini-diffusion/\nFlow: https://labs.google/flow/about\nNotebook LM: https://notebooklm.google.com/\nStitch: https://stitch.withgoogle.com/\n\nChapters\n0:59 - I/O Day 1 Recap\n02:48 - Envisioning I/O 2030\n08:11 - AI for Scientific Breakthroughs\n09:20 - Veo 3 & Flow\n7:35 - Gemini Live & the Future of Proactive Assistants\n20:30 - Gemini in Chrome & Future Apps\n22:28 - New Gemini Models: DeepThink, Diffusion & 2.5 Flash/Pro Updates\n27:19 - Developer Momentum & Feedback Loop\n31:50 - New Developer Products: Jules, Stitch & CodeGen in AI Studio\n37:44 - Evolving Product Development Process with AI\n39:23 - Closing\n\nListen to this podcast: \nApple Podcasts → https://goo.gle/3Bm7QzQ \nSpotify → https://goo.gle/3ZL3ADl\n\nWatch more Release Notes → https://goo.gle/4njokfg \nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Logan Kilpatrick \nProducts Mentioned: Gemini, Google AI",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DPQF_6o4G_E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DPQF_6o4G_E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DPQF_6o4G_E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DPQF_6o4G_E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Release Notes: Google I/O 2025 Recap with Josh Woodward and Tulsee Doshi",
+          "description": "Tulsee Doshi (Head of Product, Gemini) and Josh Woodward (VP of Google Labs and Google Gemini) join host Logan Kilpatrick from Google I/O 2025 for a special edition of Release Notes. They unpack the latest launches, new models and tools for developers. Listen to learn more about 2.5 Pro Deep Think, Veo 3 and AI coding agents like Jules and Stitch.\n\nLearn more\nAI Studio: https://aistudio.google.com/\nGemini Canvas: https://gemini.google.com/canvas\nMariner: https://labs.google.com/mariner/\nGemini Ultra: https://one.google.com/about/google-ai-plans\nJules: https://jules.google/\nGemini Diffusion: https://deepmind.google/models/gemini-diffusion/\nFlow: https://labs.google/flow/about\nNotebook LM: https://notebooklm.google.com/\nStitch: https://stitch.withgoogle.com/\n\nChapters\n0:59 - I/O Day 1 Recap\n02:48 - Envisioning I/O 2030\n08:11 - AI for Scientific Breakthroughs\n09:20 - Veo 3 & Flow\n7:35 - Gemini Live & the Future of Proactive Assistants\n20:30 - Gemini in Chrome & Future Apps\n22:28 - New Gemini Models: DeepThink, Diffusion & 2.5 Flash/Pro Updates\n27:19 - Developer Momentum & Feedback Loop\n31:50 - New Developer Products: Jules, Stitch & CodeGen in AI Studio\n37:44 - Evolving Product Development Process with AI\n39:23 - Closing\n\nListen to this podcast: \nApple Podcasts → https://goo.gle/3Bm7QzQ \nSpotify → https://goo.gle/3ZL3ADl\n\nWatch more Release Notes → https://goo.gle/4njokfg \nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Logan Kilpatrick \nProducts Mentioned: Gemini, Google AI"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT40M15S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "22572",
+        "likeCount": "449",
+        "favoriteCount": "0",
+        "commentCount": "54"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "2cdNj6MKuerbwAcxuK877W1ptGU",
+      "id": "kj80m-umOxs",
+      "snippet": {
+        "publishedAt": "2025-05-22T15:40:05Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "What's new in Go",
+        "description": "There’s a lot to love about Go 1.24, including support for post-quantum cryptography, full support for generic type aliases, and several performance improvements to the Go runtime that significantly decrease CPU overhead for most applications. Learn what’s new, what’s ahead, and how you can use Go to build scalable, secure, and reliable applications — including for gen AI workloads.\n\nResources: \nGo → https://goo.gle/3RY4fwv \nGo 1.24 is released →  https://goo.gle/43arfh6 \nGo 1.23 is released → https://goo.gle/454powB \nBuilding LLM-powered applications in Go → https://goo.gle/42QixWb \n\nSpeakers: Cameron Balahan, Marc Dougherty\n\nCheck out all the keynote sessions from Google I/O 2025 → https://goo.gle/IO25-Keynotes\nCheck out the cloud session track from Google I/O 2025 → https://goo.gle/io25-gct-yt \nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\nEvent: Google I/O 2025\n\nProducts Mentioned: Go",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kj80m-umOxs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kj80m-umOxs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kj80m-umOxs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kj80m-umOxs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kj80m-umOxs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "pr_pr: Google I/O;",
+          "ct:Event - Cloud PA Keynote;",
+          "ct:Stack - Cloud;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "What's new in Go",
+          "description": "There’s a lot to love about Go 1.24, including support for post-quantum cryptography, full support for generic type aliases, and several performance improvements to the Go runtime that significantly decrease CPU overhead for most applications. Learn what’s new, what’s ahead, and how you can use Go to build scalable, secure, and reliable applications — including for gen AI workloads.\n\nResources: \nGo → https://goo.gle/3RY4fwv \nGo 1.24 is released →  https://goo.gle/43arfh6 \nGo 1.23 is released → https://goo.gle/454powB \nBuilding LLM-powered applications in Go → https://goo.gle/42QixWb \n\nSpeakers: Cameron Balahan, Marc Dougherty\n\nCheck out all the keynote sessions from Google I/O 2025 → https://goo.gle/IO25-Keynotes\nCheck out the cloud session track from Google I/O 2025 → https://goo.gle/io25-gct-yt \nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\nEvent: Google I/O 2025\n\nProducts Mentioned: Go"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT20M41S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "76187",
+        "likeCount": "2157",
+        "favoriteCount": "0",
+        "commentCount": "171"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "KfJ6NT-viBRtvMKiaxoKm4qYrUA",
+      "id": "Uh-7YX8tkxI",
+      "snippet": {
+        "publishedAt": "2025-05-22T15:37:41Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Demis Hassabis on the frontiers of AI",
+        "description": "Join Demis Hassabis, co-founder and CEO of Google DeepMind, Sergey Brin, Co-Founder, Google, and Alex Kantrowitz, Host of the Big Technology Podcast, for a visionary conversation about the future of AI and its impact on our world. This marquee session offers a unique opportunity to hear directly from one of the most influential leaders in the field of AI.\n\nSpeakers: Demis Hassabis, Alex Kantrowitz\n\nCheck out the AI session track from Google I/O 2025 → https://goo.gle/io25-ai-yt\nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\nEvent: Google I/O 2025\n\nProducts Mentioned: AI/Machine Learning",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Uh-7YX8tkxI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Uh-7YX8tkxI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Uh-7YX8tkxI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Uh-7YX8tkxI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Uh-7YX8tkxI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google I/O;",
+          "ct:Event - Dialogues;",
+          "ct:Stack - AI;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Demis Hassabis on the frontiers of AI",
+          "description": "Join Demis Hassabis, co-founder and CEO of Google DeepMind, Sergey Brin, Co-Founder, Google, and Alex Kantrowitz, Host of the Big Technology Podcast, for a visionary conversation about the future of AI and its impact on our world. This marquee session offers a unique opportunity to hear directly from one of the most influential leaders in the field of AI.\n\nSpeakers: Demis Hassabis, Alex Kantrowitz\n\nCheck out the AI session track from Google I/O 2025 → https://goo.gle/io25-ai-yt\nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\nEvent: Google I/O 2025\n\nProducts Mentioned: AI/Machine Learning"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT29M51S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "26811",
+        "likeCount": "493",
+        "favoriteCount": "0",
+        "commentCount": "33"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Ot8dJ8DGYnyVant7V_kFnaLzFt4",
+      "id": "o7Bv4r08FBM",
+      "snippet": {
+        "publishedAt": "2025-05-22T15:36:56Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "What's new in the Gemmaverse",
+        "description": "The Gemma family of open models keeps evolving, offering developers powerful tools for building a wide range of AI applications. We'll provide an overview of the latest Gemma models, highlighting new advancements in performance and capabilities. You'll also learn about the growing Gemma ecosystem, including tools for building products with it, community resources, and how to evaluate the best models fit for your project needs.\n\nResources: \nGemma 3 → https://goo.gle/gemma \nWelcome to the Gemmaverse → https://goo.gle/3RXr83f \nWelcome to the Gemma Cookbook → https://goo.gle/3Z9JmCs \n\nSpeakers: Omar Sanseviero, Gus Martins\n\nCheck out the AI session track from Google I/O 2025 → https://goo.gle/io25-ai-yt\nCheck out all the keynote sessions from Google I/O 2025 → https://goo.gle/IO25-Keynotes\nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\nEvent: Google I/O 2025\n\nProducts Mentioned: AI/Machine Learning",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/o7Bv4r08FBM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/o7Bv4r08FBM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/o7Bv4r08FBM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/o7Bv4r08FBM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/o7Bv4r08FBM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "pr_pr: Google I/O;",
+          "ct:Event - AI PA Keynote;",
+          "ct:Stack - AI;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "What's new in the Gemmaverse",
+          "description": "The Gemma family of open models keeps evolving, offering developers powerful tools for building a wide range of AI applications. We'll provide an overview of the latest Gemma models, highlighting new advancements in performance and capabilities. You'll also learn about the growing Gemma ecosystem, including tools for building products with it, community resources, and how to evaluate the best models fit for your project needs.\n\nResources: \nGemma 3 → https://goo.gle/gemma \nWelcome to the Gemmaverse → https://goo.gle/3RXr83f \nWelcome to the Gemma Cookbook → https://goo.gle/3Z9JmCs \n\nSpeakers: Omar Sanseviero, Gus Martins\n\nCheck out the AI session track from Google I/O 2025 → https://goo.gle/io25-ai-yt\nCheck out all the keynote sessions from Google I/O 2025 → https://goo.gle/IO25-Keynotes\nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\nEvent: Google I/O 2025\n\nProducts Mentioned: AI/Machine Learning"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT40M37S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "5652",
+        "likeCount": "150",
+        "favoriteCount": "0",
+        "commentCount": "8"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "CCQo0jqBrzEBQbt138fXM3Muwx8",
+      "id": "gHHjDRDNUNU",
+      "snippet": {
+        "publishedAt": "2025-05-22T15:36:23Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Accelerate your development with the Gemini API",
+        "description": "Learn about the latest advancements in our Gemini models, including their built-in reasoning capabilities. Harness powerful tools for dynamic application development, and explore agentic AI solutions ideas and how Gemini can help you to move forward. Gain essential guidance, best practices, and insights for developing sophisticated, high-performing agents using the Gemini API effectively.\n\nSpeakers: Luciano Martins, Shrestha Basu Mallick\n\nCheck out the AI session track from Google I/O 2025 → https://goo.gle/io25-ai-yt\nCheck out all the keynote sessions from Google I/O 2025 → https://goo.gle/IO25-Keynotes\nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\nEvent: Google I/O 2025\n\nProducts Mentioned: AI/Machine Learning",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gHHjDRDNUNU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gHHjDRDNUNU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gHHjDRDNUNU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gHHjDRDNUNU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gHHjDRDNUNU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google I/O;",
+          "ct:Event - AI PA Keynote;",
+          "ct:Stack - AI;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Accelerate your development with the Gemini API",
+          "description": "Learn about the latest advancements in our Gemini models, including their built-in reasoning capabilities. Harness powerful tools for dynamic application development, and explore agentic AI solutions ideas and how Gemini can help you to move forward. Gain essential guidance, best practices, and insights for developing sophisticated, high-performing agents using the Gemini API effectively.\n\nSpeakers: Luciano Martins, Shrestha Basu Mallick\n\nCheck out the AI session track from Google I/O 2025 → https://goo.gle/io25-ai-yt\nCheck out all the keynote sessions from Google I/O 2025 → https://goo.gle/IO25-Keynotes\nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\nEvent: Google I/O 2025\n\nProducts Mentioned: AI/Machine Learning"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT46M16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "5281",
+        "likeCount": "123",
+        "favoriteCount": "0",
+        "commentCount": "11"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "L1NidgEcOKO6V4PT3vZ4EOsrjtM",
+      "id": "4TE-KFXvhAk",
+      "snippet": {
+        "publishedAt": "2025-05-22T15:34:25Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Google's AI stack for developers",
+        "description": "Explore core technologies, from the high-performance flexibility of JAX and TPUs to the power of Gemini APIs and the intuitive ease of AI Studio. Witness the stunning creative potential of image and video generation with models like Imagen and Veo, and learn to use these tools to build immersive experiences. Beyond tech, we'll celebrate the vibrant and inclusive AI community, demonstrating how developers like you are driving innovation and shaping the future of AI with Google DeepMind.\n\nSpeakers: Joana Carrasqueira, Josh Gordon\n\nCheck out the AI session track from Google I/O 2025 → https://goo.gle/io25-ai-yt\nCheck out all the keynote sessions from Google I/O 2025 → https://goo.gle/IO25-Keynotes\nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\nEvent: Google I/O 2025\n\nProducts Mentioned: AI/Machine Learning",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4TE-KFXvhAk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4TE-KFXvhAk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4TE-KFXvhAk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4TE-KFXvhAk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4TE-KFXvhAk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "pr_pr: Google I/O;",
+          "ct:Event - AI PA Keynote;",
+          "ct:Stack - AI;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Google's AI stack for developers",
+          "description": "Explore core technologies, from the high-performance flexibility of JAX and TPUs to the power of Gemini APIs and the intuitive ease of AI Studio. Witness the stunning creative potential of image and video generation with models like Imagen and Veo, and learn to use these tools to build immersive experiences. Beyond tech, we'll celebrate the vibrant and inclusive AI community, demonstrating how developers like you are driving innovation and shaping the future of AI with Google DeepMind.\n\nSpeakers: Joana Carrasqueira, Josh Gordon\n\nCheck out the AI session track from Google I/O 2025 → https://goo.gle/io25-ai-yt\nCheck out all the keynote sessions from Google I/O 2025 → https://goo.gle/IO25-Keynotes\nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\nEvent: Google I/O 2025\n\nProducts Mentioned: AI/Machine Learning"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT38M11S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "16326",
+        "likeCount": "382",
+        "favoriteCount": "0",
+        "commentCount": "67"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "-WleZgwwqVPIK1aUXVLLS4Faq4g",
+      "id": "21tfI9O9RrA",
+      "snippet": {
+        "publishedAt": "2025-05-22T03:28:16Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Discover the latest Google Pay and Google Wallet features",
+        "description": "Discover the latest updates to Google Pay and Google Wallet. Learn about new features that help you increase sales while lowering your costs, with lower fraud risk and broader payment choices. We’ll look at developer tools designed to boost checkout conversions and streamline testing. Also, find out how Google Wallet can deepen user engagement, simplify daily life, and enable secure, connected experiences through digital IDs.\n\nResources: \nJoin the Google Pay & Wallet Advisory Council → https://goo.gle/pay-wallet-council\nGoogle Wallet new age and identity verification features →  https://goo.gle/wallet-id-verification \nGoogle Chrome session about age and identity verification →  https://goo.gle/458WaN8\n\nSpeakers: Kushagra Patel, Kevin Miller, Edson Yanaga\n\nCheck out the Android session track from Google I/O 2025 → https://goo.gle/io25-androiddevs-yt \nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\nEvent: Google I/O 2025\n\nProducts Mentioned: Google Pay",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/21tfI9O9RrA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/21tfI9O9RrA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/21tfI9O9RrA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/21tfI9O9RrA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/21tfI9O9RrA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google I/O;",
+          "ct:Event - Technical Session;",
+          "ct:Stack - Android;",
+          "Products Mentioned: Google Pay",
+          "Google Pay",
+          "Campaign: Pay Campaigns;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Discover the latest Google Pay and Google Wallet features",
+          "description": "Discover the latest updates to Google Pay and Google Wallet. Learn about new features that help you increase sales while lowering your costs, with lower fraud risk and broader payment choices. We’ll look at developer tools designed to boost checkout conversions and streamline testing. Also, find out how Google Wallet can deepen user engagement, simplify daily life, and enable secure, connected experiences through digital IDs.\n\nResources: \nJoin the Google Pay & Wallet Advisory Council → https://goo.gle/pay-wallet-council\nGoogle Wallet new age and identity verification features →  https://goo.gle/wallet-id-verification \nGoogle Chrome session about age and identity verification →  https://goo.gle/458WaN8\n\nSpeakers: Kushagra Patel, Kevin Miller, Edson Yanaga\n\nCheck out the Android session track from Google I/O 2025 → https://goo.gle/io25-androiddevs-yt \nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\nEvent: Google I/O 2025\n\nProducts Mentioned: Google Pay"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT20M30S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "10549",
+        "likeCount": "163",
+        "favoriteCount": "0",
+        "commentCount": "17"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "0AHc6MMzOP4bbA4xU7lP7tOWnJU",
+      "id": "xLmJJk1gbuE",
+      "snippet": {
+        "publishedAt": "2025-05-22T03:23:26Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Small language models with Google AI Edge",
+        "description": "Discover a new app development paradigm where users interact naturally with apps, blurring the lines between human language and digital action. We’ll demo newly released libraries, which allow local agents to drive applications and devices by combining on-device LLMs with native audio input, retrieval augmented generation, and function calling. Learn how to accelerate on CPU, GPU, or NPU, and a tutorial on how to test ML workflows on real devices via the cloud using Google AI Edge Portal. The session will include real production features from our current 3P EAP partners.\n\nResources:\nFor more information → https://goo.gle/ai-edge\nLiteRT acceleration updates → https://goo.gle/3FnDGOr\nGPU Updates → https://goo.gle/3ScpzhS\nNPU EAP Signup → https://goo.gle/44NuNbo\nSample App → https://goo.gle/4mqk9O9\nAI Edge Portal → https://goo.gle/43F58k8\nAI Edge Portal EAP Signup → https://goo.gle/436hYaT\n\nSpeakers: Matthias Grundmann, Mark Sherwood, Mogan Shieh\n\nCheck out the AI session track from Google I/O 2025 → https://goo.gle/io25-ai-yt\nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\nEvent: Google I/O 2025\n\nProducts Mentioned: AI/Machine Learning",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xLmJJk1gbuE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xLmJJk1gbuE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xLmJJk1gbuE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xLmJJk1gbuE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xLmJJk1gbuE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google I/O;",
+          "ct:Event - Technical Session;",
+          "ct:Stack - AI;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Small language models with Google AI Edge",
+          "description": "Discover a new app development paradigm where users interact naturally with apps, blurring the lines between human language and digital action. We’ll demo newly released libraries, which allow local agents to drive applications and devices by combining on-device LLMs with native audio input, retrieval augmented generation, and function calling. Learn how to accelerate on CPU, GPU, or NPU, and a tutorial on how to test ML workflows on real devices via the cloud using Google AI Edge Portal. The session will include real production features from our current 3P EAP partners.\n\nResources:\nFor more information → https://goo.gle/ai-edge\nLiteRT acceleration updates → https://goo.gle/3FnDGOr\nGPU Updates → https://goo.gle/3ScpzhS\nNPU EAP Signup → https://goo.gle/44NuNbo\nSample App → https://goo.gle/4mqk9O9\nAI Edge Portal → https://goo.gle/43F58k8\nAI Edge Portal EAP Signup → https://goo.gle/436hYaT\n\nSpeakers: Matthias Grundmann, Mark Sherwood, Mogan Shieh\n\nCheck out the AI session track from Google I/O 2025 → https://goo.gle/io25-ai-yt\nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\nEvent: Google I/O 2025\n\nProducts Mentioned: AI/Machine Learning"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT17M48S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "6825",
+        "likeCount": "116",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ykZk9puY6z_ri9AdnuGfe7YgX48",
+      "id": "gATa_9Dogz4",
+      "snippet": {
+        "publishedAt": "2025-05-22T03:22:43Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Train your JAX models using model.fit(...) in Keras 3",
+        "description": "The Keras ecosystem offers many on-ramps to JAX. Use our classic and well-loved API patterns such as `model.fit(...)` to author and train models using JAX. Want to start with a pre-trained model? Try KerasHub, our catalog of 100+ model architectures with support for thousands of HuggingFace checkpoints. Fine-tune and optimize them using LoRA and qLoRA with JAX (or your choice of backend). We’ll also introduce Keras Recommenders, the latest addition to the Keras ecosystem.\n\nResources: \nKeras → https://goo.gle/4d9t3LL \nKeras Hub → https://goo.gle/4iYQEQp \nKeras Recommenders → https://goo.gle/4mr8YoD \nKeras on Kaggle → https://goo.gle/44P06CT \nKeras on Hugging Face → https://goo.gle/42RLuBd \nKeras developer guides → https://goo.gle/437YNMJ \n\nSpeakers: Divyashree Sreepathihalli , Monica Song, Fabien Hertschuh\n\nCheck out the AI session track from Google I/O 2025 → https://goo.gle/io25-ai-yt\nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\nEvent: Google I/O 2025\n\nProducts Mentioned: AI/Machine Learning",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gATa_9Dogz4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gATa_9Dogz4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gATa_9Dogz4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gATa_9Dogz4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gATa_9Dogz4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google I/O;",
+          "ct:Event - Technical Session;",
+          "ct:Stack - AI;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Train your JAX models using model.fit(...) in Keras 3",
+          "description": "The Keras ecosystem offers many on-ramps to JAX. Use our classic and well-loved API patterns such as `model.fit(...)` to author and train models using JAX. Want to start with a pre-trained model? Try KerasHub, our catalog of 100+ model architectures with support for thousands of HuggingFace checkpoints. Fine-tune and optimize them using LoRA and qLoRA with JAX (or your choice of backend). We’ll also introduce Keras Recommenders, the latest addition to the Keras ecosystem.\n\nResources: \nKeras → https://goo.gle/4d9t3LL \nKeras Hub → https://goo.gle/4iYQEQp \nKeras Recommenders → https://goo.gle/4mr8YoD \nKeras on Kaggle → https://goo.gle/44P06CT \nKeras on Hugging Face → https://goo.gle/42RLuBd \nKeras developer guides → https://goo.gle/437YNMJ \n\nSpeakers: Divyashree Sreepathihalli , Monica Song, Fabien Hertschuh\n\nCheck out the AI session track from Google I/O 2025 → https://goo.gle/io25-ai-yt\nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\nEvent: Google I/O 2025\n\nProducts Mentioned: AI/Machine Learning"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT19M30S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1386",
+        "likeCount": "37",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Xduj6c6YV9iANQGBgD7RO_0e51g",
+      "id": "juy9nrcTBck",
+      "snippet": {
+        "publishedAt": "2025-05-22T03:10:54Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "What is JAX?",
+        "description": "JAX is a Python library for high-performance machine learning research. It combines the familiarity of NumPy with hardware acceleration and composable function transformations. Google researchers have built and trained models like Gemini and Gemma on JAX, and it’s also used by researchers for a wide range of advanced applications. This talk will provide an introduction to JAX and the Flax neural network library, showcasing recent features and how to get started.\n\nResources: \nJax →  https://goo.gle/4jYJ0a0 \nJax AI Stack → https://goo.gle/3GMHPvH \n\nSpeakers: Yufeng Guo, Robert Dyro\n\nCheck out the AI session track from Google I/O 2025 → https://goo.gle/io25-ai-yt\nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\nEvent: Google I/O 2025\n\nProducts Mentioned: AI/Machine Learning",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/juy9nrcTBck/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/juy9nrcTBck/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/juy9nrcTBck/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/juy9nrcTBck/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/juy9nrcTBck/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google I/O;",
+          "ct:Event - Technical Session;",
+          "ct:Stack - AI;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "What is JAX?",
+          "description": "JAX is a Python library for high-performance machine learning research. It combines the familiarity of NumPy with hardware acceleration and composable function transformations. Google researchers have built and trained models like Gemini and Gemma on JAX, and it’s also used by researchers for a wide range of advanced applications. This talk will provide an introduction to JAX and the Flax neural network library, showcasing recent features and how to get started.\n\nResources: \nJax →  https://goo.gle/4jYJ0a0 \nJax AI Stack → https://goo.gle/3GMHPvH \n\nSpeakers: Yufeng Guo, Robert Dyro\n\nCheck out the AI session track from Google I/O 2025 → https://goo.gle/io25-ai-yt\nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\nEvent: Google I/O 2025\n\nProducts Mentioned: AI/Machine Learning"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT16M30S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "6190",
+        "likeCount": "166",
+        "favoriteCount": "0",
+        "commentCount": "7"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "AFmxthDU7---Zn_IEt6UcaL2Jks",
+      "id": "gstgT0WRoiE",
+      "snippet": {
+        "publishedAt": "2025-05-22T03:06:11Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "5 practical Gemini API uses for developers",
+        "description": "Explore practical uses of the Gemini API for developers, like how to build innovative applications with Gemini's features. We'll cover image understanding for tasks like object recognition and scene description; creating multimodal interactions that combine voice, text, and images for more natural user experiences; and how to automate complex workflows through function calling. We’ll also share how to use the long context window to enable complex reasoning, and multi-step problem solving.\n\nResources: \nGemini API → https://ai.google.dev/gemini-api\nGemini API Cookbook on GitHub → https://goo.gle/cookbook\nGenList demo → https://goo.gle/genlist-demo\nLive API - Web Console → https://goo.gle/3SvUZji \nGemini 2.0 - Multi-tool with the Multimodal Live API → https://goo.gle/gemini-maps-plots\nGemini 2.0: Browser as a tool → https://goo.gle/gemini-browser-tool \n\nSpeaker: Mark McDonald\n\nCheck out all the keynote sessions from Google I/O 2025 → https://goo.gle/io25-keynote-sessions\nCheck out the AI session track from Google I/O 2025 → https://goo.gle/io25-ai-yt\nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\nEvent: Google I/O 2025\n\nProducts Mentioned: AI/Machine Learning",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gstgT0WRoiE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gstgT0WRoiE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gstgT0WRoiE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gstgT0WRoiE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gstgT0WRoiE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "pr_pr: Google I/O;",
+          "ct:Event - Workshop;",
+          "ct:Stack - AI;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "5 practical Gemini API uses for developers",
+          "description": "Explore practical uses of the Gemini API for developers, like how to build innovative applications with Gemini's features. We'll cover image understanding for tasks like object recognition and scene description; creating multimodal interactions that combine voice, text, and images for more natural user experiences; and how to automate complex workflows through function calling. We’ll also share how to use the long context window to enable complex reasoning, and multi-step problem solving.\n\nResources: \nGemini API → https://ai.google.dev/gemini-api\nGemini API Cookbook on GitHub → https://goo.gle/cookbook\nGenList demo → https://goo.gle/genlist-demo\nLive API - Web Console → https://goo.gle/3SvUZji \nGemini 2.0 - Multi-tool with the Multimodal Live API → https://goo.gle/gemini-maps-plots\nGemini 2.0: Browser as a tool → https://goo.gle/gemini-browser-tool \n\nSpeaker: Mark McDonald\n\nCheck out all the keynote sessions from Google I/O 2025 → https://goo.gle/io25-keynote-sessions\nCheck out the AI session track from Google I/O 2025 → https://goo.gle/io25-ai-yt\nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\nEvent: Google I/O 2025\n\nProducts Mentioned: AI/Machine Learning"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT14M42S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "12166",
+        "likeCount": "371",
+        "favoriteCount": "0",
+        "commentCount": "12"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "MWv3L4w8dAeKDBMKezMkGN0OQb4",
+      "id": "MmxPBgrrn4Q",
+      "snippet": {
+        "publishedAt": "2025-05-22T03:05:44Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Build a Transformer with JAX",
+        "description": "General purpose transformer architecture has really \"transformed\" the AI landscape. Learn about its origins and structure, and see it built from scratch! We’ll walk through building a small transformer on JAX, using Flax NNX to build the model architecture, Optax for loss function and optimizer creation, and training on accelerated hardware with the help of Orbax and XLA. Get a taste of development on JAX, and prepare to take your own next steps in building and training AI models.\n\nResources: \nColab notebook - Transformers workshop → https://goo.gle/44w7bI9 \nKaggle notebook - Transformers workshop → https://goo.gle/4dc12mS \n\nWhat is JAX → https://goo.gle/4j6UQ0G\n\"Attention is All You Need\" research paper → https://goo.gle/3Z1a7ZZ \nOpen Web Text dataset → https://goo.gle/3GKsUSM \nThe Illustrated Transformer → https://goo.gle/452N0BP \nAll the Transformer Math You Need to Know → https://goo.gle/4m0iFKe\n \nJAX docs → https://goo.gle/452mUyL \nJAX AI Stack →  https://goo.gle/3GMHPvH \nColab Notebooks → https://goo.gle/4m7JZpR \nTips for using TPUs on Kaggle → https://goo.gle/4maY8CU \n\nSpeaker: Yufeng Guo\n\nCheck out all the keynote sessions from Google I/O 2025 → https://goo.gle/io25-keynote-sessions\nCheck out the AI session track from Google I/O 2025 → https://goo.gle/io25-ai-yt\nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\nEvent: Google I/O 2025\n\nProducts Mentioned: AI/Machine Learning",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MmxPBgrrn4Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MmxPBgrrn4Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MmxPBgrrn4Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MmxPBgrrn4Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MmxPBgrrn4Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "pr_pr: Google I/O;",
+          "ct:Event - Workshop;",
+          "ct:Stack - AI;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Build a Transformer with JAX",
+          "description": "General purpose transformer architecture has really \"transformed\" the AI landscape. Learn about its origins and structure, and see it built from scratch! We’ll walk through building a small transformer on JAX, using Flax NNX to build the model architecture, Optax for loss function and optimizer creation, and training on accelerated hardware with the help of Orbax and XLA. Get a taste of development on JAX, and prepare to take your own next steps in building and training AI models.\n\nResources: \nColab notebook - Transformers workshop → https://goo.gle/44w7bI9 \nKaggle notebook - Transformers workshop → https://goo.gle/4dc12mS \n\nWhat is JAX → https://goo.gle/4j6UQ0G\n\"Attention is All You Need\" research paper → https://goo.gle/3Z1a7ZZ \nOpen Web Text dataset → https://goo.gle/3GKsUSM \nThe Illustrated Transformer → https://goo.gle/452N0BP \nAll the Transformer Math You Need to Know → https://goo.gle/4m0iFKe\n \nJAX docs → https://goo.gle/452mUyL \nJAX AI Stack →  https://goo.gle/3GMHPvH \nColab Notebooks → https://goo.gle/4m7JZpR \nTips for using TPUs on Kaggle → https://goo.gle/4maY8CU \n\nSpeaker: Yufeng Guo\n\nCheck out all the keynote sessions from Google I/O 2025 → https://goo.gle/io25-keynote-sessions\nCheck out the AI session track from Google I/O 2025 → https://goo.gle/io25-ai-yt\nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\nEvent: Google I/O 2025\n\nProducts Mentioned: AI/Machine Learning"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT27M56S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2368",
+        "likeCount": "90",
+        "favoriteCount": "0",
+        "commentCount": "3"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "3H_B38hpGkU4XYzyO1VvmkqD8y4",
+      "id": "EMZuKqr69Y8",
+      "snippet": {
+        "publishedAt": "2025-05-21T00:09:07Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "#GoogleIO 2025 Developer Keynote Recap",
+        "description": "Did someone say Google I/O recap? Yep, so make sure you catch the highlights from this year’s Developer Keynote. Discover how you can build across Android and web platforms, unlock the power of Gemini 2.5 Flash, and more! See what you missed at #GoogleIO!\n\nCheck out all the recap videos from Google I/O 2025 → https://goo.gle/IO25-Recaps\nCheck out all of the sessions from Google I/O 2025 → https://goo.gle/io25-sessions-yt\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nEvent: Google I/O 2025",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EMZuKqr69Y8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EMZuKqr69Y8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EMZuKqr69Y8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EMZuKqr69Y8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EMZuKqr69Y8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Influence;",
+          "Video Type:Dev News;",
+          "gds:Yes;",
+          "ct: Event - Developer Keynote Recap;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "#GoogleIO 2025 Developer Keynote Recap",
+          "description": "Did someone say Google I/O recap? Yep, so make sure you catch the highlights from this year’s Developer Keynote. Discover how you can build across Android and web platforms, unlock the power of Gemini 2.5 Flash, and more! See what you missed at #GoogleIO!\n\nCheck out all the recap videos from Google I/O 2025 → https://goo.gle/IO25-Recaps\nCheck out all of the sessions from Google I/O 2025 → https://goo.gle/io25-sessions-yt\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nEvent: Google I/O 2025"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT3M44S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "46088779",
+        "likeCount": "2972",
+        "favoriteCount": "0",
+        "commentCount": "138"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "cj1ulyDEoAttwPBGm3gj6qeUQCk",
+      "id": "dL5R0VnCf8k",
+      "snippet": {
+        "publishedAt": "2025-05-20T23:51:12Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "What’s new in Android (Google I/O 2025 recap)",
+        "description": "You want it, you got it. Here are the top Android developer announcements from this year’s Google I/O.  From building AI into your apps to helping you build adaptive so you can unlock over 500 million new devices across foldables, tablets, Chrome OS, Cars and the new Android XR, there’s so much you can do, and it’s getting even easier to build thanks to Gemini in Android Studio, your AI coding assistant build right into Android Studio. \n\nYou can read the top 16 announcements for Android Devs here → https://goo.gle/44KznY0 \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\nProducts Mentioned: Chrome \n\nEvent: Google IO",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dL5R0VnCf8k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dL5R0VnCf8k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dL5R0VnCf8k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dL5R0VnCf8k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dL5R0VnCf8k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Influence;",
+          "Campaign: ;",
+          "Video Type:G4D SV: I/O ;",
+          "ct: ; ;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "What’s new in Android (Google I/O 2025 recap)",
+          "description": "You want it, you got it. Here are the top Android developer announcements from this year’s Google I/O.  From building AI into your apps to helping you build adaptive so you can unlock over 500 million new devices across foldables, tablets, Chrome OS, Cars and the new Android XR, there’s so much you can do, and it’s getting even easier to build thanks to Gemini in Android Studio, your AI coding assistant build right into Android Studio. \n\nYou can read the top 16 announcements for Android Devs here → https://goo.gle/44KznY0 \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\nProducts Mentioned: Chrome \n\nEvent: Google IO"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT52S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "18937",
+        "likeCount": "486",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "pAPiuKAz8jCrzcbhLivfgBtfcyw",
+      "id": "bcVhGOKF628",
+      "snippet": {
+        "publishedAt": "2025-05-20T21:47:27Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Google I/O '25 Developer Keynote - American Sign Language",
+        "description": "Learn about the latest updates to our developer products and platforms.\n\n00:00:00 Introduction\n00:01:19 Building with Gemini\n00:15:17 Android\n00:30:26 Web\n00:48:48 Firebase Studio\n00:56:25 Gemma\n01:07:37 Closing \n\nTo watch this keynote without American Sign Language (ASL) interpretation, please click here:\nhttps://youtube.com/watch?v=GjvgtwSOCao\n\nSubscribe to Google Developers → https://goo.gle/developers\n\n#GoogleIO \n\nEvent: Google I/O 2025",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bcVhGOKF628/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bcVhGOKF628/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bcVhGOKF628/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bcVhGOKF628/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bcVhGOKF628/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google I/O;",
+          "ct:Event - Developer Keynote;",
+          "ct:Stack - AI;",
+          "ct:Stack - Android;",
+          "ct:Stack - Cloud;",
+          "ct:Stack - Web;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Google I/O '25 Developer Keynote - American Sign Language",
+          "description": "Learn about the latest updates to our developer products and platforms.\n\n00:00:00 Introduction\n00:01:19 Building with Gemini\n00:15:17 Android\n00:30:26 Web\n00:48:48 Firebase Studio\n00:56:25 Gemma\n01:07:37 Closing \n\nTo watch this keynote without American Sign Language (ASL) interpretation, please click here:\nhttps://youtube.com/watch?v=GjvgtwSOCao\n\nSubscribe to Google Developers → https://goo.gle/developers\n\n#GoogleIO \n\nEvent: Google I/O 2025"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1H10M4S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "6607",
+        "likeCount": "168",
+        "favoriteCount": "0",
+        "commentCount": "5"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "qP8s7YdAkiDyME-w8AVuVzilfmM",
+      "id": "GjvgtwSOCao",
+      "snippet": {
+        "publishedAt": "2025-05-20T21:47:19Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Google I/O '25 Developer Keynote",
+        "description": "Learn about the latest updates to our developer products and platforms.\n\n00:00:00 Introduction\n00:01:19 Building with Gemini\n00:15:17 Android\n00:30:26 Web\n00:48:48 Firebase Studio\n00:56:25 Gemma\n01:07:37 Closing \n\nTo watch this keynote interpreted in American Sign Language (ASL), please click here: \nhttps://youtube.com/watch?v=bcVhGOKF628\n\n\nSubscribe to Google Developers → https://goo.gle/developers\n\n#GoogleIO \n\nEvent: Google I/O 2025",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GjvgtwSOCao/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GjvgtwSOCao/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GjvgtwSOCao/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GjvgtwSOCao/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GjvgtwSOCao/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google I/O;",
+          "ct:Event - Developer Keynote;",
+          "ct:Stack - AI;",
+          "ct:Stack - Android;",
+          "ct:Stack - Cloud;",
+          "ct:Stack - Web;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Google I/O '25 Developer Keynote",
+          "description": "Learn about the latest updates to our developer products and platforms.\n\n00:00:00 Introduction\n00:01:19 Building with Gemini\n00:15:17 Android\n00:30:26 Web\n00:48:48 Firebase Studio\n00:56:25 Gemma\n01:07:37 Closing \n\nTo watch this keynote interpreted in American Sign Language (ASL), please click here: \nhttps://youtube.com/watch?v=bcVhGOKF628\n\n\nSubscribe to Google Developers → https://goo.gle/developers\n\n#GoogleIO \n\nEvent: Google I/O 2025"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1H10M4S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "825208",
+        "likeCount": "8574",
+        "favoriteCount": "0",
+        "commentCount": "211"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "sM_0HHarLf50KGHzHphBBBQVtjY",
+      "id": "HKr58R69EI4",
+      "snippet": {
+        "publishedAt": "2025-05-20T21:41:39Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "What’s new in Web (Google I/O 2025 recap)",
+        "description": "See the latest web innovations shared at Google I/O! Learn about new CSS carousel APIs, Baseline updates in VS Code and ESLint, and AI assistance in Chrome DevTools. Build powerful web experiences more easily with new multimodal AI APIs using Gemini Nano in Chrome.\n\nResources:\n\nRead the Google I/O 2025 recap blog →  https://goo.gle/4kb7pJb \nSign up for the Gemini Nano in Chrome Early Preview Program → http://goo.gle/chrome-ai-dev-preview-join \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\nSpeaker: Addy Osmani, Una Kravets\nProducts Mentioned: Chrome",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HKr58R69EI4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HKr58R69EI4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HKr58R69EI4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HKr58R69EI4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HKr58R69EI4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Influence;",
+          "Campaign: ;",
+          "Video Type:G4D SV: I/O ;",
+          "ct: ; ;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "What’s new in Web (Google I/O 2025 recap)",
+          "description": "See the latest web innovations shared at Google I/O! Learn about new CSS carousel APIs, Baseline updates in VS Code and ESLint, and AI assistance in Chrome DevTools. Build powerful web experiences more easily with new multimodal AI APIs using Gemini Nano in Chrome.\n\nResources:\n\nRead the Google I/O 2025 recap blog →  https://goo.gle/4kb7pJb \nSign up for the Gemini Nano in Chrome Early Preview Program → http://goo.gle/chrome-ai-dev-preview-join \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\nSpeaker: Addy Osmani, Una Kravets\nProducts Mentioned: Chrome"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "14120867",
+        "likeCount": "17666",
+        "favoriteCount": "0",
+        "commentCount": "19"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "mi4l84R-w2R5X7SyTNiCuHvQ_c8",
+      "id": "MnLRlu3Ob8Y",
+      "snippet": {
+        "publishedAt": "2025-05-20T21:41:08Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "What’s new in Gemini (Google I/O 2025 recap)",
+        "description": "Google I/O just wrapped, and we are supercharging how you build with Gemini. Build Agentic experiences with new Gemini API features and Gemini models. Build real-time audio apps and have smoother conversations with Asynchronous Function Calling. And guess what? The new Gemini 2.5 Flash model is now available in the revamped Google AI Studio. That's just the beginning. Watch this recap to get up-to-speed on all things Gemini. \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\nProducts Mentioned: Gemini\n\nEvent: Google IO",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MnLRlu3Ob8Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MnLRlu3Ob8Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MnLRlu3Ob8Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MnLRlu3Ob8Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MnLRlu3Ob8Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Influence;",
+          "Campaign: ;",
+          "Video Type:G4D SV: I/O ;",
+          "ct: ; ;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "What’s new in Gemini (Google I/O 2025 recap)",
+          "description": "Google I/O just wrapped, and we are supercharging how you build with Gemini. Build Agentic experiences with new Gemini API features and Gemini models. Build real-time audio apps and have smoother conversations with Asynchronous Function Calling. And guess what? The new Gemini 2.5 Flash model is now available in the revamped Google AI Studio. That's just the beginning. Watch this recap to get up-to-speed on all things Gemini. \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\nProducts Mentioned: Gemini\n\nEvent: Google IO"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT50S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "13084938",
+        "likeCount": "14527",
+        "favoriteCount": "0",
+        "commentCount": "25"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "1BnEBoWEQvk6uXQtwR74uum-pNo",
+      "id": "jH98kvC9f1s",
+      "snippet": {
+        "publishedAt": "2025-05-20T19:42:27Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Google’s DolphinGemma: One Giant Splash Towards Interspecies Communication",
+        "description": "DolphinGemma is the world’s first large language model for dolphins. This groundbreaking model has been fine-tuned on 40 years of field research collected by Dr. Denise Herzing, Director of Research at the Wild Dolphin Project. Denise and DeepMind researcher Thad Starner are working towards their goal of building a shared vocabulary between humans and dolphins.\nThe best part? DolphinGemma is open-model, so anyone can build with it — researchers, developers, and dolphin enthusiasts alike.\n#GoogleIO \n\nSubscribe to Google for Developers → https://goo.gle/developers  \n\nEvent: Google IO",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jH98kvC9f1s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jH98kvC9f1s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jH98kvC9f1s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jH98kvC9f1s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jH98kvC9f1s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Influence;",
+          "Video Type:Trailer/Promo;",
+          "ct: ; ;",
+          "gds:N/A;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Google’s DolphinGemma: One Giant Splash Towards Interspecies Communication",
+          "description": "DolphinGemma is the world’s first large language model for dolphins. This groundbreaking model has been fine-tuned on 40 years of field research collected by Dr. Denise Herzing, Director of Research at the Wild Dolphin Project. Denise and DeepMind researcher Thad Starner are working towards their goal of building a shared vocabulary between humans and dolphins.\nThe best part? DolphinGemma is open-model, so anyone can build with it — researchers, developers, and dolphin enthusiasts alike.\n#GoogleIO \n\nSubscribe to Google for Developers → https://goo.gle/developers  \n\nEvent: Google IO"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT2M21S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "6279",
+        "likeCount": "173",
+        "favoriteCount": "0",
+        "commentCount": "23"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "INampkHDOlNC9Nj9UrPppKpRU4M",
+      "id": "WS13QXU-B3o",
+      "snippet": {
+        "publishedAt": "2025-05-20T16:01:00Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "What's your I/O mood?",
+        "description": "Google I/O is coming, and we're setting the mood. 😌 We've got the vibes for AI, Android, web, and cloud all lined up. Which track’s mood board is speaking to you? 👇 \n\nPrepare for the big event → https://goo.gle/IO25_DevKeynote \nSubscribe to Google for Developers → https://goo.gle/developers \n\nEvent: Google IO",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WS13QXU-B3o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WS13QXU-B3o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WS13QXU-B3o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WS13QXU-B3o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WS13QXU-B3o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Influence;",
+          "Campaign: ;",
+          "Video Type:G4D SV: I/O ;",
+          "ct: ; ;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "What's your I/O mood?",
+          "description": "Google I/O is coming, and we're setting the mood. 😌 We've got the vibes for AI, Android, web, and cloud all lined up. Which track’s mood board is speaking to you? 👇 \n\nPrepare for the big event → https://goo.gle/IO25_DevKeynote \nSubscribe to Google for Developers → https://goo.gle/developers \n\nEvent: Google IO"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT19S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "4208",
+        "likeCount": "107",
+        "favoriteCount": "0",
+        "commentCount": "6"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "-uv47_V1cY6L07v1RQ3dAFoTY78",
+      "id": "XV1kOFo1C8M",
+      "snippet": {
+        "publishedAt": "2025-05-17T04:00:41Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Gemma | Chess: Learn, analyze, and discover a new dimension",
+        "description": "Ready to take your chess game to the next level? In this video, we explore the incredible potential of Gemma, a powerful AI, to revolutionize how you interact with chess!\n\nDiscover how Gemma can make learning the intricacies of chess easier and more intuitive. We'll show you how it can help you analyze your games with human-like insights, going beyond traditional engine evaluations. Plus, get ready to discover a whole new dimension of chess as Gemma helps bring the game to life through fascinating stories about matches.\n\nWhether you're a beginner looking to grasp the fundamentals or an experienced player seeking a fresh perspective, Gemma offers exciting new ways to engage with the world of chess.\n\nChapters:\n0:00 - Introduction\n1:00 -  Gemma and chess analysis\n2:55 - Gemma as chess study buddy\n3:54 - Gemma vs. AlphaZero\n4:47 - Recap\n\nResources:\nGemma chess Colab → http://goo.gle/gemma3-chess\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nProducts Mentioned: Gemma",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XV1kOFo1C8M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XV1kOFo1C8M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XV1kOFo1C8M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XV1kOFo1C8M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XV1kOFo1C8M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "Purpose: Educate",
+          "Series: Gemma3 Launch",
+          "GDS: Yes;",
+          "developer",
+          "google developers",
+          "AI",
+          "Gemma",
+          "GDS: Yes",
+          "pr_pr: Google AI for Developers;",
+          "Purpose: Learn;",
+          "Video Type:DevByte;",
+          "gds:Yes;",
+          "ct: AIG;",
+          "Gemma 3",
+          "how to quickly set up and run Google's Gemma 3",
+          "how to run Gemma 3 with Keras"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Gemma | Chess: Learn, analyze, and discover a new dimension",
+          "description": "Ready to take your chess game to the next level? In this video, we explore the incredible potential of Gemma, a powerful AI, to revolutionize how you interact with chess!\n\nDiscover how Gemma can make learning the intricacies of chess easier and more intuitive. We'll show you how it can help you analyze your games with human-like insights, going beyond traditional engine evaluations. Plus, get ready to discover a whole new dimension of chess as Gemma helps bring the game to life through fascinating stories about matches.\n\nWhether you're a beginner looking to grasp the fundamentals or an experienced player seeking a fresh perspective, Gemma offers exciting new ways to engage with the world of chess.\n\nChapters:\n0:00 - Introduction\n1:00 -  Gemma and chess analysis\n2:55 - Gemma as chess study buddy\n3:54 - Gemma vs. AlphaZero\n4:47 - Recap\n\nResources:\nGemma chess Colab → http://goo.gle/gemma3-chess\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nProducts Mentioned: Gemma"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT5M53S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "6460",
+        "likeCount": "182",
+        "favoriteCount": "0",
+        "commentCount": "13"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "LeD9ZrJV6nLhpANUa_jM8z_VHeo",
+      "id": "0Czsjb_ZhH4",
+      "snippet": {
+        "publishedAt": "2025-05-16T23:00:01Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Your I/O destiny awaits... 🔮",
+        "description": "At #GoogleIO, the cards reveal what’s ahead: new tools, deeper insights, and emerging tech in AI, Android, web, and cloud.\n\nExplore what's in store →  https://goo.gle/io2025-yt\n\nSubscribe to Google for Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0Czsjb_ZhH4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0Czsjb_ZhH4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0Czsjb_ZhH4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0Czsjb_ZhH4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0Czsjb_ZhH4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Influence;",
+          "Campaign: ;",
+          "Video Type:G4D SV: I/O ;",
+          "ct: ; ;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Your I/O destiny awaits... 🔮",
+          "description": "At #GoogleIO, the cards reveal what’s ahead: new tools, deeper insights, and emerging tech in AI, Android, web, and cloud.\n\nExplore what's in store →  https://goo.gle/io2025-yt\n\nSubscribe to Google for Developers → https://goo.gle/developers"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3670",
+        "likeCount": "108",
+        "favoriteCount": "0",
+        "commentCount": "6"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ocmuM23UaXkUziC6HVKzQZCBRUM",
+      "id": "Tu7-voU7nnw",
+      "snippet": {
+        "publishedAt": "2025-05-16T13:01:02Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Build a Multimodal Live Streaming Agent with ADK",
+        "description": "Want to build AI agents that can see, hear, and react in real-time? 🤔 We kick things off by diving deep into the challenging process of developing live agents directly with Gemini models' Live Streaming API, showing you what it takes to build complex function calling management from the ground up. But what if there was a much simpler way? Then, discover how the Agent Development Kit (ADK) revolutionizes this, drastically simplifying the creation of powerful live agents by expertly handling core components like live queue requests and event management. ✨ Start building! Watch our full video to learn how. \n\nChapters: \n0:00  - Intro\n1:09 - Live Agent Architecture - Gemini API\n3:38  - Code - Gemini Live API\n5:04 - Demo - Gemini Live API\n6:45 - Live Agent Architecture - ADK\n8:44 - Code - ADK\n15:49 - Demo - ADK\n18:22 - Recap and resources\n20:24 - Outro\n\nResources: \nAccess the ADK streaming documentation → https://google.github.io/adk-docs/streaming  \nClone and use our code (Live Streaming API) → https://goo.gle/4mcyf5J\nClone and use our code (Live Agents with A2A& MCP)→https://goo.gle/4mlpxSG \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\nProducts Mentioned: Agent Developer Kit (ADK)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Tu7-voU7nnw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Tu7-voU7nnw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Tu7-voU7nnw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Tu7-voU7nnw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Tu7-voU7nnw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Build a Multimodal Live Streaming Agent with ADK",
+          "description": "Want to build AI agents that can see, hear, and react in real-time? 🤔 We kick things off by diving deep into the challenging process of developing live agents directly with Gemini models' Live Streaming API, showing you what it takes to build complex function calling management from the ground up. But what if there was a much simpler way? Then, discover how the Agent Development Kit (ADK) revolutionizes this, drastically simplifying the creation of powerful live agents by expertly handling core components like live queue requests and event management. ✨ Start building! Watch our full video to learn how. \n\nChapters: \n0:00  - Intro\n1:09 - Live Agent Architecture - Gemini API\n3:38  - Code - Gemini Live API\n5:04 - Demo - Gemini Live API\n6:45 - Live Agent Architecture - ADK\n8:44 - Code - ADK\n15:49 - Demo - ADK\n18:22 - Recap and resources\n20:24 - Outro\n\nResources: \nAccess the ADK streaming documentation → https://google.github.io/adk-docs/streaming  \nClone and use our code (Live Streaming API) → https://goo.gle/4mcyf5J\nClone and use our code (Live Agents with A2A& MCP)→https://goo.gle/4mlpxSG \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\nProducts Mentioned: Agent Developer Kit (ADK)"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT20M55S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "16268",
+        "likeCount": "381",
+        "favoriteCount": "0",
+        "commentCount": "51"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "DEv6K1w_XAfqxad9IJqngjcreFc",
+      "id": "afwgMImbsSo",
+      "snippet": {
+        "publishedAt": "2025-05-16T04:00:02Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "100 devs vs. 1 gorilla sized bug",
+        "description": "Who do you think will win? Let us know in the comments below!\n\nSubscribe to Google for Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/afwgMImbsSo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/afwgMImbsSo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/afwgMImbsSo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/afwgMImbsSo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/afwgMImbsSo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Influence;",
+          "Campaign: ;",
+          "Video Type:G4D SV: Product Featured ;",
+          "ct: ; ;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "100 devs vs. 1 gorilla sized bug",
+          "description": "Who do you think will win? Let us know in the comments below!\n\nSubscribe to Google for Developers → https://goo.gle/developers"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT8S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "11759",
+        "likeCount": "143",
+        "favoriteCount": "0",
+        "commentCount": "15"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "uEyhxdmKk4V4J_lhrRe9Di_x_Z0",
+      "id": "G4RNny8s8Vw",
+      "snippet": {
+        "publishedAt": "2025-05-15T20:00:16Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Revolutionizing AI assistants with the Gemini API",
+        "description": "Shoot for the stars and build your dreams! That’s what Jonathan did when he created his very own agentic AI assistant, Jayu, built with Gemini’s powerful vision capabilities. Like the coolest sci-fi tech, Jayu can follow voice and hand commands, search documents, track gestures, and interact with digital elements on a computer’s screen. Watch to see how Jayu was built and how Gemini models can push AI beyond traditional chatbots!\n\nStart building with Gemini API →https://goo.gle/3Qsa5Fs \nGemini API Cookbook → https://goo.gle/GeminAPICookbook \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\n\n#GoogleAI #BuildwithGemini\n\n\nProducts Mentioned: Google AI Studio, Gemini",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G4RNny8s8Vw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G4RNny8s8Vw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G4RNny8s8Vw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/G4RNny8s8Vw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/G4RNny8s8Vw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: AI DevRel (fka Core ML);",
+          "ct: AIG;",
+          "gds:Yes;",
+          "Gemini AI",
+          "AI in Action",
+          "AI Technology",
+          "Next-Gen AI",
+          "AI Assistant Demo",
+          "Google AI",
+          "Smart AI",
+          "AI Innovation",
+          "Voice-Controlled AI",
+          "Hand Gesture AI",
+          "AI Vision",
+          "AI Automation",
+          "AI Development",
+          "Build an AI Assistant",
+          "AI Project",
+          "Machine Learning",
+          "AI Demo",
+          "Future of AI",
+          "Sci-Fi AI",
+          "AI for Productivity",
+          "AI Hands-Free",
+          "Google AI Studio",
+          "AI Experiment",
+          "AI Applications",
+          "AI Breakthrough"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Revolutionizing AI assistants with the Gemini API",
+          "description": "Shoot for the stars and build your dreams! That’s what Jonathan did when he created his very own agentic AI assistant, Jayu, built with Gemini’s powerful vision capabilities. Like the coolest sci-fi tech, Jayu can follow voice and hand commands, search documents, track gestures, and interact with digital elements on a computer’s screen. Watch to see how Jayu was built and how Gemini models can push AI beyond traditional chatbots!\n\nStart building with Gemini API →https://goo.gle/3Qsa5Fs \nGemini API Cookbook → https://goo.gle/GeminAPICookbook \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\n\n#GoogleAI #BuildwithGemini\n\n\nProducts Mentioned: Google AI Studio, Gemini"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1M54S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "20186",
+        "likeCount": "740",
+        "favoriteCount": "0",
+        "commentCount": "37"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "0v0FQpDezo3V1xZF4ajjrR-REOg",
+      "id": "sjbFYAaebFY",
+      "snippet": {
+        "publishedAt": "2025-05-15T16:08:37Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Just in from the news desk 📰: Agent Developer Kit (ADK)",
+        "description": "Did someone say Google's Agent Development Kit (ADK) is here? Yep, this tool is bringing modular, multi-agent AI development to your fingertips. With its open-source Python framework, ADK simplifies AI agent creation, supports modular systems, and handles complex tasks. Use any AI model, integrate with Google Cloud, and control agent scaling and communication. \n\nResources: \nJoin the Agent Development Kit Hackathon from May 12th to June 23rd, build autonomous systems, and compete for $50,000 in prizes →  https://goo.gle/ADK-Hackathon \n\nWatch more Google Developer News → https://goo.gle/4e8Rysd  \nSubscribe to Google for Developers → https://goo.gle/developers \n\nProducts Mentioned: Agent Developer Kit",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sjbFYAaebFY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sjbFYAaebFY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sjbFYAaebFY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sjbFYAaebFY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sjbFYAaebFY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Learn;",
+          "Video Type:G4D SV: Educational ;",
+          "ct: AIG; ;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Just in from the news desk 📰: Agent Developer Kit (ADK)",
+          "description": "Did someone say Google's Agent Development Kit (ADK) is here? Yep, this tool is bringing modular, multi-agent AI development to your fingertips. With its open-source Python framework, ADK simplifies AI agent creation, supports modular systems, and handles complex tasks. Use any AI model, integrate with Google Cloud, and control agent scaling and communication. \n\nResources: \nJoin the Agent Development Kit Hackathon from May 12th to June 23rd, build autonomous systems, and compete for $50,000 in prizes →  https://goo.gle/ADK-Hackathon \n\nWatch more Google Developer News → https://goo.gle/4e8Rysd  \nSubscribe to Google for Developers → https://goo.gle/developers \n\nProducts Mentioned: Agent Developer Kit"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT52S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "7224",
+        "likeCount": "251",
+        "favoriteCount": "0",
+        "commentCount": "3"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "gDBPZpu-EVC_9CJQD51MmGlceS8",
+      "id": "bfDLSkzZinE",
+      "snippet": {
+        "publishedAt": "2025-05-15T04:00:42Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Coding Tip: Organize your code to follow its data flow for better readability",
+        "description": "Clean, readable code isn’t just about aesthetics – it’s about efficiency. Organizing your code to follow its data flow can make it significantly easier to understand and maintain.\n\nSubscribe to Google for Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bfDLSkzZinE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bfDLSkzZinE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bfDLSkzZinE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bfDLSkzZinE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bfDLSkzZinE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Learn;",
+          "Campaign: ;",
+          "Video Type:G4D SV: Educational ;",
+          "ct: ; ;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Coding Tip: Organize your code to follow its data flow for better readability",
+          "description": "Clean, readable code isn’t just about aesthetics – it’s about efficiency. Organizing your code to follow its data flow can make it significantly easier to understand and maintain.\n\nSubscribe to Google for Developers → https://goo.gle/developers"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT56S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "4809",
+        "likeCount": "229",
+        "favoriteCount": "0",
+        "commentCount": "4"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "6q9fmW5oR3wB_tClNH9MfpLhiV0",
+      "id": "N1WMctGbz-0",
+      "snippet": {
+        "publishedAt": "2025-05-12T19:00:15Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "The countdown to #GoogleIO is on!",
+        "description": "The force is strong with this countdown. 💫 Get ready for #GoogleIO, happening May 20–21.\n\nResources: \nTune in for the latest → https://goo.gle/IO25_DevKeynote \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nEvent: Google IO",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N1WMctGbz-0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N1WMctGbz-0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N1WMctGbz-0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/N1WMctGbz-0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/N1WMctGbz-0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Influence;",
+          "Campaign: ;",
+          "Video Type:G4D SV: I/O ;",
+          "ct: ; ;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "The countdown to #GoogleIO is on!",
+          "description": "The force is strong with this countdown. 💫 Get ready for #GoogleIO, happening May 20–21.\n\nResources: \nTune in for the latest → https://goo.gle/IO25_DevKeynote \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nEvent: Google IO"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT15S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "7424",
+        "likeCount": "137",
+        "favoriteCount": "0",
+        "commentCount": "5"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "qqb9YIexi7k1BnHOIOwhyPTUiLo",
+      "id": "8kkqcevLYis",
+      "snippet": {
+        "publishedAt": "2025-05-12T16:00:22Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "What will the last comparison print? What happens if we change the strings to contain numbers? Go!",
+        "description": "Python developers: Test your knowledge with this string based puzzle! In Python, comparing string identity with the 'is' operator can yield unexpected results. Can you predict what this code will output and explain the pattern behind these results? Try running it with different strings and share your insights in the comments.\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\n\nSpeakers: Crystal Endless",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8kkqcevLYis/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8kkqcevLYis/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8kkqcevLYis/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8kkqcevLYis/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8kkqcevLYis/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Learn;",
+          "Campaign: ;",
+          "Video Type:G4D SV: Educational ;",
+          "ct: ;;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "What will the last comparison print? What happens if we change the strings to contain numbers? Go!",
+          "description": "Python developers: Test your knowledge with this string based puzzle! In Python, comparing string identity with the 'is' operator can yield unexpected results. Can you predict what this code will output and explain the pattern behind these results? Try running it with different strings and share your insights in the comments.\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\n\nSpeakers: Crystal Endless"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT21S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "5175",
+        "likeCount": "106",
+        "favoriteCount": "0",
+        "commentCount": "17"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "nSuyKP0arE2fQjxBEnCp1iTs6OM",
+      "id": "IDCG1MOyj78",
+      "snippet": {
+        "publishedAt": "2025-05-09T16:34:09Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Tap into a fountain of tech knowledge at #GoogleIO!",
+        "description": "Explore a refreshing array of keynotes and sessions covering the latest in AI, Android, web, and cloud. It's the perfect blend to fuel your next project.\n\nSet a reminder → https://goo.gle/IO25_DevKeynote \nSubscribe to Google for Developers → https://goo.gle/developers  \n\nEvent: Google IO",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IDCG1MOyj78/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IDCG1MOyj78/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IDCG1MOyj78/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IDCG1MOyj78/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IDCG1MOyj78/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Influence;",
+          "Campaign: ;",
+          "Video Type:G4D SV: I/O ;",
+          "ct: ; ;",
+          "gds:N/A;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Tap into a fountain of tech knowledge at #GoogleIO!",
+          "description": "Explore a refreshing array of keynotes and sessions covering the latest in AI, Android, web, and cloud. It's the perfect blend to fuel your next project.\n\nSet a reminder → https://goo.gle/IO25_DevKeynote \nSubscribe to Google for Developers → https://goo.gle/developers  \n\nEvent: Google IO"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT20S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "4873",
+        "likeCount": "147",
+        "favoriteCount": "0",
+        "commentCount": "5"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "fNrkQAvtmSW6DTBr2iUhrXoqFBI",
+      "id": "VSg2ztAdNjw",
+      "snippet": {
+        "publishedAt": "2025-05-08T23:00:37Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Just in from the news desk 📰: What is TxGemma?",
+        "description": "We're excited to release TxGemma, a collection of open models designed to improve the efficiency of therapeutic development by leveraging the power of large language models. See if this tool can be used in your developer projects. \n\nWatch more Google Developer News → https://goo.gle/4e8Rysd  \nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeakers: Meghan Mehta \nProducts Mentioned: Gemini, Google AI, Google IO",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VSg2ztAdNjw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VSg2ztAdNjw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VSg2ztAdNjw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VSg2ztAdNjw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VSg2ztAdNjw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Learn;",
+          "Video Type:G4D SV: Educational ;",
+          "ct: ; ;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Just in from the news desk 📰: What is TxGemma?",
+          "description": "We're excited to release TxGemma, a collection of open models designed to improve the efficiency of therapeutic development by leveraging the power of large language models. See if this tool can be used in your developer projects. \n\nWatch more Google Developer News → https://goo.gle/4e8Rysd  \nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeakers: Meghan Mehta \nProducts Mentioned: Gemini, Google AI, Google IO"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "4872",
+        "likeCount": "156",
+        "favoriteCount": "0",
+        "commentCount": "7"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "GrG6kv0fC3g4kc4qee2EeDFf2lA",
+      "id": "O7vZ4LIPYuk",
+      "snippet": {
+        "publishedAt": "2025-05-08T19:00:32Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "What's Your I/O Power-Up?",
+        "description": "What's your I/O power-up? \n\nResources: \nSet a reminder to catch the best sessions in AI, Android, web and cloud→ https://goo.gle/IO25_DevKeynote \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nEvent: Google IO",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/O7vZ4LIPYuk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/O7vZ4LIPYuk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/O7vZ4LIPYuk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/O7vZ4LIPYuk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/O7vZ4LIPYuk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Influence;",
+          "Video Type:Trailer/Promo;",
+          "ct: ; ;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "What's Your I/O Power-Up?",
+          "description": "What's your I/O power-up? \n\nResources: \nSet a reminder to catch the best sessions in AI, Android, web and cloud→ https://goo.gle/IO25_DevKeynote \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nEvent: Google IO"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT21S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "4020",
+        "likeCount": "99",
+        "favoriteCount": "0",
+        "commentCount": "5"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "dAzGOec8hd0ZhyE_n4V6ZOYPTTo",
+      "id": "n1mPxhdZ0kc",
+      "snippet": {
+        "publishedAt": "2025-05-08T17:05:25Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Day in the Life of a Google Wallet Tech Lead",
+        "description": "Curious about what it's like to be at the forefront of Google’s digital wallet? Join us for an exclusive behind-the-scenes look into the daily life of Gokmen Goksel, a Tech Lead for Google Wallet. In this live stream, Gokmen will walk us through his day, offering insights into the challenges, achievements, and collaborative spirit involved in building and maintaining Google Wallet. Don't miss this unique opportunity to ask Gokmen your questions live!\n\nSubscribe to Google for Developers → https://goo.gle/developers\nSubscribe to the Google Wallet Developer Newsletter → https://g.co/wallet/newsletter\n\nSpeaker: Edson Yanaga\nProducts Mentioned: Google Wallet",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n1mPxhdZ0kc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n1mPxhdZ0kc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n1mPxhdZ0kc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/n1mPxhdZ0kc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/n1mPxhdZ0kc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "pr_pr: Pay (incl Wallet);",
+          "Purpose: Learn;",
+          "Video Type:Livestream;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Day in the Life of a Google Wallet Tech Lead",
+          "description": "Curious about what it's like to be at the forefront of Google’s digital wallet? Join us for an exclusive behind-the-scenes look into the daily life of Gokmen Goksel, a Tech Lead for Google Wallet. In this live stream, Gokmen will walk us through his day, offering insights into the challenges, achievements, and collaborative spirit involved in building and maintaining Google Wallet. Don't miss this unique opportunity to ask Gokmen your questions live!\n\nSubscribe to Google for Developers → https://goo.gle/developers\nSubscribe to the Google Wallet Developer Newsletter → https://g.co/wallet/newsletter\n\nSpeaker: Edson Yanaga\nProducts Mentioned: Google Wallet"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT1H3M9S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3744",
+        "likeCount": "91",
+        "favoriteCount": "0",
+        "commentCount": "3"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "rc34tgskPpDT67MbUldejY1twkY",
+      "id": "zprbGE9Gb8g",
+      "snippet": {
+        "publishedAt": "2025-05-08T04:01:08Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "So, how many monitors do you use?",
+        "description": "If you’re not at least coding with two…\n\nSubscribe to Google for Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zprbGE9Gb8g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zprbGE9Gb8g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zprbGE9Gb8g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zprbGE9Gb8g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zprbGE9Gb8g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "So, how many monitors do you use?",
+          "description": "If you’re not at least coding with two…\n\nSubscribe to Google for Developers → https://goo.gle/developers"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT37S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "9776",
+        "likeCount": "141",
+        "favoriteCount": "0",
+        "commentCount": "5"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "8dt8RqKYSwEadyLiNuVdU-OJ5K4",
+      "id": "pC2DhFJQocY",
+      "snippet": {
+        "publishedAt": "2025-05-07T20:00:29Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Get started with Gemma 3 on Vertex AI",
+        "description": "Simplify AI model deployment and tuning with Vertex AI! This video demonstrates how to use Vertex AI Model Garden to deploy Gemma 3 in just three lines of code. Plus, learn how to fine-tune Gemma 3 using Vertex AI tools and infrastructure, unlocking powerful AI capabilities for your applications.\n\nChapters:\n0:00 - Introduction\n2:07 - How to leverage Gemma 3 models effectively\n3:11 - Deployment Demo\n5:50 - Tuning demo\n\nResources:\nModel Garden →  https://goo.gle/44zhWt4 \nGemma documentation → https://goo.gle/406JjIM\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Ivan Nardini. Erwin Huizenga\nProducts Mentioned: Gemma, Vertex AI",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pC2DhFJQocY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pC2DhFJQocY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pC2DhFJQocY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pC2DhFJQocY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pC2DhFJQocY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: AI DevRel (fka Core ML);",
+          "Purpose: Learn;",
+          "Video Type:DevByte;",
+          "ct: AIG;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Get started with Gemma 3 on Vertex AI",
+          "description": "Simplify AI model deployment and tuning with Vertex AI! This video demonstrates how to use Vertex AI Model Garden to deploy Gemma 3 in just three lines of code. Plus, learn how to fine-tune Gemma 3 using Vertex AI tools and infrastructure, unlocking powerful AI capabilities for your applications.\n\nChapters:\n0:00 - Introduction\n2:07 - How to leverage Gemma 3 models effectively\n3:11 - Deployment Demo\n5:50 - Tuning demo\n\nResources:\nModel Garden →  https://goo.gle/44zhWt4 \nGemma documentation → https://goo.gle/406JjIM\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Ivan Nardini. Erwin Huizenga\nProducts Mentioned: Gemma, Vertex AI"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT12M10S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "8604",
+        "likeCount": "197",
+        "favoriteCount": "0",
+        "commentCount": "8"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "UhFnqZL0jPCLr2fFEE7oHw-kngU",
+      "id": "-GKH8xZn6M8",
+      "snippet": {
+        "publishedAt": "2025-05-07T16:00:00Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Which I/O session are you most excited for?",
+        "description": "Pause or screenshot to see what sessions are destined for you! \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nProducts Mentioned: Google IO",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-GKH8xZn6M8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-GKH8xZn6M8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-GKH8xZn6M8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-GKH8xZn6M8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-GKH8xZn6M8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Influence;",
+          "Campaign: ;",
+          "Video Type:G4D SV: I/O ;",
+          "ct: ; ;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Which I/O session are you most excited for?",
+          "description": "Pause or screenshot to see what sessions are destined for you! \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nProducts Mentioned: Google IO"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT3S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "4945",
+        "likeCount": "87",
+        "favoriteCount": "0",
+        "commentCount": "8"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "sXZ8X0MMFctcbknDsgUXUbTGlGo",
+      "id": "rRSlUINKXnU",
+      "snippet": {
+        "publishedAt": "2025-05-07T04:00:51Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "POV: You’re productive... too productive. 🕒💻",
+        "description": "That moment you crush your to-do list, check the time, and realize it’s only 11am. \n\nSubscribe to Google for Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rRSlUINKXnU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rRSlUINKXnU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rRSlUINKXnU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rRSlUINKXnU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rRSlUINKXnU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Learn;",
+          "Campaign: ;",
+          "Video Type:G4D SV: Comedic skits;",
+          "ct: ; ;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "POV: You’re productive... too productive. 🕒💻",
+          "description": "That moment you crush your to-do list, check the time, and realize it’s only 11am. \n\nSubscribe to Google for Developers → https://goo.gle/developers"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT14S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "15854",
+        "likeCount": "188",
+        "favoriteCount": "0",
+        "commentCount": "12"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ZJzu4IhQxrVvJNMZdk9MicQ20Hw",
+      "id": "hPzjkQFV5yI",
+      "snippet": {
+        "publishedAt": "2025-05-05T23:00:56Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Build a Browser Use Agent with ADK and Selenium",
+        "description": "Elevate your retail website's performance with a Browser Use agent, built with Agent Development Kit and Selenium, to enhance product data. This powerful tool generates relevant keywords from your product information, then actively visits your site, analyzes top search results, and provides actionable suggestions to enrich your product titles for better visibility. By identifying and filling gaps in your product data, the agent helps ensure your website users always find products by your brand. \n\nRecources: \nBrand Search Optimization → https://goo.gle/42XZgRG \nGet Started → https://goo.gle/3RGrB9T \nOther Sample Agents →https://goo.gle/3Rbdo4s \n\nChapters; \n0:00 - Intro \n1:13 - Chapter 1: Brand search optimization workflow\n2:30 - Chapter 2: Architecture\n7:53 - Chapter 3: Setup the agent with bigquery\n9:55 - Chapter 4: Root Agent and sub agent walkthrough\n14:44 - Chapter 5: Web browser / Search results Agent\n22:39 - Chapter 6: Evaluation and Testing\n27:20 - Chapter 7: Running the ADK web app\n35:57 - Chapter 8: Recap\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\n#BrandSearchOptimization #ProductData #seo \n\nProducts Mentioned: Agent Developer Kit (ADK)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hPzjkQFV5yI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hPzjkQFV5yI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hPzjkQFV5yI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hPzjkQFV5yI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hPzjkQFV5yI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Build a Browser Use Agent with ADK and Selenium",
+          "description": "Elevate your retail website's performance with a Browser Use agent, built with Agent Development Kit and Selenium, to enhance product data. This powerful tool generates relevant keywords from your product information, then actively visits your site, analyzes top search results, and provides actionable suggestions to enrich your product titles for better visibility. By identifying and filling gaps in your product data, the agent helps ensure your website users always find products by your brand. \n\nRecources: \nBrand Search Optimization → https://goo.gle/42XZgRG \nGet Started → https://goo.gle/3RGrB9T \nOther Sample Agents →https://goo.gle/3Rbdo4s \n\nChapters; \n0:00 - Intro \n1:13 - Chapter 1: Brand search optimization workflow\n2:30 - Chapter 2: Architecture\n7:53 - Chapter 3: Setup the agent with bigquery\n9:55 - Chapter 4: Root Agent and sub agent walkthrough\n14:44 - Chapter 5: Web browser / Search results Agent\n22:39 - Chapter 6: Evaluation and Testing\n27:20 - Chapter 7: Running the ADK web app\n35:57 - Chapter 8: Recap\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\n#BrandSearchOptimization #ProductData #seo \n\nProducts Mentioned: Agent Developer Kit (ADK)"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT37M17S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "13700",
+        "likeCount": "362",
+        "favoriteCount": "0",
+        "commentCount": "22"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "J2zDirXhRyOUoY9CfRzyAFk3q7o",
+      "id": "an7VFh9_HLY",
+      "snippet": {
+        "publishedAt": "2025-05-05T13:00:07Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "What’s the minimum total distance the train must travel to deliver all cars? Go!",
+        "description": "Here's an algorithmic challenge with real-world applications: A train must deliver specific numbers of cargo cars to three stations with constraints on capacity. How would you optimize the delivery route to minimize total distance traveled? What's your minimum-distance solution, and what approach did you use to find it? Share your thoughts in the comments!\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeakers: M.E Francis",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/an7VFh9_HLY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/an7VFh9_HLY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/an7VFh9_HLY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/an7VFh9_HLY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/an7VFh9_HLY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Learn;",
+          "Campaign: ;",
+          "Video Type:G4D SV: Educational ;",
+          "ct: ;;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "What’s the minimum total distance the train must travel to deliver all cars? Go!",
+          "description": "Here's an algorithmic challenge with real-world applications: A train must deliver specific numbers of cargo cars to three stations with constraints on capacity. How would you optimize the delivery route to minimize total distance traveled? What's your minimum-distance solution, and what approach did you use to find it? Share your thoughts in the comments!\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeakers: M.E Francis"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT40S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "6556",
+        "likeCount": "181",
+        "favoriteCount": "0",
+        "commentCount": "34"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 50,
+    "resultsPerPage": 50
+  }
+}

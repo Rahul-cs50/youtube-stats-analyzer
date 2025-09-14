@@ -1,0 +1,3587 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "Ytv7N5ViaQ_CSbja67_o3SbaNck",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "1CLm-hoQDzpsh94b34EJj38DQ2s",
+      "id": "9OJ6HbJGWH0",
+      "snippet": {
+        "publishedAt": "2025-07-07T13:00:23Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Can you explain whats happening with this output? Go!",
+        "description": "Python devs, here's a classic closure trap! What will this code output? Most developers expect 0, 1, 2, but Python's handling of loop variables in closures leads to a surprising result. Can you explain what's happening and how to fix it? This pattern appears in real-world code more often than you might think. Share your solution in the comments!\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeakers: Crystal Endless",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9OJ6HbJGWH0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9OJ6HbJGWH0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9OJ6HbJGWH0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9OJ6HbJGWH0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9OJ6HbJGWH0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "Purpose: Learn;",
+          "Campaign: ;",
+          "Video Type:G4D SV: Educational ;",
+          "ct: ;;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Can you explain whats happening with this output? Go!",
+          "description": "Python devs, here's a classic closure trap! What will this code output? Most developers expect 0, 1, 2, but Python's handling of loop variables in closures leads to a surprising result. Can you explain what's happening and how to fix it? This pattern appears in real-world code more often than you might think. Share your solution in the comments!\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeakers: Crystal Endless"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT20S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "21332",
+        "likeCount": "364",
+        "favoriteCount": "0",
+        "commentCount": "43"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "XlZEzfKIZTyx-nh_yTIq7eSB_rE",
+      "id": "Gs112JPIsgM",
+      "snippet": {
+        "publishedAt": "2025-07-03T04:00:31Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Enable Google Pay in Android WebView",
+        "description": "Android developers, are you looking to seamlessly integrate Google Pay into your app using WebViews? This video provides a step-by-step guide to enabling Google Pay within your Android WebView, enhancing the user experience and streamlining the payment process. We'll walk you through the necessary code changes, dependencies, and configurations to get Google Pay up and running in your application.\n\nLearn how to leverage Android WebView to provide a native Android experience while utilizing device tokens from Google Wallet. This integration not only simplifies payments but also improves checkout speed and overall user satisfaction.\n\nJoin the official Google Pay and Wallet developer community on Discord (linked below) to find more information, resources, and support. If you have any questions about implementing Google Pay in your Android WebView, be sure to join the community and ask away!\n\nChapters: \n\n0:00 - Intro \n0:25 - Benefits of using Google Pay in WebView\n0:53 - Adding the Android X Webkit Dependency\n1:22 - Adjusting the Android Manifest\n1:34 - Enabling the Payment Request API\n1:56 - Implementing the Changes\n2:15 - Google Pay Benefits\n2:28 - Android WebView Google Pay Community & Conclusion\n\n\nConnect with us:\n\nJoin the conversation in the #payments channel on Discord → https://goo.gle/payments-dev-community\nWatch more Live Google Pay integrations on Android → https://goo.gle/live-google-pay \nFollow @GooglePayDevs on X for more content like this → https://goo.gle/GooglePayDevs  \nSubscribe to Google for Developers → https://goo.gle/developers  \n\nGet support: \n\nFor assistance with your implementation, create a support ticket from the Google Pay & Wallet Console → https://goo.gle/4hSy658 \n\nSpeaker: Dominik Mengelt\nProducts Mentioned: Google Pay\n\n#GooglePay #payments #developer",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Gs112JPIsgM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Gs112JPIsgM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Gs112JPIsgM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Gs112JPIsgM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Gs112JPIsgM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Pay;",
+          "Purpose: Learn;",
+          "Campaign: Pay Campaigns;",
+          "ct: AIG;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Enable Google Pay in Android WebView",
+          "description": "Android developers, are you looking to seamlessly integrate Google Pay into your app using WebViews? This video provides a step-by-step guide to enabling Google Pay within your Android WebView, enhancing the user experience and streamlining the payment process. We'll walk you through the necessary code changes, dependencies, and configurations to get Google Pay up and running in your application.\n\nLearn how to leverage Android WebView to provide a native Android experience while utilizing device tokens from Google Wallet. This integration not only simplifies payments but also improves checkout speed and overall user satisfaction.\n\nJoin the official Google Pay and Wallet developer community on Discord (linked below) to find more information, resources, and support. If you have any questions about implementing Google Pay in your Android WebView, be sure to join the community and ask away!\n\nChapters: \n\n0:00 - Intro \n0:25 - Benefits of using Google Pay in WebView\n0:53 - Adding the Android X Webkit Dependency\n1:22 - Adjusting the Android Manifest\n1:34 - Enabling the Payment Request API\n1:56 - Implementing the Changes\n2:15 - Google Pay Benefits\n2:28 - Android WebView Google Pay Community & Conclusion\n\n\nConnect with us:\n\nJoin the conversation in the #payments channel on Discord → https://goo.gle/payments-dev-community\nWatch more Live Google Pay integrations on Android → https://goo.gle/live-google-pay \nFollow @GooglePayDevs on X for more content like this → https://goo.gle/GooglePayDevs  \nSubscribe to Google for Developers → https://goo.gle/developers  \n\nGet support: \n\nFor assistance with your implementation, create a support ticket from the Google Pay & Wallet Console → https://goo.gle/4hSy658 \n\nSpeaker: Dominik Mengelt\nProducts Mentioned: Google Pay\n\n#GooglePay #payments #developer"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT2M50S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "4488",
+        "likeCount": "103",
+        "favoriteCount": "0",
+        "commentCount": "7"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "z6uWSP6lj1Oq1krTAUA2-h0_RAc",
+      "id": "K4vXvaRV0dw",
+      "snippet": {
+        "publishedAt": "2025-07-02T23:01:04Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Release Notes: Gemini's multimodality",
+        "description": "Ani Baddepudi, Gemini Model Behavior Product Lead, joins host Logan Kilpatrick for a deep dive into Gemini's multimodal capabilities. Their conversation explores why Gemini was built as a natively multimodal model from day one, the future of proactive AI assistants, and how we are moving towards a world where \"everything is vision.\" Learn about the differences between video and image understanding and token representations, higher FPS video sampling, and more.\n\nChapters:\n0:00 - Intro \n1:12 - Why Gemini is natively multimodal\n2:23 - The technology behind multimodal models\n5:15 - Video understanding with Gemini 2.5\n9:25 - Deciding what to build next\n13:23 - Building new product experiences with multimodal AI\n17:15 - The vision for proactive assistants\n24:13 - Improving video usability with variable FPS and frame tokenization\n27:35 - What’s next for Gemini’s multimodal development\n31:47 - Deep dive on Gemini’s document understanding capabilities\n37:56 - The teamwork and collaboration behind Gemini\n40:56 - What’s next with model behavior\n\nWatch more Release Notes → https://goo.gle/4njokfg \nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Logan Kilpatrick, Anirudh Baddepudi\nProducts Mentioned: Google AI, Gemini",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K4vXvaRV0dw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K4vXvaRV0dw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K4vXvaRV0dw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/K4vXvaRV0dw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Learn;",
+          "Video Type:DevByte;",
+          "ct: ; ;",
+          "gds:N/A;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Release Notes: Gemini's multimodality",
+          "description": "Ani Baddepudi, Gemini Model Behavior Product Lead, joins host Logan Kilpatrick for a deep dive into Gemini's multimodal capabilities. Their conversation explores why Gemini was built as a natively multimodal model from day one, the future of proactive AI assistants, and how we are moving towards a world where \"everything is vision.\" Learn about the differences between video and image understanding and token representations, higher FPS video sampling, and more.\n\nChapters:\n0:00 - Intro \n1:12 - Why Gemini is natively multimodal\n2:23 - The technology behind multimodal models\n5:15 - Video understanding with Gemini 2.5\n9:25 - Deciding what to build next\n13:23 - Building new product experiences with multimodal AI\n17:15 - The vision for proactive assistants\n24:13 - Improving video usability with variable FPS and frame tokenization\n27:35 - What’s next for Gemini’s multimodal development\n31:47 - Deep dive on Gemini’s document understanding capabilities\n37:56 - The teamwork and collaboration behind Gemini\n40:56 - What’s next with model behavior\n\nWatch more Release Notes → https://goo.gle/4njokfg \nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Logan Kilpatrick, Anirudh Baddepudi\nProducts Mentioned: Google AI, Gemini"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT44M18S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "26834",
+        "likeCount": "730",
+        "favoriteCount": "0",
+        "commentCount": "40"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "DtTUU8EwUJFZJHHrvs_mIzuck3Y",
+      "id": "2cFKh6x6KUc",
+      "snippet": {
+        "publishedAt": "2025-07-02T18:18:36Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Controlling a remote-controlled car with Gemma 3n on-device",
+        "description": "Ian, a Developer Advocate, shows how Gemma 3n running on-device can drive a remote controlled car when given a set of commands. From something simple like  “go  forwards” to something more complex like “drive in circles”. It even understands phrases in other languages! See Gemma 3n in action!\n\nResources: \nhttps://goo.gle/gemma\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Ian Ballantyne\nProducts Mentioned: Gemma",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2cFKh6x6KUc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2cFKh6x6KUc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2cFKh6x6KUc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2cFKh6x6KUc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2cFKh6x6KUc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google AI for Developers;",
+          "Purpose: Influence;",
+          "Video Type:Social First - Educational;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Controlling a remote-controlled car with Gemma 3n on-device",
+          "description": "Ian, a Developer Advocate, shows how Gemma 3n running on-device can drive a remote controlled car when given a set of commands. From something simple like  “go  forwards” to something more complex like “drive in circles”. It even understands phrases in other languages! See Gemma 3n in action!\n\nResources: \nhttps://goo.gle/gemma\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Ian Ballantyne\nProducts Mentioned: Gemma"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT54S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "17640",
+        "likeCount": "244",
+        "favoriteCount": "0",
+        "commentCount": "10"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "jgLOvzYC-B_vUo-OeS2ER-mPnY0",
+      "id": "UjhpIR79bOU",
+      "snippet": {
+        "publishedAt": "2025-07-02T04:00:39Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Biggest shift when moving from IC to manager?",
+        "description": "What’s the biggest shift when moving from IC to manager? For Web and Chrome Developer Relations Lead Paul Kinlan, it wasn’t technical. It was about supporting others’ growth. 👥\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Paul Kinlan\nProducts Mentioned: Chrome",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UjhpIR79bOU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UjhpIR79bOU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UjhpIR79bOU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UjhpIR79bOU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UjhpIR79bOU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Learn;",
+          "Campaign: ;",
+          "type:G4D SV: I/O ;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Biggest shift when moving from IC to manager?",
+          "description": "What’s the biggest shift when moving from IC to manager? For Web and Chrome Developer Relations Lead Paul Kinlan, it wasn’t technical. It was about supporting others’ growth. 👥\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Paul Kinlan\nProducts Mentioned: Chrome"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT26S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "5319",
+        "likeCount": "97",
+        "favoriteCount": "0",
+        "commentCount": "4"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "cJQgJvg75ZiTEFfVGdLsA92_dIc",
+      "id": "cMx4s-rwodk",
+      "snippet": {
+        "publishedAt": "2025-07-01T23:00:42Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Why centering a div is harder than it seems",
+        "description": "It’s a well known joke, and here’s the story behind it. \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Anaya Mehta",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cMx4s-rwodk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cMx4s-rwodk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cMx4s-rwodk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cMx4s-rwodk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cMx4s-rwodk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Learn;",
+          "Campaign: ;",
+          "Video Type:G4D SV: Educational ;",
+          "ct: ; ;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Why centering a div is harder than it seems",
+          "description": "It’s a well known joke, and here’s the story behind it. \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Anaya Mehta"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT46S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "7223",
+        "likeCount": "175",
+        "favoriteCount": "0",
+        "commentCount": "7"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "baDNCEqDit5_Aab6XoQGGEt6VGo",
+      "id": "sS7afkjLc8U",
+      "snippet": {
+        "publishedAt": "2025-07-01T16:01:29Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Just in from the news desk 📰: Stitch from Google Labs is here!",
+        "description": "Ever wondered how you can seamlessly turn your app ideas into a functional UI design using prompts? See how you can use this tool to streamline your application creation by generating frontend code using Gemini 2.5. \n\nResources: \n\nCheck it out here → https://goo.gle/43TYMxw \n\nWatch more Google Developer News → https://goo.gle/4e8Rysd  \nSubscribe to Google for Developers → https://goo.gle/developers \n\n#GoogleDeveloperNews\n\nSpeaker: \nProducts Mentioned:  Gemini, Gemini 2.5",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sS7afkjLc8U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sS7afkjLc8U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sS7afkjLc8U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sS7afkjLc8U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sS7afkjLc8U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Influence;",
+          "Campaign: ;",
+          "Video Type:G4D SV: Educational ;",
+          "ct: ; ;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Just in from the news desk 📰: Stitch from Google Labs is here!",
+          "description": "Ever wondered how you can seamlessly turn your app ideas into a functional UI design using prompts? See how you can use this tool to streamline your application creation by generating frontend code using Gemini 2.5. \n\nResources: \n\nCheck it out here → https://goo.gle/43TYMxw \n\nWatch more Google Developer News → https://goo.gle/4e8Rysd  \nSubscribe to Google for Developers → https://goo.gle/developers \n\n#GoogleDeveloperNews\n\nSpeaker: \nProducts Mentioned:  Gemini, Gemini 2.5"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT57S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "13896",
+        "likeCount": "508",
+        "favoriteCount": "0",
+        "commentCount": "14"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "LSTgwWki6IGWadbgGJQ0WHlAtnM",
+      "id": "QDS3aO2xeJY",
+      "snippet": {
+        "publishedAt": "2025-07-01T04:00:42Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Build a mobile app using the Home APIs on iOS",
+        "description": "Learn how to build a mobile app using the Google Home APIs on iOS in this comprehensive codelab tutorial!\n\nResources: \n\nLearn more about the Home APIs → https://goo.gle/4luwAr7 \nAccess Home APIs codelabs → https://goo.gle/44mTFVG \nSign up for the Google Home APIs Developer Challenge → https://goo.gle/HomeAPIsDevChallenge \nJoin our smart home developer community → https://goo.gle/4l1tgUt \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Shannon\nProducts Mentioned: Google Home,",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QDS3aO2xeJY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QDS3aO2xeJY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QDS3aO2xeJY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QDS3aO2xeJY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QDS3aO2xeJY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "ct: ; ;",
+          "Campaign:;",
+          "type:G4D SV: Educational ;",
+          "gds:N/A;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Build a mobile app using the Home APIs on iOS",
+          "description": "Learn how to build a mobile app using the Google Home APIs on iOS in this comprehensive codelab tutorial!\n\nResources: \n\nLearn more about the Home APIs → https://goo.gle/4luwAr7 \nAccess Home APIs codelabs → https://goo.gle/44mTFVG \nSign up for the Google Home APIs Developer Challenge → https://goo.gle/HomeAPIsDevChallenge \nJoin our smart home developer community → https://goo.gle/4l1tgUt \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Shannon\nProducts Mentioned: Google Home,"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT35S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "7249",
+        "likeCount": "187",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "xqZlDpfocBAhCdzWpSIKSSSgtuk",
+      "id": "LaLK_FyZOdc",
+      "snippet": {
+        "publishedAt": "2025-06-30T23:00:13Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Build a mobile app using the Home APIs on iOS",
+        "description": "Learn how to build a mobile app using the Google Home APIs on iOS in this comprehensive codelab tutorial!\n\nBy the end of this video, you will know:\nHow to build an iOS mobile app using the Google Home APIs;\nHow to use the Device and Structure APIs to obtain and control devices in the user’s home;\nHow to use the Commissioning APIs to add Matter devices to the Google Home ecosystem;\nHow to use the Automation APIs to create, delete, and edit a smart home automation.\n\nResources: \n\nLearn more about the Home APIs → https://goo.gle/4luwAr7 \nAccess Home APIs codelabs → https://goo.gle/44mTFVG \nSign up for the Google Home APIs Developer Challenge → https://goo.gle/HomeAPIsDevChallenge \nJoin our smart home developer community → https://goo.gle/4l1tgUt \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\n#GoogleHome #iOSAppDevelopment #GoogleHomeAPI\n\nSpeaker: Shannon\nProducts Mentioned: Google Home,",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LaLK_FyZOdc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LaLK_FyZOdc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LaLK_FyZOdc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LaLK_FyZOdc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LaLK_FyZOdc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Campaign: ;",
+          "Video Type:DevByte;",
+          "ct: ; ;",
+          "gds:N/A;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Build a mobile app using the Home APIs on iOS",
+          "description": "Learn how to build a mobile app using the Google Home APIs on iOS in this comprehensive codelab tutorial!\n\nBy the end of this video, you will know:\nHow to build an iOS mobile app using the Google Home APIs;\nHow to use the Device and Structure APIs to obtain and control devices in the user’s home;\nHow to use the Commissioning APIs to add Matter devices to the Google Home ecosystem;\nHow to use the Automation APIs to create, delete, and edit a smart home automation.\n\nResources: \n\nLearn more about the Home APIs → https://goo.gle/4luwAr7 \nAccess Home APIs codelabs → https://goo.gle/44mTFVG \nSign up for the Google Home APIs Developer Challenge → https://goo.gle/HomeAPIsDevChallenge \nJoin our smart home developer community → https://goo.gle/4l1tgUt \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\n#GoogleHome #iOSAppDevelopment #GoogleHomeAPI\n\nSpeaker: Shannon\nProducts Mentioned: Google Home,"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT16M10S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "4167",
+        "likeCount": "137",
+        "favoriteCount": "0",
+        "commentCount": "11"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "2kjqb1EAOWKySfNyJJGvPFFty7I",
+      "id": "xbTIzTjpOTQ",
+      "snippet": {
+        "publishedAt": "2025-06-30T13:01:48Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Why does this one conditional line log? Go!",
+        "description": "JavaScript developers! Here's a challenge that trips up even experienced coders. When we create boolean values in different ways, they might look identical but behave completely differently.\nCan you spot which value behaves unexpectedly in our latest Developer Challenge and explain why? This seemingly small distinction can lead to frustrating bugs in production.\n\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\n\nSpeakers: Amanda Stanton",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xbTIzTjpOTQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xbTIzTjpOTQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xbTIzTjpOTQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xbTIzTjpOTQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xbTIzTjpOTQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Why does this one conditional line log? Go!",
+          "description": "JavaScript developers! Here's a challenge that trips up even experienced coders. When we create boolean values in different ways, they might look identical but behave completely differently.\nCan you spot which value behaves unexpectedly in our latest Developer Challenge and explain why? This seemingly small distinction can lead to frustrating bugs in production.\n\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\n\nSpeakers: Amanda Stanton"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT23S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "8027",
+        "likeCount": "146",
+        "favoriteCount": "0",
+        "commentCount": "20"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "qMfASEqzTEDDmyDI6_7gCBCiwLY",
+      "id": "GFQaUd1JF-U",
+      "snippet": {
+        "publishedAt": "2025-06-27T17:00:31Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Announcing Angular v20, find us on Bluesky, and more! - Google Developer News June 2025",
+        "description": "Welcome to Google Developer News June Edition! In this episode, Craig Labenz brings you the latest updates from the Google Developer ecosystem that include Angular v20 and more! Also, be sure to check out our new Bluesky account! Subscribe to this channel to continue getting the latest updates on all things Google for Developers. Watch for more details! \n\nChapters: \n0:00 - Intro \n0:20 - Announcing Angular V20 → https://goo.gle/3FV6G0x \n1:14 - What is Stitch from Google Labs? → https://goo.gle/4nnqL0q \n2:05 - Google for Developers on Bluesky! → https://goo.gle/3FReQXN \n\nWatch more Google Developer News → https://goo.gle/4e8Rysd  \nSubscribe to Google for Developers → https://goo.gle/developers \n\n#GoogleDeveloperNews \n\nSpeaker: Craig Labenz \nProducts Mentioned: Google AI, Gemma,  Generative AI, Angular",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GFQaUd1JF-U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GFQaUd1JF-U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GFQaUd1JF-U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GFQaUd1JF-U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GFQaUd1JF-U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Learn;",
+          "Video Type:Dev News;",
+          "ct: ;;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Announcing Angular v20, find us on Bluesky, and more! - Google Developer News June 2025",
+          "description": "Welcome to Google Developer News June Edition! In this episode, Craig Labenz brings you the latest updates from the Google Developer ecosystem that include Angular v20 and more! Also, be sure to check out our new Bluesky account! Subscribe to this channel to continue getting the latest updates on all things Google for Developers. Watch for more details! \n\nChapters: \n0:00 - Intro \n0:20 - Announcing Angular V20 → https://goo.gle/3FV6G0x \n1:14 - What is Stitch from Google Labs? → https://goo.gle/4nnqL0q \n2:05 - Google for Developers on Bluesky! → https://goo.gle/3FReQXN \n\nWatch more Google Developer News → https://goo.gle/4e8Rysd  \nSubscribe to Google for Developers → https://goo.gle/developers \n\n#GoogleDeveloperNews \n\nSpeaker: Craig Labenz \nProducts Mentioned: Google AI, Gemma,  Generative AI, Angular"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT2M29S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "8748",
+        "likeCount": "194",
+        "favoriteCount": "0",
+        "commentCount": "23"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "qzvzMUqyvtBhzTXpjAI2p1lzGr8",
+      "id": "YxtLYKHntVs",
+      "snippet": {
+        "publishedAt": "2025-06-26T23:00:38Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "“Just one more line of code before lunch!”",
+        "description": "Every team has that coworker. Is it you or someone else on your team? 🍴💻 \n\nSubscribe to Google for Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YxtLYKHntVs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YxtLYKHntVs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YxtLYKHntVs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YxtLYKHntVs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YxtLYKHntVs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Influence;",
+          "Campaign: ;",
+          "Video Type:G4D SV: Comedic skits;",
+          "ct: ; ;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "“Just one more line of code before lunch!”",
+          "description": "Every team has that coworker. Is it you or someone else on your team? 🍴💻 \n\nSubscribe to Google for Developers → https://goo.gle/developers"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "8952",
+        "likeCount": "148",
+        "favoriteCount": "0",
+        "commentCount": "7"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "RjVM-S86O_iDAl5XOXjTeQvSLIU",
+      "id": "tVh5R1Z1q9k",
+      "snippet": {
+        "publishedAt": "2025-06-25T13:00:49Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Gemini CLI: Vibe coding and deploying Hello World to Cloud Run!",
+        "description": "Check how our Google Cloud Developer Advocate Luke Schlangen uses Gemini CLI to create a \"Hello World\" Node.js project and deploy it to Cloud Run, and even troubleshoot common issues—all with commands generated by Gemini CLI itself. See how quick and easy it is to go from an idea to a deployed application!\n\nGemini CLI is an open-source AI agent that brings the power of Gemini directly into your terminal. Individual developers can get started with access to Gemini 2.5 Pro, featuring a 1 million token context window, 60 queries per minute and 20,000 queries per month - all at NO COST.\n\nResources: \nInstall Gemini CLI today→https://goo.gle/46hU0LE  \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nProducts mentioned: Gemini",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tVh5R1Z1q9k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tVh5R1Z1q9k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tVh5R1Z1q9k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tVh5R1Z1q9k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tVh5R1Z1q9k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Gemini API / AI Studio;",
+          "Purpose: Learn;",
+          "Campaign: ;",
+          "Video Type:G4D SV: Educational ;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Gemini CLI: Vibe coding and deploying Hello World to Cloud Run!",
+          "description": "Check how our Google Cloud Developer Advocate Luke Schlangen uses Gemini CLI to create a \"Hello World\" Node.js project and deploy it to Cloud Run, and even troubleshoot common issues—all with commands generated by Gemini CLI itself. See how quick and easy it is to go from an idea to a deployed application!\n\nGemini CLI is an open-source AI agent that brings the power of Gemini directly into your terminal. Individual developers can get started with access to Gemini 2.5 Pro, featuring a 1 million token context window, 60 queries per minute and 20,000 queries per month - all at NO COST.\n\nResources: \nInstall Gemini CLI today→https://goo.gle/46hU0LE  \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nProducts mentioned: Gemini"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT59S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "40125",
+        "likeCount": "909",
+        "favoriteCount": "0",
+        "commentCount": "27"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "OwhLgc9KagFtyzuupA91B66PwzI",
+      "id": "NW0NssvEeDs",
+      "snippet": {
+        "publishedAt": "2025-06-25T04:00:22Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Top 3 use cases for retraining Gemma?",
+        "description": "Why retrain a model like Gemma? For Gemma Product Manager Gus Martins, the top use cases include expanding language support, tailoring outputs to your brand, and generating structured formats like JSON.\n\nResources:\nWatch the full #GoogleIO session to learn more → https://goo.gle/43VoYGW \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Gus Martins \nProducts Mentioned: Gemma",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NW0NssvEeDs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NW0NssvEeDs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NW0NssvEeDs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NW0NssvEeDs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NW0NssvEeDs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Top 3 use cases for retraining Gemma?",
+          "description": "Why retrain a model like Gemma? For Gemma Product Manager Gus Martins, the top use cases include expanding language support, tailoring outputs to your brand, and generating structured formats like JSON.\n\nResources:\nWatch the full #GoogleIO session to learn more → https://goo.gle/43VoYGW \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Gus Martins \nProducts Mentioned: Gemma"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT35S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "7849",
+        "likeCount": "171",
+        "favoriteCount": "0",
+        "commentCount": "4"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "QSuSfh_KJX875yRL4G0qipLjCPE",
+      "id": "3GYgkcFd_ec",
+      "snippet": {
+        "publishedAt": "2025-06-24T23:00:03Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Deep dive on multilinguality in Gemma 3",
+        "description": "Explore Gemma 3 game-changing multilingual capabilities. This video reveals how Gemma 3’s unique architecture allows developers to create AI solutions that break language barriers. From building multilingual chatbots to fine-tuning for specific linguistic styles, you'll learn how to maximize Gemma 3’s potential.\n\nChapters:\n0:00 - Introduction\n1:56 - Practical examples\n3:47 - Get started with Gemma\n\nResources:\nGemma documentation → https://goo.gle/3FCVKEJ \nGemmaverse → https://goo.gle/4e0KkHz \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Adi Mayrav Gilady\nProducts mentioned: Gemma",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3GYgkcFd_ec/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3GYgkcFd_ec/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3GYgkcFd_ec/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3GYgkcFd_ec/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3GYgkcFd_ec/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "Purpose: Educate",
+          "Series: Gemma3 Launch",
+          "google developers",
+          "AI",
+          "Gemma",
+          "GDS: Yes",
+          "pr_pr: Google AI for Developers;",
+          "Purpose: Learn;",
+          "Video Type:DevByte;",
+          "gds:Yes;",
+          "developer",
+          "ct: AIG;",
+          "Gemma 3",
+          "how to quickly set up and run Google's Gemma 3",
+          "how to run Gemma 3 with Keras"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Deep dive on multilinguality in Gemma 3",
+          "description": "Explore Gemma 3 game-changing multilingual capabilities. This video reveals how Gemma 3’s unique architecture allows developers to create AI solutions that break language barriers. From building multilingual chatbots to fine-tuning for specific linguistic styles, you'll learn how to maximize Gemma 3’s potential.\n\nChapters:\n0:00 - Introduction\n1:56 - Practical examples\n3:47 - Get started with Gemma\n\nResources:\nGemma documentation → https://goo.gle/3FCVKEJ \nGemmaverse → https://goo.gle/4e0KkHz \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Adi Mayrav Gilady\nProducts mentioned: Gemma"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT4M16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "4331",
+        "likeCount": "167",
+        "favoriteCount": "0",
+        "commentCount": "9"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "WBX6YnLhzpiMsfPaPvqo6ryL3nE",
+      "id": "10deLft7KIE",
+      "snippet": {
+        "publishedAt": "2025-06-23T13:00:03Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "How would you design your load balancing algorithm? Go!",
+        "description": "You need to distribute traffic across servers with varying capacities using only a simple random number generator. How would you implement a solution that's both accurate and efficient? Check out the video and share your design in the comments.\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeakers: Amanda Stanton",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/10deLft7KIE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/10deLft7KIE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/10deLft7KIE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/10deLft7KIE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/10deLft7KIE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Learn;",
+          "Campaign: ;",
+          "Video Type:G4D SV: Educational ;",
+          "ct: ;;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "How would you design your load balancing algorithm? Go!",
+          "description": "You need to distribute traffic across servers with varying capacities using only a simple random number generator. How would you implement a solution that's both accurate and efficient? Check out the video and share your design in the comments.\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeakers: Amanda Stanton"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT57S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3855",
+        "likeCount": "143",
+        "favoriteCount": "0",
+        "commentCount": "28"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "yUoXxXpzBCYEuMlyuHAe5GyQbN0",
+      "id": "UIntXBP--gI",
+      "snippet": {
+        "publishedAt": "2025-06-18T23:00:36Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Build AI agents for e-commerce with ADK + Vector Search",
+        "description": "This video discusses creating AI agents for e-commerce using ADK and Vector Search to address challenges like keyword/multimodal searches and item recommendations. It highlights advanced Vector Search practices (multimodal, hybrid, task-type embedding) and demonstrates how AI agents with Vector Search improve \"\"generative\"\" recommendations, exemplified by a \"\"Shopper's Concierge\"\" demo. This demo, using ADK, Google Search grounding, query generation, and multimodal item curation, finds relevant items based on user intent, moving beyond simple text similarity search.\n\nResources: \n\nVertex AI Vector Search →https://goo.gle/3T5xxK5 \nAgent Development Kit→https://goo.gle/3RGrB9T \nShopper's Concierge demo video→https://goo.gle/4jRbMJb \nShopper's Concierge sample notebook→https://goo.gle/4kMkxot \n\nChapters: \n0:00 -  Intro \n0:43 - Introduction to Vector Search & Advanced Practices (Kaz Sato) \n1:18 - Typical RAG Scenario for E-commerce \n2:56 - Challenges with Basic RAG in E-commerce \n8:08 - Vector Search Advanced Practices \n15:08 - Building the Shopper's Concierge AI Agent with ADK & Vector Search (Kaz Sato) \n8:50 - Challenge: Smart Recommendations\n9:50 - Solution: AI Agents + Vector Search \n11:13 - Shopper's Concierge Demo \n14:58 - Code Implementation Walkthrough \n15:02 - Q&A and Resources \n15:48 - Why \"\"Agent as a Tool\"\" vs. Sub-agent? \n16:48 - Getting Started Resources \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeakers: Sita Lakshmi, Kaz Sato \nProducts Mentioned: Agent Developer Kit (ADK)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UIntXBP--gI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UIntXBP--gI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UIntXBP--gI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UIntXBP--gI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UIntXBP--gI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Learn;",
+          "Video Type:DevByte;",
+          "ct: ; ;",
+          "gds:N/A;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Build AI agents for e-commerce with ADK + Vector Search",
+          "description": "This video discusses creating AI agents for e-commerce using ADK and Vector Search to address challenges like keyword/multimodal searches and item recommendations. It highlights advanced Vector Search practices (multimodal, hybrid, task-type embedding) and demonstrates how AI agents with Vector Search improve \"\"generative\"\" recommendations, exemplified by a \"\"Shopper's Concierge\"\" demo. This demo, using ADK, Google Search grounding, query generation, and multimodal item curation, finds relevant items based on user intent, moving beyond simple text similarity search.\n\nResources: \n\nVertex AI Vector Search →https://goo.gle/3T5xxK5 \nAgent Development Kit→https://goo.gle/3RGrB9T \nShopper's Concierge demo video→https://goo.gle/4jRbMJb \nShopper's Concierge sample notebook→https://goo.gle/4kMkxot \n\nChapters: \n0:00 -  Intro \n0:43 - Introduction to Vector Search & Advanced Practices (Kaz Sato) \n1:18 - Typical RAG Scenario for E-commerce \n2:56 - Challenges with Basic RAG in E-commerce \n8:08 - Vector Search Advanced Practices \n15:08 - Building the Shopper's Concierge AI Agent with ADK & Vector Search (Kaz Sato) \n8:50 - Challenge: Smart Recommendations\n9:50 - Solution: AI Agents + Vector Search \n11:13 - Shopper's Concierge Demo \n14:58 - Code Implementation Walkthrough \n15:02 - Q&A and Resources \n15:48 - Why \"\"Agent as a Tool\"\" vs. Sub-agent? \n16:48 - Getting Started Resources \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeakers: Sita Lakshmi, Kaz Sato \nProducts Mentioned: Agent Developer Kit (ADK)"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT30M12S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "13740",
+        "likeCount": "365",
+        "favoriteCount": "0",
+        "commentCount": "14"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "C6i7k3rj4Zjje0fIGbq_wAltTF0",
+      "id": "LtRi2F3JRpo",
+      "snippet": {
+        "publishedAt": "2025-06-18T20:00:13Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Deep dive on long context in Gemma 3",
+        "description": "Learn how to effectively work with the extended context window of the Gemma 3 of family models. Discover how the expanded 128,000-token context window enables new possibilities for summarization, code understanding, and in-context learning. We’ll explore practical applications and best practices to maximize the potential of Gemma 3's extensive context.\n\nChapters: \n0:00 - Introduction\n0:18 - Long context in Gemma 3\n1:40 - What can you do with an extensive context window? \n3:25 - Best Practices \n\nResources:\nWhat is long context — and why does it matter for your AI? →  https://goo.gle/3S1TCJ1 \nDeep Dive into Long Context → https://goo.gle/3GPq8M4 \nGemma 3 developer docs → https://goo.gle/4jSv3dP \nMany-Shot In-Context Learning → https://goo.gle/455qrfS \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\n\nSpeaker: Shreya Pathak\nProducts mentioned: Gemma",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LtRi2F3JRpo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LtRi2F3JRpo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LtRi2F3JRpo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LtRi2F3JRpo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LtRi2F3JRpo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "Purpose: Educate",
+          "Series: Gemma3 Launch",
+          "google developers",
+          "AI",
+          "Gemma",
+          "GDS: Yes",
+          "pr_pr: Google AI for Developers;",
+          "Purpose: Learn;",
+          "Video Type:DevByte;",
+          "gds:Yes;",
+          "developer",
+          "ct: AIG;",
+          "Gemma 3",
+          "how to quickly set up and run Google's Gemma 3",
+          "how to run Gemma 3 with Keras"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Deep dive on long context in Gemma 3",
+          "description": "Learn how to effectively work with the extended context window of the Gemma 3 of family models. Discover how the expanded 128,000-token context window enables new possibilities for summarization, code understanding, and in-context learning. We’ll explore practical applications and best practices to maximize the potential of Gemma 3's extensive context.\n\nChapters: \n0:00 - Introduction\n0:18 - Long context in Gemma 3\n1:40 - What can you do with an extensive context window? \n3:25 - Best Practices \n\nResources:\nWhat is long context — and why does it matter for your AI? →  https://goo.gle/3S1TCJ1 \nDeep Dive into Long Context → https://goo.gle/3GPq8M4 \nGemma 3 developer docs → https://goo.gle/4jSv3dP \nMany-Shot In-Context Learning → https://goo.gle/455qrfS \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\n\nSpeaker: Shreya Pathak\nProducts mentioned: Gemma"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT4M39S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "4406",
+        "likeCount": "181",
+        "favoriteCount": "0",
+        "commentCount": "9"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "OGn-kpnpfJ5YsxCR2TFOOqhe-V4",
+      "id": "0qhKmtsfBaw",
+      "snippet": {
+        "publishedAt": "2025-06-18T16:46:22Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Google Wallet Passes: Are you making the most of your links?",
+        "description": "Links within your Google Wallet passes can be a powerful tool, but are you using them to their full potential? Whether you're building passes for loyalty cards, event tickets, or more, this live stream will provide you with the technical insights needed to create a more connected and valuable experience for your users.\n\nSubscribe to Google for Developers → https://goo.gle/developers\nSubscribe to the Google Wallet Developer Newsletter → https://g.co/wallet/newsletter\n\nSpeaker: Edson Yanaga\nProducts Mentioned: Google Wallet",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0qhKmtsfBaw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0qhKmtsfBaw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0qhKmtsfBaw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0qhKmtsfBaw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0qhKmtsfBaw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "pr_pr: Pay (incl Wallet);",
+          "Purpose: Learn;",
+          "Video Type:Livestream;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Google Wallet Passes: Are you making the most of your links?",
+          "description": "Links within your Google Wallet passes can be a powerful tool, but are you using them to their full potential? Whether you're building passes for loyalty cards, event tickets, or more, this live stream will provide you with the technical insights needed to create a more connected and valuable experience for your users.\n\nSubscribe to Google for Developers → https://goo.gle/developers\nSubscribe to the Google Wallet Developer Newsletter → https://g.co/wallet/newsletter\n\nSpeaker: Edson Yanaga\nProducts Mentioned: Google Wallet"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT40M49S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2593",
+        "likeCount": "99",
+        "favoriteCount": "0",
+        "commentCount": "8"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "iAhHAWKSJMKtVVWlVQ8mHFOyM5Y",
+      "id": "srQpWTIcN_A",
+      "snippet": {
+        "publishedAt": "2025-06-18T04:01:05Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "What advice would you give to your younger self?",
+        "description": "A key insight from #GoogleIO: Follow the work that makes your heart sing. The path might not always be easy, but passion leads to purpose. 💡 \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Noble Ackerson",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/srQpWTIcN_A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/srQpWTIcN_A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/srQpWTIcN_A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/srQpWTIcN_A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/srQpWTIcN_A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Learn;",
+          "Campaign: ;",
+          "Video Type:G4D SV: I/O ;",
+          "ct: ;;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "What advice would you give to your younger self?",
+          "description": "A key insight from #GoogleIO: Follow the work that makes your heart sing. The path might not always be easy, but passion leads to purpose. 💡 \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Noble Ackerson"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT26S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "4045",
+        "likeCount": "118",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "rcsZzwe93JAB12G1hxyfDsNXohg",
+      "id": "zgEUfr48PmE",
+      "snippet": {
+        "publishedAt": "2025-06-17T23:00:59Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "How to make the most out of a GDG event?",
+        "description": "Ed’s advice for devs: Networking at a #GDG event is a game-changer. Whether you’re self-taught or a seasoned pro, connecting with others can accelerate your growth. \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeakers: Ed Choudhry",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zgEUfr48PmE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zgEUfr48PmE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zgEUfr48PmE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zgEUfr48PmE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zgEUfr48PmE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "Purpose: Influence;",
+          "Campaign: ;",
+          "Video Type:G4D SV: Educational ;",
+          "ct: ; ;",
+          "gds:Yes;",
+          "pr_pr: Google Developer Groups;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "How to make the most out of a GDG event?",
+          "description": "Ed’s advice for devs: Networking at a #GDG event is a game-changer. Whether you’re self-taught or a seasoned pro, connecting with others can accelerate your growth. \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeakers: Ed Choudhry"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT40S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "6188",
+        "likeCount": "133",
+        "favoriteCount": "0",
+        "commentCount": "3"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "D7w1Fqq5Yr8MLtXpjeywQhGnpzw",
+      "id": "jwbG_m-X-gE",
+      "snippet": {
+        "publishedAt": "2025-06-16T17:01:59Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Release Notes: Building Gemini's coding capabilities",
+        "description": "Connie Fan, Product Lead for Gemini's coding capabilities, and Danny Tarlow, Research Lead for Gemini's coding capabilities, join host Logan Kilpatrick for an in-depth discussion on how the team built one of the world's leading AI coding models. Learn more about the early goals that shaped Gemini's approach to code, the rise of 'vibe coding' and its impact on development, strategies for tackling large codebases with long context and agents, and the future of programming languages in the age of AI.\n\nListen to this podcast: \nApple Podcasts → https://goo.gle/3Bm7QzQ \nSpotify → https://goo.gle/3ZL3ADl \n\nChapters:\n0:00 - Intro \n1:10 - Defining Early Coding Goals\n6:23 - Ingredients of a Great Coding Model\n9:28 - Adapting to Developer Workflows\n11:40 - The Rise of Vibe Coding\n14:43 - Code as a Reasoning Tool\n17:20 - Code as a Universal Solver\n20:47 - Evaluating Coding Models\n24:30 - Leveraging Internal Googler Feedback\n26:52 - Winning Over AI Skeptics\n28:04 - Performance Across Programming Languages\n33:05 - The Future of Programming Languages\n36:16 - Strategies for Large Codebases\n41:06 - Hill Climbing New Benchmarks\n42:46 - Short-Term Improvements\n44:42 - Model Style and Taste\n47:43 - 2.5 Pro’s Breakthrough\n51:06 - Early AI Coding Experiences\n56:19 - Specialist vs. Generalist Models\n\nWatch more Release Notes → https://goo.gle/4njokfg \nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Logan Kilpatrick, Connie Fan, Danny Tarlow \nProducts Mentioned:  Google AI, Gemini",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jwbG_m-X-gE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jwbG_m-X-gE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jwbG_m-X-gE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jwbG_m-X-gE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Learn;",
+          "Video Type:Podcast;",
+          "ct: AIG;;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Release Notes: Building Gemini's coding capabilities",
+          "description": "Connie Fan, Product Lead for Gemini's coding capabilities, and Danny Tarlow, Research Lead for Gemini's coding capabilities, join host Logan Kilpatrick for an in-depth discussion on how the team built one of the world's leading AI coding models. Learn more about the early goals that shaped Gemini's approach to code, the rise of 'vibe coding' and its impact on development, strategies for tackling large codebases with long context and agents, and the future of programming languages in the age of AI.\n\nListen to this podcast: \nApple Podcasts → https://goo.gle/3Bm7QzQ \nSpotify → https://goo.gle/3ZL3ADl \n\nChapters:\n0:00 - Intro \n1:10 - Defining Early Coding Goals\n6:23 - Ingredients of a Great Coding Model\n9:28 - Adapting to Developer Workflows\n11:40 - The Rise of Vibe Coding\n14:43 - Code as a Reasoning Tool\n17:20 - Code as a Universal Solver\n20:47 - Evaluating Coding Models\n24:30 - Leveraging Internal Googler Feedback\n26:52 - Winning Over AI Skeptics\n28:04 - Performance Across Programming Languages\n33:05 - The Future of Programming Languages\n36:16 - Strategies for Large Codebases\n41:06 - Hill Climbing New Benchmarks\n42:46 - Short-Term Improvements\n44:42 - Model Style and Taste\n47:43 - 2.5 Pro’s Breakthrough\n51:06 - Early AI Coding Experiences\n56:19 - Specialist vs. Generalist Models\n\nWatch more Release Notes → https://goo.gle/4njokfg \nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Logan Kilpatrick, Connie Fan, Danny Tarlow \nProducts Mentioned:  Google AI, Gemini"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1H28S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "16178",
+        "likeCount": "426",
+        "favoriteCount": "0",
+        "commentCount": "39"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "qwkrUI7gLJwEUMoPDE_0OL8gjzc",
+      "id": "i3Pc-Z8YzMQ",
+      "snippet": {
+        "publishedAt": "2025-06-13T13:01:23Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Build a mobile app using the Home APIs on Android",
+        "description": "Learn how to build a mobile app using the Google Home APIs on Android in this comprehensive codelab tutorial!\n\nThis video covers:\nSetting up your development environment.\nConfiguring your project and authenticating users.\nInitializing the SDK and handling permissions.\nWorking with Device & Structures APIs to control devices in your smart home.\nWorking with Commissioning APIs to commission Matter devices into the Google Home ecosystem.\n\nLearn more about the Home APIs → https://goo.gle/4kDvOI8 \nAccess Home APIs codelabs → https://goo.gle/4nc2XMX \nSign up for the Google Home APIs Developer Challenge → https://goo.gle/HomeAPIsDevChallenge \nJoin our smart home developer community → https://goo.gle/3FEVDbD \n\nSubscribe to Google for Developers → https://goo.gle/developers  \n\n#GoogleHome #AndroidDevelopment #GoogleHomeAPI",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i3Pc-Z8YzMQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i3Pc-Z8YzMQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i3Pc-Z8YzMQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/i3Pc-Z8YzMQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/i3Pc-Z8YzMQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Build a mobile app using the Home APIs on Android",
+          "description": "Learn how to build a mobile app using the Google Home APIs on Android in this comprehensive codelab tutorial!\n\nThis video covers:\nSetting up your development environment.\nConfiguring your project and authenticating users.\nInitializing the SDK and handling permissions.\nWorking with Device & Structures APIs to control devices in your smart home.\nWorking with Commissioning APIs to commission Matter devices into the Google Home ecosystem.\n\nLearn more about the Home APIs → https://goo.gle/4kDvOI8 \nAccess Home APIs codelabs → https://goo.gle/4nc2XMX \nSign up for the Google Home APIs Developer Challenge → https://goo.gle/HomeAPIsDevChallenge \nJoin our smart home developer community → https://goo.gle/3FEVDbD \n\nSubscribe to Google for Developers → https://goo.gle/developers  \n\n#GoogleHome #AndroidDevelopment #GoogleHomeAPI"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT32S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "7238",
+        "likeCount": "239",
+        "favoriteCount": "0",
+        "commentCount": "6"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "zgaPzu_KqU8w-AUrmLen9uGn4FI",
+      "id": "eFXr0DrbcVc",
+      "snippet": {
+        "publishedAt": "2025-06-13T04:00:56Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "What I/O announcement made made your team most proud? (Chrome's Version)",
+        "description": "Get a full picture of the Baseline status of every feature on every browser with the web features data set now 100% mapped. \n\nResources: \nExplore this update and more developer updates from #GoogleIO → https://goo.gle/IO25-Recaps \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Paul Kinlan \nProducts Mentioned: Chrome",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eFXr0DrbcVc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eFXr0DrbcVc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eFXr0DrbcVc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eFXr0DrbcVc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eFXr0DrbcVc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Influence;",
+          "Campaign: ;",
+          "Video Type:G4D SV: I/O ;",
+          "ct: ; ;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "What I/O announcement made made your team most proud? (Chrome's Version)",
+          "description": "Get a full picture of the Baseline status of every feature on every browser with the web features data set now 100% mapped. \n\nResources: \nExplore this update and more developer updates from #GoogleIO → https://goo.gle/IO25-Recaps \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Paul Kinlan \nProducts Mentioned: Chrome"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT32S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3553",
+        "likeCount": "79",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "5WoFUDJUF9xlC5Bx7eMBqeC7QE4",
+      "id": "_cdjPCkdGXU",
+      "snippet": {
+        "publishedAt": "2025-06-12T20:00:32Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Build a mobile app using the Home APIs on Android",
+        "description": "Learn how to build a mobile app using the Google Home APIs on Android in this comprehensive codelab tutorial!\n\nThis video covers:\nSetting up your development environment.\nConfiguring your project and authenticating users.\nInitializing the SDK and handling permissions.\nWorking with Device & Structures APIs to control devices in your smart home.\nWorking with Commissioning APIs to commission Matter devices into the Google Home ecosystem.\n\nLearn more about the Home APIs → https://goo.gle/4kDvOI8 \nAccess Home APIs codelabs → https://goo.gle/4nc2XMX \nSign up for the Google Home APIs Developer Challenge → https://goo.gle/HomeAPIsDevChallenge \nJoin our smart home developer community → https://goo.gle/3FEVDbD \n\nSubscribe to Google for Developers → https://goo.gle/developers  \n\n#GoogleHome #AndroidDevelopment #GoogleHomeAPI \n\nSpeaker: Shannon\nProducts Mentioned: Google Home",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_cdjPCkdGXU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_cdjPCkdGXU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_cdjPCkdGXU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_cdjPCkdGXU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_cdjPCkdGXU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Campaign: ;",
+          "Video Type:DevByte;",
+          "ct: ; ;",
+          "gds:N/A;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Build a mobile app using the Home APIs on Android",
+          "description": "Learn how to build a mobile app using the Google Home APIs on Android in this comprehensive codelab tutorial!\n\nThis video covers:\nSetting up your development environment.\nConfiguring your project and authenticating users.\nInitializing the SDK and handling permissions.\nWorking with Device & Structures APIs to control devices in your smart home.\nWorking with Commissioning APIs to commission Matter devices into the Google Home ecosystem.\n\nLearn more about the Home APIs → https://goo.gle/4kDvOI8 \nAccess Home APIs codelabs → https://goo.gle/4nc2XMX \nSign up for the Google Home APIs Developer Challenge → https://goo.gle/HomeAPIsDevChallenge \nJoin our smart home developer community → https://goo.gle/3FEVDbD \n\nSubscribe to Google for Developers → https://goo.gle/developers  \n\n#GoogleHome #AndroidDevelopment #GoogleHomeAPI \n\nSpeaker: Shannon\nProducts Mentioned: Google Home"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT12M52S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "6434",
+        "likeCount": "221",
+        "favoriteCount": "0",
+        "commentCount": "13"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "COBh1yTHddEo9VD2LVzgquEDjW8",
+      "id": "eCLMWJY1RAg",
+      "snippet": {
+        "publishedAt": "2025-06-12T16:42:52Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "What kind of use cases is Gemma 1B on-device oriented for? Let’s find out.",
+        "description": "See how Gemma is able to digest data from your applications to create readable, engaging content. \n\nSubscribe to Google for Developers → https://goo.gle/developers  \n\nSpeaker: Remi Cadene\nProducts Mentioned: Gemma",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eCLMWJY1RAg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eCLMWJY1RAg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eCLMWJY1RAg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eCLMWJY1RAg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eCLMWJY1RAg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Gemma;",
+          "Purpose: Influence;",
+          "Campaign: ;",
+          "Video Type:Social First - Educational;",
+          "ct: ; ;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "What kind of use cases is Gemma 1B on-device oriented for? Let’s find out.",
+          "description": "See how Gemma is able to digest data from your applications to create readable, engaging content. \n\nSubscribe to Google for Developers → https://goo.gle/developers  \n\nSpeaker: Remi Cadene\nProducts Mentioned: Gemma"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT48S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "4319",
+        "likeCount": "109",
+        "favoriteCount": "0",
+        "commentCount": "6"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "wNXyo5E3tbq4SsQmMXcwEEAtmsg",
+      "id": "21_pmVP7gtA",
+      "snippet": {
+        "publishedAt": "2025-06-12T04:00:02Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "\"What keeps you coming to Google I/O year after year?\"",
+        "description": "For 17 years, I/O has been a place to discover what’s next, connect with the developer community and stay informed.\n\nWatch the playlist → https://goo.gle/IO25-Recaps \n\nSpeaker: Nick Moline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/21_pmVP7gtA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/21_pmVP7gtA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/21_pmVP7gtA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/21_pmVP7gtA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/21_pmVP7gtA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Influence;",
+          "Campaign: ;",
+          "Video Type:G4D SV: I/O ;",
+          "ct: ; ;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "\"What keeps you coming to Google I/O year after year?\"",
+          "description": "For 17 years, I/O has been a place to discover what’s next, connect with the developer community and stay informed.\n\nWatch the playlist → https://goo.gle/IO25-Recaps \n\nSpeaker: Nick Moline"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT32S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "4552",
+        "likeCount": "65",
+        "favoriteCount": "0",
+        "commentCount": "4"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Y_LEBe6VXfoUgeF9xch0FgRn4Ww",
+      "id": "Cc4rrw0fee8",
+      "snippet": {
+        "publishedAt": "2025-06-11T04:00:14Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Refactoring legacy code or debugging in production?  💭",
+        "description": "The ultimate dev choice: Debug in production 🐛 or refactor legacy code 🔧?\n\nSubscribe to Google for Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Cc4rrw0fee8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Cc4rrw0fee8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Cc4rrw0fee8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Cc4rrw0fee8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Cc4rrw0fee8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Influence;",
+          "Campaign: ;",
+          "Video Type:G4D SV: I/O ;",
+          "ct: ; ;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Refactoring legacy code or debugging in production?  💭",
+          "description": "The ultimate dev choice: Debug in production 🐛 or refactor legacy code 🔧?\n\nSubscribe to Google for Developers → https://goo.gle/developers"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT43S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "9649",
+        "likeCount": "165",
+        "favoriteCount": "0",
+        "commentCount": "11"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "xNGVhxZke5y6fNjnA36v9ZOjm9s",
+      "id": "9_GiWxsIwrE",
+      "snippet": {
+        "publishedAt": "2025-06-10T17:06:52Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Google Wallet at I/O’25: Your essential recap with Q&A",
+        "description": "Curious about the future of your digital wallet after Google I/O '25? Join our live stream for an exclusive recap of all the major Google Wallet announcements. We'll hit the highlights of exciting new features, from expanded digital ID support and Google Wallet for families to enhanced travel functionalities and new developer APIs. This is your opportunity to ask questions, share your insights, and comment live on the impact of these updates.\n\nSubscribe to Google for Developers → https://goo.gle/developers\nSubscribe to the Google Wallet Developer Newsletter → https://g.co/wallet/newsletter\n\nSpeaker: Edson Yanaga\nProducts Mentioned: Google Wallet",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9_GiWxsIwrE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9_GiWxsIwrE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9_GiWxsIwrE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9_GiWxsIwrE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9_GiWxsIwrE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "pr_pr: Pay (incl Wallet);",
+          "Purpose: Learn;",
+          "Video Type:Livestream;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Google Wallet at I/O’25: Your essential recap with Q&A",
+          "description": "Curious about the future of your digital wallet after Google I/O '25? Join our live stream for an exclusive recap of all the major Google Wallet announcements. We'll hit the highlights of exciting new features, from expanded digital ID support and Google Wallet for families to enhanced travel functionalities and new developer APIs. This is your opportunity to ask questions, share your insights, and comment live on the impact of these updates.\n\nSubscribe to Google for Developers → https://goo.gle/developers\nSubscribe to the Google Wallet Developer Newsletter → https://g.co/wallet/newsletter\n\nSpeaker: Edson Yanaga\nProducts Mentioned: Google Wallet"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT1H2M37S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "4250",
+        "likeCount": "139",
+        "favoriteCount": "0",
+        "commentCount": "3"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "BQUITOj6t_XjuABgI6pypTi8BIE",
+      "id": "qqHFXC2n2Xc",
+      "snippet": {
+        "publishedAt": "2025-06-10T13:01:28Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Just in from the news desk 📰: Angular V20 is here!",
+        "description": "Angular V20 is now here! Finally we have stabilized several key APIs, making it easier to control how and when your app loads. See what other features are available in the latest version of Angular. \n\nResources:\nAngular V20 → https://goo.gle/4mVhufK \n\nWatch more Google Developer News → https://goo.gle/4e8Rysd  \nSubscribe to Google for Developers → https://goo.gle/developers \n\n#GoogleDeveloperNews \n\nSpeaker: Mark Thompson \nProducts Mentioned: Angular",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qqHFXC2n2Xc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qqHFXC2n2Xc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qqHFXC2n2Xc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qqHFXC2n2Xc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qqHFXC2n2Xc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Influence;",
+          "Campaign: ;",
+          "Video Type:G4D SV: Educational ;",
+          "ct: ; ;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Just in from the news desk 📰: Angular V20 is here!",
+          "description": "Angular V20 is now here! Finally we have stabilized several key APIs, making it easier to control how and when your app loads. See what other features are available in the latest version of Angular. \n\nResources:\nAngular V20 → https://goo.gle/4mVhufK \n\nWatch more Google Developer News → https://goo.gle/4e8Rysd  \nSubscribe to Google for Developers → https://goo.gle/developers \n\n#GoogleDeveloperNews \n\nSpeaker: Mark Thompson \nProducts Mentioned: Angular"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "4235",
+        "likeCount": "142",
+        "favoriteCount": "0",
+        "commentCount": "8"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "A9Cpr7Vg6t_3k_NV3pvJoLvAzfA",
+      "id": "Smk_SA8GoTU",
+      "snippet": {
+        "publishedAt": "2025-06-10T04:00:29Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "\"What's one takeaway from #GoogleIO that can boost dev productivity?\"",
+        "description": "Run Gemma models locally, accelerate builds in Android Studio with Gemini, and ship advanced web features faster with Chrome.\n\nResources:\n#GoogleIO → https://goo.gle/IO25-Recaps \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: \nProducts Mentioned: Google AI, Gemini, Android, Chrome",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Smk_SA8GoTU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Smk_SA8GoTU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Smk_SA8GoTU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Smk_SA8GoTU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Smk_SA8GoTU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Learn;",
+          "Campaign: ;",
+          "Video Type:G4D SV: I/O ;",
+          "ct: ; ;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "\"What's one takeaway from #GoogleIO that can boost dev productivity?\"",
+          "description": "Run Gemma models locally, accelerate builds in Android Studio with Gemini, and ship advanced web features faster with Chrome.\n\nResources:\n#GoogleIO → https://goo.gle/IO25-Recaps \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: \nProducts Mentioned: Google AI, Gemini, Android, Chrome"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT41S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3256",
+        "likeCount": "89",
+        "favoriteCount": "0",
+        "commentCount": "3"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "xx8kMDLNEus3gnEjCui-bzQc1Bg",
+      "id": "YW1m2Z6MyTk",
+      "snippet": {
+        "publishedAt": "2025-06-09T13:00:57Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "What’s the maximum number of completed products possible in a 10hr shift? Go!",
+        "description": "Manufacturing meets algorithms in today's developer challenge! A factory with 5 sequential machines needs to create as many products as possible in 10 hours, but each machine has limited buffer space. This problem directly relates to pipeline processing, producer-consumer patterns, and throughput optimization in computing systems. What's the maximum possible output, and how would you schedule production to achieve it? Share your solution in the comments!\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeakers: M.E Francis",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YW1m2Z6MyTk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YW1m2Z6MyTk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YW1m2Z6MyTk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YW1m2Z6MyTk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YW1m2Z6MyTk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Learn;",
+          "Campaign: ;",
+          "Video Type:G4D SV: Educational ;",
+          "ct: ;;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "What’s the maximum number of completed products possible in a 10hr shift? Go!",
+          "description": "Manufacturing meets algorithms in today's developer challenge! A factory with 5 sequential machines needs to create as many products as possible in 10 hours, but each machine has limited buffer space. This problem directly relates to pipeline processing, producer-consumer patterns, and throughput optimization in computing systems. What's the maximum possible output, and how would you schedule production to achieve it? Share your solution in the comments!\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeakers: M.E Francis"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT31S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "4852",
+        "likeCount": "102",
+        "favoriteCount": "0",
+        "commentCount": "22"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "v0cL91HPNnU_2g4izSrlk4xPgpo",
+      "id": "zcdMZImwlNo",
+      "snippet": {
+        "publishedAt": "2025-06-07T01:08:55Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Hugging Face + Gemma  = 🪄",
+        "description": "See how combining the power of Hugging Face with Gemma 3 can automate tasks in robotics. \n\nSubscribe to Google for Developers → https://goo.gle/developers  \n\nSpeaker: Remi Cadene\nProducts Mentioned: Gemma",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zcdMZImwlNo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zcdMZImwlNo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zcdMZImwlNo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zcdMZImwlNo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zcdMZImwlNo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Gemma;",
+          "Purpose: Influence;",
+          "Campaign: ;",
+          "Video Type:Social First - Educational;",
+          "ct: ; ;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Hugging Face + Gemma  = 🪄",
+          "description": "See how combining the power of Hugging Face with Gemma 3 can automate tasks in robotics. \n\nSubscribe to Google for Developers → https://goo.gle/developers  \n\nSpeaker: Remi Cadene\nProducts Mentioned: Gemma"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1M2S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "6017",
+        "likeCount": "252",
+        "favoriteCount": "0",
+        "commentCount": "6"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "-Ni68_TH8-vmlO-iTNkb7_JGoYM",
+      "id": "MwJjFp6V8PE",
+      "snippet": {
+        "publishedAt": "2025-06-06T16:45:02Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "“What announcement had you the most hyped?”",
+        "description": "What had Googlers most excited at #GoogleIO? In this episode of #GoogleDeveloperNews, hear what stood out from practical AI tools to new Android capabilities that unlock agentic workflows and power the next generation of mobile experiences. \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\n#GoogleDeveloperNews",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MwJjFp6V8PE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MwJjFp6V8PE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MwJjFp6V8PE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MwJjFp6V8PE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MwJjFp6V8PE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Influence;",
+          "Campaign: ;",
+          "Video Type:G4D SV: Educational ;",
+          "ct: ; ;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "“What announcement had you the most hyped?”",
+          "description": "What had Googlers most excited at #GoogleIO? In this episode of #GoogleDeveloperNews, hear what stood out from practical AI tools to new Android capabilities that unlock agentic workflows and power the next generation of mobile experiences. \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\n#GoogleDeveloperNews"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT54S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1765",
+        "likeCount": "41",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "rY2Q1E1k66Co06o0XWk5SC1AeNE",
+      "id": "PvKEHPbZ4-Y",
+      "snippet": {
+        "publishedAt": "2025-06-04T20:00:16Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Hybrid LLMs: Utilizing Gemini and Gemma for Edge AI applications",
+        "description": "Discover how to build efficient edge AI applications with Google tools using Hybrid LLMs. Explore on-device and cloud-based models, leveraging both Gemma and Gemini through sequential, parallel and routing architectures. Optimize queries for performance, privacy, and model capabilities to meet your app needs..\n\nResources:\nDiscover Gemma capabilities→ https://goo.gle/try-gemma   \nGemma Cookbook → https://goo.gle/gemma-cookbook \nGoogle AI Studio → https://goo.gle/aistudio \nGet started with the Gemini API → https://goo.gle/gemini-get-started   \nMediaPipe samples → https://goo.gle/gemma3-mediapipe-llm \nRun Gemma with Ollama → https://goo.gle/gemma3-ollama \nServing Gemma 3 with Ollama on Cloud Run → https://goo.gle/gemma3-cloudrun-ollama \nServing Gemma 3 with vLLM on Cloud Run → https://goo.gle/gemma3-cloudrun-vllm \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\n\nSpeaker: Ian Ballantyne\nProducts mentioned: Gemma, Gemini",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PvKEHPbZ4-Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PvKEHPbZ4-Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PvKEHPbZ4-Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PvKEHPbZ4-Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PvKEHPbZ4-Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "Purpose: Educate",
+          "Series: Gemma3 Launch",
+          "google developers",
+          "AI",
+          "Gemma",
+          "GDS: Yes",
+          "pr_pr: Google AI for Developers;",
+          "Purpose: Learn;",
+          "Video Type:DevByte;",
+          "gds:Yes;",
+          "developer",
+          "ct: AIG;",
+          "Gemma 3",
+          "how to quickly set up and run Google's Gemma 3",
+          "how to run Gemma 3 with Keras"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Hybrid LLMs: Utilizing Gemini and Gemma for Edge AI applications",
+          "description": "Discover how to build efficient edge AI applications with Google tools using Hybrid LLMs. Explore on-device and cloud-based models, leveraging both Gemma and Gemini through sequential, parallel and routing architectures. Optimize queries for performance, privacy, and model capabilities to meet your app needs..\n\nResources:\nDiscover Gemma capabilities→ https://goo.gle/try-gemma   \nGemma Cookbook → https://goo.gle/gemma-cookbook \nGoogle AI Studio → https://goo.gle/aistudio \nGet started with the Gemini API → https://goo.gle/gemini-get-started   \nMediaPipe samples → https://goo.gle/gemma3-mediapipe-llm \nRun Gemma with Ollama → https://goo.gle/gemma3-ollama \nServing Gemma 3 with Ollama on Cloud Run → https://goo.gle/gemma3-cloudrun-ollama \nServing Gemma 3 with vLLM on Cloud Run → https://goo.gle/gemma3-cloudrun-vllm \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\n\nSpeaker: Ian Ballantyne\nProducts mentioned: Gemma, Gemini"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT4M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "16055",
+        "likeCount": "603",
+        "favoriteCount": "0",
+        "commentCount": "31"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Or9H0UnziiZt3T3T8MVo6pdxiug",
+      "id": "2YzXNLl1W0Y",
+      "snippet": {
+        "publishedAt": "2025-06-04T16:09:56Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Booking flights with Gemma running locally in the browser!",
+        "description": "Agentic behaviors running entirely locally in the web browser? Yes! See how Gemma is automating tasks to make tasks like booking a flight a lot easier. \n\nSubscribe to Google for Developers → https://goo.gle/developers  \n\nSpeaker: Jason Mayes, Ian Ballantyne\nProducts Mentioned: Gemma",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2YzXNLl1W0Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2YzXNLl1W0Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2YzXNLl1W0Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2YzXNLl1W0Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2YzXNLl1W0Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "Purpose: Influence;",
+          "Campaign: ;",
+          "ct: ; ;",
+          "gds:Yes;",
+          "pr_pr: Gemma;",
+          "Video Type:Social First - Educational;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Booking flights with Gemma running locally in the browser!",
+          "description": "Agentic behaviors running entirely locally in the web browser? Yes! See how Gemma is automating tasks to make tasks like booking a flight a lot easier. \n\nSubscribe to Google for Developers → https://goo.gle/developers  \n\nSpeaker: Jason Mayes, Ian Ballantyne\nProducts Mentioned: Gemma"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1M4S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "5670",
+        "likeCount": "236",
+        "favoriteCount": "0",
+        "commentCount": "12"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "lwNJoUjIwLhMujwSTXI25dlwRTU",
+      "id": "MUn6W73HffY",
+      "snippet": {
+        "publishedAt": "2025-06-04T04:00:20Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "You came for the keynotes, but stayed for the demos, the devs, and the snacks.",
+        "description": "Announcements are cool, but the real #GoogleIO magic? It's always been about you, the developer community. ✨⁠ Relive the experience!\n\nSubscribe to Google for Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MUn6W73HffY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MUn6W73HffY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MUn6W73HffY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MUn6W73HffY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MUn6W73HffY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Influence;",
+          "Campaign: ;",
+          "Video Type:G4D SV: I/O ;",
+          "ct: ; ;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "You came for the keynotes, but stayed for the demos, the devs, and the snacks.",
+          "description": "Announcements are cool, but the real #GoogleIO magic? It's always been about you, the developer community. ✨⁠ Relive the experience!\n\nSubscribe to Google for Developers → https://goo.gle/developers"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT21S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "6018",
+        "likeCount": "101",
+        "favoriteCount": "0",
+        "commentCount": "3"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "mU2RvMA1W9bDUStXJ7jc_ccj3XM",
+      "id": "JMIenSHitQk",
+      "snippet": {
+        "publishedAt": "2025-06-03T04:00:31Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Join the Google Home APIs Developer Challenge",
+        "description": "Join the Google Home APIs Developer Challenge 2025! Learn how to build amazing smart home experiences using the Google Home APIs. In this video, we'll introduce the challenge, discuss the challenge themes and walk you through the LEARN, DEVELOP, and SUBMIT stages.\n\nResources:\nRegister now → https://goo.gle/HomeAPIsDevChallenge \n\n#GoogleHome #DeveloperChallenge \n\nSpeaker: Teresa\nProducts Mentioned: Google Home,",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JMIenSHitQk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JMIenSHitQk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JMIenSHitQk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JMIenSHitQk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JMIenSHitQk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "ct: ; ;",
+          "Campaign:;",
+          "type:Social First - Educational;",
+          "gds:N/A;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Join the Google Home APIs Developer Challenge",
+          "description": "Join the Google Home APIs Developer Challenge 2025! Learn how to build amazing smart home experiences using the Google Home APIs. In this video, we'll introduce the challenge, discuss the challenge themes and walk you through the LEARN, DEVELOP, and SUBMIT stages.\n\nResources:\nRegister now → https://goo.gle/HomeAPIsDevChallenge \n\n#GoogleHome #DeveloperChallenge \n\nSpeaker: Teresa\nProducts Mentioned: Google Home,"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT59S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "6363",
+        "likeCount": "272",
+        "favoriteCount": "0",
+        "commentCount": "5"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "2lrw1e0a7n3lYuIsItvuQOD6TX0",
+      "id": "fXtKyxUKDpc",
+      "snippet": {
+        "publishedAt": "2025-06-02T22:58:57Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Join the Google Home APIs Developer Challenge",
+        "description": "Join the Google Home APIs Developer Challenge 2025! Learn how to build amazing smart home experiences using the Google Home APIs. In this video, we'll introduce the challenge, discuss the challenge themes and walk you through the LEARN, DEVELOP, and SUBMIT stages.\n\nResources:\nRegister now → https://goo.gle/HomeAPIsDevChallenge \n\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\n#GoogleHome #DeveloperChallenge #SmartHome \n\nSpeaker: Teresa, Abhay, Umair, Yassin\nProducts Mentioned: Google Home",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fXtKyxUKDpc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fXtKyxUKDpc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fXtKyxUKDpc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fXtKyxUKDpc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fXtKyxUKDpc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Campaign: ;",
+          "Video Type:DevByte;",
+          "ct: Please Select Please Select",
+          "gds:N/A;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Join the Google Home APIs Developer Challenge",
+          "description": "Join the Google Home APIs Developer Challenge 2025! Learn how to build amazing smart home experiences using the Google Home APIs. In this video, we'll introduce the challenge, discuss the challenge themes and walk you through the LEARN, DEVELOP, and SUBMIT stages.\n\nResources:\nRegister now → https://goo.gle/HomeAPIsDevChallenge \n\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\n#GoogleHome #DeveloperChallenge #SmartHome \n\nSpeaker: Teresa, Abhay, Umair, Yassin\nProducts Mentioned: Google Home"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT4M39S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "5098",
+        "likeCount": "178",
+        "favoriteCount": "0",
+        "commentCount": "9"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "94tZIBHf5guNuOOYT46nXu2w7L0",
+      "id": "NQO78R6pyp8",
+      "snippet": {
+        "publishedAt": "2025-06-02T13:00:42Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "What will this log and why? Go!",
+        "description": "JavaScript developers! Here's a seemingly simple mathematical statement that catches even experienced devs off guard. This Developer Challenge reveals an important limitation that affects nearly all programming languages - one that's especially critical to understand when building financial applications or anything requiring precise calculations.\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeakers: Amanda Stanton",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NQO78R6pyp8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NQO78R6pyp8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NQO78R6pyp8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NQO78R6pyp8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NQO78R6pyp8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Learn;",
+          "Campaign: ;",
+          "Video Type:G4D SV: Educational ;",
+          "ct: ;;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "What will this log and why? Go!",
+          "description": "JavaScript developers! Here's a seemingly simple mathematical statement that catches even experienced devs off guard. This Developer Challenge reveals an important limitation that affects nearly all programming languages - one that's especially critical to understand when building financial applications or anything requiring precise calculations.\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeakers: Amanda Stanton"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT22S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "5774",
+        "likeCount": "116",
+        "favoriteCount": "0",
+        "commentCount": "11"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "zNuc2DuX7gUJCyUCYrh7J4HHiKM",
+      "id": "EysJTNLQVZw",
+      "snippet": {
+        "publishedAt": "2025-05-30T23:00:26Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "AI-powered patient engagement - CareMessage and the Gemini API",
+        "description": "What happens when your doctor’s office sends you a text message, and you can’t make your appointment anymore? Sometimes, it’s Gemini on the other end, lending a helping hand to doctor’s office administrators. At least, it may be if your doctor uses CareMessage, a technology nonprofit focused on improving health equity through trustful communication. \n\nCareMessage has integrated the Gemini API to enhance patient communication for underserved populations, improving healthcare accessibility. Hear from leaders at CareMessage and their customers at Bay Area Community Health as they share insights on using Google AI to overcome development challenges, implement ethical AI, and improve healthcare accessibility. \n\nResources:\nStart building with Gemini API →https://goo.gle/3Qsa5Fs \nLearn more about CareMessage → https://goo.gle/4lpvqOd \nCompare models for your project → https://goo.gle/3Efs1AM \n\nSubscribe to Google AI Developers → https://goo.gle/ai-for-devs \n\n\n#GoogleAI #BuildwithGemini\n\n\nProducts Mentioned: Google AI Studio, Gemini",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EysJTNLQVZw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EysJTNLQVZw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EysJTNLQVZw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EysJTNLQVZw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EysJTNLQVZw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: AI DevRel (fka Core ML);",
+          "ct: AIG;",
+          "gds:Yes;",
+          "AI in healthcare",
+          "patient communication AI",
+          "healthcare automation tools",
+          "AI for clinics",
+          "Gemini API healthcare",
+          "CareMessage platform",
+          "medical AI solutions",
+          "reducing no-show appointments",
+          "patient engagement tools",
+          "healthcare technology 2025",
+          "AI healthcare apps",
+          "AI for patient care",
+          "healthcare AI use cases",
+          "AI for appointment reminders"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "AI-powered patient engagement - CareMessage and the Gemini API",
+          "description": "What happens when your doctor’s office sends you a text message, and you can’t make your appointment anymore? Sometimes, it’s Gemini on the other end, lending a helping hand to doctor’s office administrators. At least, it may be if your doctor uses CareMessage, a technology nonprofit focused on improving health equity through trustful communication. \n\nCareMessage has integrated the Gemini API to enhance patient communication for underserved populations, improving healthcare accessibility. Hear from leaders at CareMessage and their customers at Bay Area Community Health as they share insights on using Google AI to overcome development challenges, implement ethical AI, and improve healthcare accessibility. \n\nResources:\nStart building with Gemini API →https://goo.gle/3Qsa5Fs \nLearn more about CareMessage → https://goo.gle/4lpvqOd \nCompare models for your project → https://goo.gle/3Efs1AM \n\nSubscribe to Google AI Developers → https://goo.gle/ai-for-devs \n\n\n#GoogleAI #BuildwithGemini\n\n\nProducts Mentioned: Google AI Studio, Gemini"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT2M23S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3529",
+        "likeCount": "140",
+        "favoriteCount": "0",
+        "commentCount": "9"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "VRJhUYYQJPr_lO_4Ej8J0-8VLLw",
+      "id": "B8Fdxdri0aQ",
+      "snippet": {
+        "publishedAt": "2025-05-30T19:50:14Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "The #GoogleIO recap playlist is live. ✨",
+        "description": "The #GoogleIO recap playlist is live.  Discover key announcements and developer insights from last week's conference.  \n\nResources:\nWatch the Google I/O 2025 recaps here→ https://goo.gle/IO25-Recaps\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nEvent: Google IO",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/B8Fdxdri0aQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/B8Fdxdri0aQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/B8Fdxdri0aQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/B8Fdxdri0aQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/B8Fdxdri0aQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Influence;",
+          "Campaign: ;",
+          "Video Type:G4D SV: I/O ;",
+          "ct: ; ;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "The #GoogleIO recap playlist is live. ✨",
+          "description": "The #GoogleIO recap playlist is live.  Discover key announcements and developer insights from last week's conference.  \n\nResources:\nWatch the Google I/O 2025 recaps here→ https://goo.gle/IO25-Recaps\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nEvent: Google IO"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT37S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3829",
+        "likeCount": "92",
+        "favoriteCount": "0",
+        "commentCount": "3"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "mPfmpCPOPKiBwGLOe01CiAuLIRg",
+      "id": "-K7zY3VubVo",
+      "snippet": {
+        "publishedAt": "2025-05-29T23:00:00Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "What happened at Google I/O 2025? - Google Developer News Special Report",
+        "description": "Join Christina Warren as she dives into the groundbreaking launches from Google I/O with Jamal Eason (Director of Product Management for Android Studio) and Joana Carrasqueira (Head of Developer Relations for DeepMind). Explore the Gemini Developer API, Google AI Studio, the Gemmaverse, the latest Android Studio features, and more!\n\nChapters: \n0:00 - Intro \n4:42 - What were the biggest AI announcements of Google I/O 2025? \n19:00 - What were the biggest updates to Android at Google I/O 2025? \n\nResources:\nSee all the I/O sessions and more→ http://goo.gle/IO25-Recaps\nWatch more Google Developer News → https://goo.gle/4e8Rysd  \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\n#GoogleDeveloperNews \n\nSpeaker: Christina Warren, Jamal Eason,  Joana Carrasqueira \nProducts Mentioned: Google AI, Gemma,  Generative AI, Flutter, Android, Chrome",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-K7zY3VubVo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-K7zY3VubVo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-K7zY3VubVo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-K7zY3VubVo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-K7zY3VubVo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "What happened at Google I/O 2025? - Google Developer News Special Report",
+          "description": "Join Christina Warren as she dives into the groundbreaking launches from Google I/O with Jamal Eason (Director of Product Management for Android Studio) and Joana Carrasqueira (Head of Developer Relations for DeepMind). Explore the Gemini Developer API, Google AI Studio, the Gemmaverse, the latest Android Studio features, and more!\n\nChapters: \n0:00 - Intro \n4:42 - What were the biggest AI announcements of Google I/O 2025? \n19:00 - What were the biggest updates to Android at Google I/O 2025? \n\nResources:\nSee all the I/O sessions and more→ http://goo.gle/IO25-Recaps\nWatch more Google Developer News → https://goo.gle/4e8Rysd  \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\n#GoogleDeveloperNews \n\nSpeaker: Christina Warren, Jamal Eason,  Joana Carrasqueira \nProducts Mentioned: Google AI, Gemma,  Generative AI, Flutter, Android, Chrome"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT43M41S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "5325",
+        "likeCount": "122",
+        "favoriteCount": "0",
+        "commentCount": "9"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "OLv1qTumhaUnddvSzxFbwJauQj4",
+      "id": "VM3b3csBeUc",
+      "snippet": {
+        "publishedAt": "2025-05-29T04:00:38Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Build your first Java agent with Google ADK",
+        "description": "We're excited to announce the launch of the Java Agent Development Kit (Java ADK)! Join us as we introduce this powerful new toolkit and guide you through a hands-on tutorial to build your first intelligent Java agent. Learn key concepts and see how the Java ADK simplifies creating sophisticated generative AI solutions.\n\nResources: \nExplore Java ADK → https://goo.gle/3RGrB9T \nJava ADK Blogs/ videos/ tutorials → https://goo.gle/3H7cww2 \nSample Agents  →  https://goo.gle/3Rbdo4s \n\nChapters: \n0:00 - Java ADK\n1:06 - Build your first Java ADK agent\n3:46 - Run your agent\n5:34 - Tools\n8:39 - Run your agent with tools\n10:13 - Multi-agents in Java\n13:42 - State, Sessions and Events\n15:40 - Resources\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nProducts Mentioned: Agent Developer Kit (ADK)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VM3b3csBeUc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VM3b3csBeUc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VM3b3csBeUc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VM3b3csBeUc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VM3b3csBeUc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Build your first Java agent with Google ADK",
+          "description": "We're excited to announce the launch of the Java Agent Development Kit (Java ADK)! Join us as we introduce this powerful new toolkit and guide you through a hands-on tutorial to build your first intelligent Java agent. Learn key concepts and see how the Java ADK simplifies creating sophisticated generative AI solutions.\n\nResources: \nExplore Java ADK → https://goo.gle/3RGrB9T \nJava ADK Blogs/ videos/ tutorials → https://goo.gle/3H7cww2 \nSample Agents  →  https://goo.gle/3Rbdo4s \n\nChapters: \n0:00 - Java ADK\n1:06 - Build your first Java ADK agent\n3:46 - Run your agent\n5:34 - Tools\n8:39 - Run your agent with tools\n10:13 - Multi-agents in Java\n13:42 - State, Sessions and Events\n15:40 - Resources\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nProducts Mentioned: Agent Developer Kit (ADK)"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT16M19S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "11269",
+        "likeCount": "371",
+        "favoriteCount": "0",
+        "commentCount": "35"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "zX5XEYN9ozmMtGnFXyZRk083ewA",
+      "id": "dN1DbYyopks",
+      "snippet": {
+        "publishedAt": "2025-05-28T23:13:07Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Living Canvas, a web-based puzzle game powered by Generative AI",
+        "description": "Learn how to create an AI-powered web game using Angular, PhaserJS, Gemini, Imagen, Veo and Firebase App Hosting.\n\nResources:\n\nCheck out the solution → https://goo.gle/3ZiwhGU \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Tom Greenaway \nProducts Mentioned:  Angular, PhaserJS, Gemini, Imagen, Veo and Firebase App Hosting",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dN1DbYyopks/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dN1DbYyopks/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dN1DbYyopks/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dN1DbYyopks/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dN1DbYyopks/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Learn;",
+          "Video Type:DevByte;",
+          "ct: ; ;",
+          "gds:N/A;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Living Canvas, a web-based puzzle game powered by Generative AI",
+          "description": "Learn how to create an AI-powered web game using Angular, PhaserJS, Gemini, Imagen, Veo and Firebase App Hosting.\n\nResources:\n\nCheck out the solution → https://goo.gle/3ZiwhGU \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Tom Greenaway \nProducts Mentioned:  Angular, PhaserJS, Gemini, Imagen, Veo and Firebase App Hosting"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT9M56S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "6811",
+        "likeCount": "172",
+        "favoriteCount": "0",
+        "commentCount": "11"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "S4Hp22R3EHIAL1ogL_EVfJ9g2HE",
+      "id": "6bYCRPPdUxw",
+      "snippet": {
+        "publishedAt": "2025-05-28T04:00:06Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Tell us your best “shouldn’t have worked, but did” coding tale 👀",
+        "description": "Think you have the wildest coding story. Let us know in the comments! \n\nSubscribe to Google for Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6bYCRPPdUxw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6bYCRPPdUxw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6bYCRPPdUxw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6bYCRPPdUxw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6bYCRPPdUxw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "pr_pr: Google for Developers;",
+          "Purpose: Influence;",
+          "Campaign: ;",
+          "Video Type:G4D SV: Comedic skits;",
+          "ct: ; ;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Tell us your best “shouldn’t have worked, but did” coding tale 👀",
+          "description": "Think you have the wildest coding story. Let us know in the comments! \n\nSubscribe to Google for Developers → https://goo.gle/developers"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT15S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "6406",
+        "likeCount": "81",
+        "favoriteCount": "0",
+        "commentCount": "10"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "_k5FZkxnHp74Gx-Fm8L-07KNc3k",
+      "id": "eJFJRyXEHZ0",
+      "snippet": {
+        "publishedAt": "2025-05-27T20:00:15Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Announcing Gemma 3n Preview: Powerful, Efficient, Mobile-First AI",
+        "description": "We’re excited to announce Gemma 3n – a cutting-edge open model designed for fast, multimodal AI on devices, featuring optimized performance, unique flexibility with a 2-in-1 model, and expanded multimodal understanding with audio and video, empowering developers to build live, interactive applications that understand and interact based on the world around you. Real time on device demo powered by Android AICore running on Pixel Tensor.\n\nResources:\nLearn about Gemma 3n → https://goo.gle/3H3DFzW\nGemma 3n documentation → https://goo.gle/3GYK1k9 \nDiscover Gemma models → https://goo.gle/3FnCcnl\n\nSubscribe to Google for Developers → https://goo.gle/developers\n\nSpeaker: Lucas Gonzalez\nProducts mentioned: Gemma",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eJFJRyXEHZ0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eJFJRyXEHZ0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eJFJRyXEHZ0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eJFJRyXEHZ0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eJFJRyXEHZ0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "Purpose: Educate",
+          "Series: Gemma3 Launch",
+          "google developers",
+          "AI",
+          "Gemma",
+          "GDS: Yes",
+          "pr_pr: Google AI for Developers;",
+          "Purpose: Learn;",
+          "Video Type:DevByte;",
+          "gds:Yes;",
+          "developer",
+          "ct: AIG;",
+          "Gemma 3",
+          "how to quickly set up and run Google's Gemma 3",
+          "how to run Gemma 3 with Keras"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Announcing Gemma 3n Preview: Powerful, Efficient, Mobile-First AI",
+          "description": "We’re excited to announce Gemma 3n – a cutting-edge open model designed for fast, multimodal AI on devices, featuring optimized performance, unique flexibility with a 2-in-1 model, and expanded multimodal understanding with audio and video, empowering developers to build live, interactive applications that understand and interact based on the world around you. Real time on device demo powered by Android AICore running on Pixel Tensor.\n\nResources:\nLearn about Gemma 3n → https://goo.gle/3H3DFzW\nGemma 3n documentation → https://goo.gle/3GYK1k9 \nDiscover Gemma models → https://goo.gle/3FnCcnl\n\nSubscribe to Google for Developers → https://goo.gle/developers\n\nSpeaker: Lucas Gonzalez\nProducts mentioned: Gemma"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT5M48S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "304383",
+        "likeCount": "7685",
+        "favoriteCount": "0",
+        "commentCount": "401"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "c2fYHvMTCIKhQuccGbkwLWlq5uM",
+      "id": "HZvb2t3ZBBg",
+      "snippet": {
+        "publishedAt": "2025-05-27T17:21:43Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Google Home APIs, tools, and Gemini capabilities for your apps",
+        "description": "Learn how we are bringing Gemini to Google Home developers. With Gemini in the Home APIs, we'll share how developers can build AI-powered features directly in their own applications.\n\nResources: \nLearn more at the Google Home developer website → https://goo.gle/io25-home  \nSign up for the Google Home developer newsletter → https://goo.gle/4c1nZID\n\nSpeaker: Taylor Lehman\n\nCheck out the AI session track from Google I/O 2025 → https://goo.gle/io25-ai-yt\nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\nEvent: Google I/O 2025\n\nProducts Mentioned: Smart Home",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HZvb2t3ZBBg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HZvb2t3ZBBg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HZvb2t3ZBBg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HZvb2t3ZBBg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HZvb2t3ZBBg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google I/O;",
+          "ct:Event - Technical Session;",
+          "ct:Stack - Android;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Google Home APIs, tools, and Gemini capabilities for your apps",
+          "description": "Learn how we are bringing Gemini to Google Home developers. With Gemini in the Home APIs, we'll share how developers can build AI-powered features directly in their own applications.\n\nResources: \nLearn more at the Google Home developer website → https://goo.gle/io25-home  \nSign up for the Google Home developer newsletter → https://goo.gle/4c1nZID\n\nSpeaker: Taylor Lehman\n\nCheck out the AI session track from Google I/O 2025 → https://goo.gle/io25-ai-yt\nCheck out all of the sessions from Google I/O 2025→ https://goo.gle/io25-sessions-yt \n\nSubscribe to Google for Developers → https://goo.gle/developers\n\nEvent: Google I/O 2025\n\nProducts Mentioned: Smart Home"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT9M2S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "5481",
+        "likeCount": "100",
+        "favoriteCount": "0",
+        "commentCount": "7"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "SQL9USvBXwtrJRiEoW22qsvVhr8",
+      "id": "fln0EP1_PCQ",
+      "snippet": {
+        "publishedAt": "2025-05-27T13:01:20Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "How many computations would be needed for a brute force approach? Go!",
+        "description": "You need to arrange seats for 9 team members all in a single row while following specific seating rules. How many computations would be needed for a brute force approach? Is there a way to find the answer with many fewer computations? Share your solution in the comments.\n\nSubscribe to Google for Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fln0EP1_PCQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fln0EP1_PCQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fln0EP1_PCQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fln0EP1_PCQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fln0EP1_PCQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google for Developers;",
+          "Purpose: Learn;",
+          "Campaign: ;",
+          "Video Type:G4D SV: Educational ;",
+          "ct: ;;",
+          "gds:Yes;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "How many computations would be needed for a brute force approach? Go!",
+          "description": "You need to arrange seats for 9 team members all in a single row while following specific seating rules. How many computations would be needed for a brute force approach? Is there a way to find the answer with many fewer computations? Share your solution in the comments.\n\nSubscribe to Google for Developers → https://goo.gle/developers"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT47S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "4750",
+        "likeCount": "137",
+        "favoriteCount": "0",
+        "commentCount": "13"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "01Dv7PFdNBVtXpbSeA0L9FRatFM",
+      "id": "nrakQhg_lf8",
+      "snippet": {
+        "publishedAt": "2025-05-23T23:18:03Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Google I/O '25 Developer Keynote - Audio Described",
+        "description": "Learn about the latest updates to our developer products and platforms.\n\n00:00:00 Introduction\n00:01:19 Building with Gemini\n00:15:17 Android\n00:30:26 Web\n00:48:48 Firebase Studio\n00:56:25 Gemma\n01:07:37 Closing \n\nTo watch this keynote interpreted in American Sign Language (ASL), please click here: \nhttps://youtube.com/watch?v=bcVhGOKF628\n\n\nSubscribe to Google Developers → https://goo.gle/developers\n\n#GoogleIO \n\nEvent: Google I/O 2025",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nrakQhg_lf8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nrakQhg_lf8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nrakQhg_lf8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nrakQhg_lf8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nrakQhg_lf8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "tags": [
+          "Google",
+          "developers",
+          "pr_pr: Google I/O;",
+          "ct:Event - Developer Keynote;",
+          "ct:Stack - AI;",
+          "ct:Stack - Android;",
+          "ct:Stack - Cloud;",
+          "ct:Stack - Web;"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Google I/O '25 Developer Keynote - Audio Described",
+          "description": "Learn about the latest updates to our developer products and platforms.\n\n00:00:00 Introduction\n00:01:19 Building with Gemini\n00:15:17 Android\n00:30:26 Web\n00:48:48 Firebase Studio\n00:56:25 Gemma\n01:07:37 Closing \n\nTo watch this keynote interpreted in American Sign Language (ASL), please click here: \nhttps://youtube.com/watch?v=bcVhGOKF628\n\n\nSubscribe to Google Developers → https://goo.gle/developers\n\n#GoogleIO \n\nEvent: Google I/O 2025"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1H10M3S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3072",
+        "likeCount": "57",
+        "favoriteCount": "0"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 50,
+    "resultsPerPage": 50
+  }
+}
